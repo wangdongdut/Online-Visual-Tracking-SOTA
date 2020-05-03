@@ -4,8 +4,8 @@ This page focuses on watching the state-of-the-art performance for the short-ter
 LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100. 
 
 * **TOP-1 Performance on All Datasets:**
-     | Datasets(Metric) | LaSOT(Success) | VOT2019(EAO) | VOT2018(EAO) | TrackingNet(Success) | NFS(Success) | UAV123(Success) |
-     | TC-128(Success)  | OTB-100(Success) |
+
+     | Datasets(Metric) | LaSOT(Success) | VOT2019(EAO) | VOT2018(EAO) | TrackingNet(Success) | NFS(Success) | UAV123(Success) |TC-128(Success)  | OTB-100(Success) |
      |:-----------      |:--------------:|:------------:|:------------:|:--------------:|:------------:|:------------:|:------------:|:------------:|
 
 
