@@ -38,17 +38,17 @@ LaSOT, VOT2019, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
 * **TC-128:**
 
 * **OTB-100/OTB-2015:**
-     | Tracker                   | Success Score    | Speed (fps) | Paper/Code |
-     |:-----------               |:----------------:|:----------------:|:----------------:|
-     | SiamAttn (CVPR20)         | 0.712  |  45 (RTX 2080Ti)  | [Paper](https://arxiv.org/pdf/2004.06711.pdf)/[Code]() |
-     | UPDT (ECCV2018)           | 0.702  |                   |           |
-     | Siam R-CNN (CVPR20)       | 0.701  |  5 (Tesla V100)   | [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
-     | DRT (CVPR18)              | 0.699  | 
-     | PrDiMP50 (CVPR20)         | 0.696  |  30 (Unkown GPU)  | [Paper](https://arxiv.org/pdf/2003.12565.pdf)/[Code](https://github.com/visionml/pytracking)  |  
-     | SiamRPN++ (CVPR19)        | 0.696  |  35 (Titan XP)    | [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_SiamRPN_Evolution_of_Siamese_Visual_Tracking_With_Very_Deep_Networks_CVPR_2019_paper.pdf)/[Code](https://github.com/STVIR/pysot) |
-     | SiamBAN (CVPR20)          | 0.696  |  40 (GTX 1080Ti)  | [Paper](https://arxiv.org/pdf/2003.06761.pdf)/[Code](https://github.com/hqucv/siamban) |  
-     | ASRCF(CVPR19)             | 0.692  |                   | [Paper]()[Code]()|
-     | ECO ()                    | 0.691  |                   | [Paper]()[Code]()|
-     | DiMP50 (ICCV19)           | 0.687  |  30 (TITAN X)     | [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Bhat_Learning_Discriminative_Model_Prediction_for_Tracking_ICCV_2019_paper.pdf)[Code](https://github.com/visionml/pytracking)|
-     | MDNet (CVPR16)            | 0.678  |  5 (GTX 1080Ti)       | [Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Nam_Learning_Multi-Domain_Convolutional_CVPR_2016_paper.pdf)/[Code](https://github.com/hyeonseobnam/py-MDNet) |
-     | RT-MDNet (ECCV18)         | 0.650   | | |
+     | Tracker                   | Success Score    | Precision Score | Speed (fps) | Paper/Code |
+     |:-----------               |:----------------:|:----------------:|:----------------:|:----------------:|
+     | SiamAttn (CVPR20)         | 0.712  | 0.712  | 45 (RTX 2080Ti)  | [Paper](https://arxiv.org/pdf/2004.06711.pdf)/[Code]() |
+     | UPDT (ECCV2018)           | 0.702  | 0.712  |                  |           |
+     | Siam R-CNN (CVPR20)       | 0.701  | 0.712  | 5 (Tesla V100)   | [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
+     | DRT (CVPR18)              | 0.699  | 0.712  |
+     | PrDiMP50 (CVPR20)         | 0.696  | 0.712  | 30 (Unkown GPU)  | [Paper](https://arxiv.org/pdf/2003.12565.pdf)/[Code](https://github.com/visionml/pytracking)  |  
+     | SiamRPN++ (CVPR19)        | 0.696  | 0.712  | 35 (Titan XP)    | [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_SiamRPN_Evolution_of_Siamese_Visual_Tracking_With_Very_Deep_Networks_CVPR_2019_paper.pdf)/[Code](https://github.com/STVIR/pysot) |
+     | SiamBAN (CVPR20)          | 0.696  | 0.712  | 40 (GTX 1080Ti)  | [Paper](https://arxiv.org/pdf/2003.06761.pdf)/[Code](https://github.com/hqucv/siamban) |  
+     | ASRCF(CVPR19)             | 0.692  | 0.712  |                  | [Paper]()[Code]()|
+     | ECO ()                    | 0.691  | 0.712  |                  | [Paper]()[Code]()|
+     | DiMP50 (ICCV19)           | 0.687  | 0.712  | 30 (TITAN X)     | [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Bhat_Learning_Discriminative_Model_Prediction_for_Tracking_ICCV_2019_paper.pdf)[Code](https://github.com/visionml/pytracking)|
+     | MDNet (CVPR16)            | 0.678  | 0.712  | 5 (GTX 1080Ti)       | [Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Nam_Learning_Multi-Domain_Convolutional_CVPR_2016_paper.pdf)/[Code](https://github.com/hyeonseobnam/py-MDNet) |
+     | RT-MDNet (ECCV18)         | 0.650   |0.712  | | |
