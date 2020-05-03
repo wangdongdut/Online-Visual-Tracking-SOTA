@@ -67,6 +67,8 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
      | PrDiMP50 (CVPR20)         | 0.634  | 30 (Unkown GPU)  | [Paper](https://arxiv.org/pdf/2003.12565.pdf)/[Code](https://github.com/visionml/pytracking)  |  
      | DiMP50 (ICCV19)           | 0.611  | 43 (GTX 1080)   | [Paper](https://arxiv.org/pdf/1904.07220.pdf)/[Code](https://github.com/visionml/pytracking)  |
      | ATOM (CVPR19)             | 0.556  |  30 (GTX 1080)    |   [Paper](https://arxiv.org/pdf/1811.07628.pdf)/[Code](https://github.com/visionml/pytracking)  |
+     
+     * The performance on GOT-10k has been improved signicantly after ATOM. Here merely list the trackers perform better than **ATOM**. 
 
 * **NFS:**
 
