@@ -52,4 +52,5 @@ LaSOT, VOT2019, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
      | ECO ()                    | 0.691  | 0.712  |                  | [Paper]()[Code]()|
 
 
-    * Too many trackers are tested on OTB-100, here merely list the SOTA trackers whose success scores are larger than 0.69. 
+    * Too many trackers are tested on OTB-100, here merely list the SOTA trackers whose success scores are larger than **0.690**. 
+    * OTB-50 and OTB-2013 are similar subsets of OTB-100. 
