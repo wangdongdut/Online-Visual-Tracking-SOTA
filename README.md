@@ -57,6 +57,7 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
      | LADCF (VOT2018)           | 0.389  |  0.503  |  0.159  | [Code](https://github.com/XU-TIANYANG/LADCF) |
     
     * VOT2018 and VOT2017 have same sequences. VOT2013 to VOT2016 are small-scale and out-of-date. 
+    * LADCF is the best tracker in the original [VOT2018](http://prints.vicos.si/publications/365) report. 
 
 * **TrackingNet:**
 
