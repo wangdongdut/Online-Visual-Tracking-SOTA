@@ -46,6 +46,7 @@ LaSOT, VOT2019, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
      | DRT (CVPR18)              | 0.699  | 
      | PrDiMP50 (CVPR20)         | 0.696  |  30 (Unkown GPU)  |   [Paper](https://arxiv.org/pdf/2003.12565.pdf)/[Code](https://github.com/visionml/pytracking)  |  
      | SiamRPN++ (CVPR19)        | 0.696  |  35 (Titan XP)    |   [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_SiamRPN_Evolution_of_Siamese_Visual_Tracking_With_Very_Deep_Networks_CVPR_2019_paper.pdf)/[Code](https://github.com/STVIR/pysot) |
+     | SiamBAN (CVPR20)          | 0.696  |  40 (GTX 1080Ti)  |   [Paper](https://arxiv.org/pdf/2003.06761.pdf)/[Code](https://github.com/hqucv/siamban) |  
      | ASRCF(CVPR19)             | 0.692  |                   | |
      | ECO ()                    | 0.691  |                   | |
      | DiMP50 ()                 | 0.687  |                   | |
