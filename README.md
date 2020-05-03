@@ -50,6 +50,6 @@ LaSOT, VOT2019, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
      | SACF (ECCV18)             | 0.693  | 0.917  | 23 (GTX Titan)   | [Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/mengdan_zhang_Visual_Tracking_via_ECCV_2018_paper.pdf)|
      | ASRCF(CVPR19)             | 0.692  | 0.922  | 28 (GTX 1080Ti)  | [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Dai_Visual_Tracking_via_Adaptive_Spatially-Regularized_Correlation_Filters_CVPR_2019_paper.pdf)/[Code](https://github.com/Daikenan/ASRCF)|
      | ECO ()                    | 0.691  | 0.712  |                  | [Paper]()[Code]()|
-     | DiMP50 (ICCV19)           | 0.687  | 0.712  | 30 (TITAN X)     | [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Bhat_Learning_Discriminative_Model_Prediction_for_Tracking_ICCV_2019_paper.pdf)[Code](https://github.com/visionml/pytracking)|
-     | MDNet (CVPR16)            | 0.678  | 0.712  | 5 (GTX 1080Ti)       | [Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Nam_Learning_Multi-Domain_Convolutional_CVPR_2016_paper.pdf)/[Code](https://github.com/hyeonseobnam/py-MDNet) |
-     | RT-MDNet (ECCV18)         | 0.650   |0.712  | | |
+
+
+    * Too many trackers are tested on OTB-100, here merely list the SOTA algorithms whose success scores are larger than 0.69. 
