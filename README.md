@@ -44,6 +44,7 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
     
      | Tracker                   | EAO    | Accuracy (A) | Robustness (R) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|:----------------:|
+     | D3S (CVPR20)              | 0.489  |  0.640  | 0.150   | [Paper](https://arxiv.org/pdf/1911.08862.pdf)/[Code](https://github.com/alanlukezic/d3s) | 
      | SiamAttn (CVPR20)         | 0.470  |  0.63   | 0.16    | [Paper](https://arxiv.org/pdf/2004.06711.pdf)/[Code]() |
      | MAML-Retina (CVPR20)      | 0.452  |  0.604  | 0.159   |  [Paper](https://arxiv.org/pdf/2004.00830.pdf)/[Code]() | 
      | SiamBAN (CVPR20)          | 0.452  |  0.597  | 0.178   |  [Paper](https://arxiv.org/pdf/2003.06761.pdf)/[Code](https://github.com/hqucv/siamban) |  
