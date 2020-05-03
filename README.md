@@ -1,7 +1,7 @@
 # Online-Visual-Tracking-SOTA
 
 This page focuses on watching the state-of-the-art performance for the short-term tracking task (if you are interested in the long-term tracking task, please visit [here](https://github.com/wangdongdut/Long-term-Visual-Tracking)). The evaluation datasets include: 
-LaSOT, VOT2019, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100. 
+LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100. 
 
 * **LaSOT:**
 
@@ -25,7 +25,7 @@ LaSOT, VOT2019, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
 
     * MDNet is the best tracker in the original [LaSOT](https://cis.temple.edu/lasot/) paper. 
 
-* **VOT2019/VOT2018:**   
+* **VOT2018:**   
 
      | Tracker                   | EAO    | Accuracy (A) | Robustness (R) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|:----------------:|
@@ -41,7 +41,10 @@ LaSOT, VOT2019, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
      | DRNet (VOT2019)           | 0.395  |  0.605  |  0.261  | [Code](https://github.com/ShuaiBai623/DRNet)|
 
     * DRNet is the best tracker in the original [VOT2019](http://prints.vicos.si/publications/375) report. 
-    * VOT2019 and VOT2018 have same sequences. VOT2013 to VOT2017 are small-scale and out-of-date. 
+    
+ * **VOT2018:**  
+    
+    * VOT2018 and VOT2017 have same sequences. VOT2013 to VOT2016 are small-scale and out-of-date. 
 
 * **TrackingNet:**
 
