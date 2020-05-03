@@ -44,7 +44,7 @@ LaSOT, VOT2019, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
      | DRNet (VOT2019)              | 0.395  | 0.605  |    0.261  | [Code](https://github.com/ShuaiBai623/DRNet)|
 
     * DRNet is the best tracker in the original [VOT2019](http://prints.vicos.si/publications/375) report. 
-    * VOT2019 and VOT2018 have same sequences. VOT2013 to VOT2017 are too old. 
+    * VOT2019 and VOT2018 have same sequences. VOT2013 to VOT2017 are small-scale and out-of-date. 
 
 * **TrackingNet:**
 
