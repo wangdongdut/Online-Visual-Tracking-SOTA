@@ -5,9 +5,10 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
 
 * **TOP-1 Performance on All Datasets:**
 
-     | Datasets(Metric)| LaSOT(S) | VOT2019(EAO) | VOT2018(EAO) | TrackingNet(S) | Got-10k| NFS(S) | UAV123(S) |TC-128(S) | OTB-100(S) |
-     |:-----------     |:--------:|:------------:|:------------:|:--------------:|:------:|:------:|:---------:|:--------:|:----------:|
-     |                 |   0.648  | VOT2019(EAO) | VOT2018(EAO) |     0.812      | 0.649  | NFS(S) | UAV123(S) |TC-128(S) |    0.712   |
+     | Datasets| LaSOT    | VOT2019 | VOT2018 | TrackingNet | Got-10k  |   NFS    | UAV123  | TC-128   | OTB-100 |
+     | Metric  | Success  |   EAO   |   EAO   |   Success   | Success  | Success  | Success | Success  | Success |
+     |:--------|:--------:|:-------:|:-------:|:-----------:|:--------:|:--------:|:-------:|:--------:|:--------:|
+     |         |   0.648  |   0.712 |  0.712  |     0.812   |  0.649   |  0.712   |  0.712  |  0.712   |  0.712 |
 
 * **LaSOT:**
 
