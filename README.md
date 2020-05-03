@@ -8,7 +8,7 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
      | LaSOT    | VOT2019 | VOT2018 | TrackingNet | Got-10k  |   NFS    | UAV123  | TC-128   | OTB-100 |
      |:--------:|:-------:|:-------:|:-----------:|:-----------:|:--------:|:-------:|:--------:|:-----------:|
      | Success  |   EAO   |   EAO   |   Success   | Success  | Success  | Success | Success  | Success |
-     |   0.648  |   0.712 |  0.712  |     0.812   |  0.649   |  0.639   |  0.680  |  0.712   |  0.712 |
+     |   0.648  |   0.712 |  0.712  |     0.812   |  0.649   |  0.639   |  0.680  |  0.649   |  0.712 |
 
 * **LaSOT:**
 
@@ -88,7 +88,7 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
 
 * **UAV123:**
 
-     | Tracker                   | Success Score (AO) | Speed (fps) | Paper/Code |
+     | Tracker                   |   Success Score  | Speed (fps) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|
      | PrDiMP50 (CVPR20)         | 0.680  | 30 (Unkown GPU)  | [Paper](https://arxiv.org/pdf/2003.12565.pdf)/[Code](https://github.com/visionml/pytracking)  |  
      | DiMP50 (ICCV19)           | 0.654  | 43 (GTX 1080)    | [Paper](https://arxiv.org/pdf/1904.07220.pdf)/[Code](https://github.com/visionml/pytracking)  |
@@ -98,7 +98,7 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
 
 * **TC-128:**
 
-     | Tracker                   | Success Score (AO) | Speed (fps) | Paper/Code |
+     | Tracker                   |   Success Score  | Speed (fps) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|
      | Siam R-CNN (CVPR20)       | 0.649  | 5 (Tesla V100)   | [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) | 
      | UPDT (ECCV2018)           | 0.622  |      N/A         | [Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Goutam_Bhat_Unveiling_the_Power_ECCV_2018_paper.pdf)  |
