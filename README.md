@@ -25,12 +25,12 @@ LaSOT, VOT2019, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
 
     * MDNet is the best tracker in the original [LaSOT](https://cis.temple.edu/lasot/) paper. 
 
-* **VOT2019:**
+* **VOT2019:**   
 
      | Tracker                   | EAO    | Accuracy (A) | Robustness (R) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|:----------------:|
-     | SiamAttn (CVPR20)         | 0.712  | 0.926  | 45 (RTX 2080Ti)  | [Paper](https://arxiv.org/pdf/2004.06711.pdf)/[Code]() |
-     | PrDiMP50 (CVPR20)         | 0.442  |  0.618   | 0.165  | [Paper](https://arxiv.org/pdf/2003.12565.pdf)/[Code](https://github.com/visionml/pytracking)  |  
+     | SiamAttn (CVPR20)         | 0.470  |  0.63   | 0.16    | [Paper](https://arxiv.org/pdf/2004.06711.pdf)/[Code]() |
+     | PrDiMP50 (CVPR20)         | 0.442  |  0.618  | 0.165   | [Paper](https://arxiv.org/pdf/2003.12565.pdf)/[Code](https://github.com/visionml/pytracking)  |  
      | SiamRPN++ (CVPR19)        | 0.414  |  0.600  | 0.234   | [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_SiamRPN_Evolution_of_Siamese_Visual_Tracking_With_Very_Deep_Networks_CVPR_2019_paper.pdf)/[Code](https://github.com/STVIR/pysot) |
      | MCCT (CVPR18)             | 0.696  | 0.914  | 8 (GTX 1080Ti)   | [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Multi-Cue_Correlation_Filters_CVPR_2018_paper.pdf)/[Code](https://github.com/594422814/MCCT) |
      | SiamBAN (CVPR20)          | 0.696  | 0.910  | 40 (GTX 1080Ti)  | [Paper](https://arxiv.org/pdf/2003.06761.pdf)/[Code](https://github.com/hqucv/siamban) | 
@@ -39,8 +39,8 @@ LaSOT, VOT2019, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
      | **ASRCF(CVPR19)**             | 0.692  | 0.922  | 28 (GTX 1080Ti)  | [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Dai_Visual_Tracking_via_Adaptive_Spatially-Regularized_Correlation_Filters_CVPR_2019_paper.pdf)/[Code](https://github.com/Daikenan/ASRCF) |
      | **LSART (CVPR18)**            | 0.691  | 0.923  |  1 (Titan X)     | [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sun_Learning_Spatial-Aware_Regressions_CVPR_2018_paper.pdf)/[Code](https://github.com/cswaynecool/LSART) |
      
-     | Siam R-CNN (CVPR20)       | 0.408  | 0.609  | 0.220   | [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
-     | DRNet (VOT2019)              | 0.395  | 0.605  |    0.261  | [Code](https://github.com/ShuaiBai623/DRNet)|
+     | ATOM (CVPR19)                | 0.401  | 0.590  |  0.204  | XXX |
+     | DRNet (VOT2019)              | 0.395  | 0.605  |  0.261  | [Code](https://github.com/ShuaiBai623/DRNet)|
      
      
      
