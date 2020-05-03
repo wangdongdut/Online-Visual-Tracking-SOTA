@@ -1,6 +1,7 @@
 # Online-Visual-Tracking-SOTA
 
-This page focuses on watching the state-of-the-art performance for the short-term tracking task (if you are interested in the long-term tracking task, please visit [here](https://github.com/wangdongdut/Long-term-Visual-Tracking)).
+This page focuses on watching the state-of-the-art performance for the short-term tracking task (if you are interested in the long-term tracking task, please visit [here](https://github.com/wangdongdut/Long-term-Visual-Tracking)). The evaluation datasets include: 
+LaSOT, VOT2019, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100. 
 
 * **LaSOT:**
 
@@ -34,6 +35,6 @@ This page focuses on watching the state-of-the-art performance for the short-ter
 
 * **UAV123:**
 
-* **OTB-100/OTB-2015:**
-
 * **TC-128:**
+
+* **OTB-100/OTB-2015:**
