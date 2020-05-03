@@ -3,7 +3,7 @@
 This page focuses on watching the state-of-the-art performance for the short-term tracking task (if you are interested in the long-term tracking task, please visit [here](https://github.com/wangdongdut/Long-term-Visual-Tracking)). The evaluation datasets include: 
 LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100. 
 
-* **TOP-1 Performance on All Datasets:**
+* **TOP-One Performance on All Datasets:**
 
      | LaSOT    | VOT2019 | VOT2018 | TrackingNet | Got-10k  |   NFS    | UAV123  | TC-128   | OTB-100 |
      |:--------:|:-------:|:-------:|:-----------:|:-----------:|:--------:|:-------:|:--------:|:-----------:|
