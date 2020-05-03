@@ -40,7 +40,7 @@ LaSOT, VOT2019, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
 * **OTB-100/OTB-2015:**
      | Tracker                   | Success Score    | Precision Score | Speed (fps) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|:----------------:|
-     | SiamAttn (CVPR20)         | 0.712  | 0.712  | 45 (RTX 2080Ti)  | [Paper](https://arxiv.org/pdf/2004.06711.pdf)/[Code]() |
+     | SiamAttn (CVPR20)         | 0.712  | 0.926  | 45 (RTX 2080Ti)  | [Paper](https://arxiv.org/pdf/2004.06711.pdf)/[Code]() |
      | UPDT (ECCV2018)           | 0.702  | 0.712  |                  |           |
      | Siam R-CNN (CVPR20)       | 0.701  | 0.712  | 5 (Tesla V100)   | [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
      | DRT (CVPR18)              | 0.699  | 0.712  |
