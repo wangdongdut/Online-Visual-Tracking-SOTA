@@ -52,10 +52,6 @@ LaSOT, VOT2019, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
      | SiamAttn (CVPR20)         | 0.752  | 0.817  | 45 (RTX 2080Ti)  | [Paper](https://arxiv.org/pdf/2004.06711.pdf)/[Code]() |
      | SiamRPN++ (CVPR19)        | 0.696  | 0.914  | 35 (Titan XP)    | [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_SiamRPN_Evolution_of_Siamese_Visual_Tracking_With_Very_Deep_Networks_CVPR_2019_paper.pdf)/[Code](https://github.com/STVIR/pysot) |
      | SiamBAN (CVPR20)          | 0.696  | 0.910  | 40 (GTX 1080Ti)  | [Paper](https://arxiv.org/pdf/2003.06761.pdf)/[Code](https://github.com/hqucv/siamban) | 
-     | GFS-DCF (ICCV19)          | 0.693  | 0.932  |  8 (Titan X)     | [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Joint_Group_Feature_Selection_and_Discriminative_Filter_Learning_for_Robust_ICCV_2019_paper.pdf)/[Code](https://github.com/XU-TIANYANG/GFS-DCF) |    
-     | SACF (ECCV18)             | 0.693  | 0.917  | 23 (GTX Titan)   | [Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/mengdan_zhang_Visual_Tracking_via_ECCV_2018_paper.pdf)|
-     | ASRCF(CVPR19)             | 0.692  | 0.922  | 28 (GTX 1080Ti)  | [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Dai_Visual_Tracking_via_Adaptive_Spatially-Regularized_Correlation_Filters_CVPR_2019_paper.pdf)/[Code](https://github.com/Daikenan/ASRCF) |
-     | LSART (CVPR18)            | 0.691  | 0.923  |  1 (Titan X)     | [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sun_Learning_Spatial-Aware_Regressions_CVPR_2018_paper.pdf)/[Code](https://github.com/cswaynecool/LSART) |
      | ECO (ICCV17)              | 0.691  | N/A  |    8 (Unkown GPU)  | [Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Danelljan_ECO_Efficient_Convolution_CVPR_2017_paper.pdf)/[M-Code](https://github.com/martin-danelljan/ECO)/[P-Code](https://github.com/visionml/pytracking)|
 
 * **GOT-10k:**
