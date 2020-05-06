@@ -228,10 +228,31 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
 
      * VITAL: VIsual Tracking via Adversarial Learning. CVPR, 2018.  <br /> Yibing Song, Chao Ma, Xiaohe Wu, Lijun Gong, Linchao Bao, Wangmeng Zuo, Chunhua Shen, Rynson W.H. Lau, Ming-Hsuan Yang. [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Song_VITAL_VIsual_Tracking_CVPR_2018_paper.pdf)]
 
+     * Distractor-aware Siamese Networks for Visual Object Tracking. ECCV, 2018.  <br /> Zheng Zhu, Qiang Wang, Bo Li, Wei Wu, Junjie Yan, Weiming Hu. [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zheng_Zhu_Distractor-aware_Siamese_Networks_ECCV_2018_paper.pdf)] 
+     
+     * Learning Dynamic Memory Networks for Object Tracking. ECCV, 2018.  <br /> Tianyu Yang, Antoni B. Chan. [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tianyu_Yang_Learning_Dynamic_Memory_ECCV_2018_paper.pdf)] 
+     
+     * TrackingNet: A Large-Scale Dataset and Benchmark for Object Tracking in the Wild. ECCV, 2018.  <br />  Matthias Muller, Adel Bibi, Silvio Giancola, Salman Alsubaihi, Bernard Ghanem. [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Matthias_Muller_TrackingNet_A_Large-Scale_ECCV_2018_paper.pdf)] 
+     
+     * Structured Siamese Network for Real-Time Visual Tracking. ECCV, 2018.  <br /> Yunhua Zhang, Lijun Wang, Jinqing Qi, Dong Wang, Mengyang Feng, Huchuan Lu. [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yunhua_Zhang_Structured_Siamese_Network_ECCV_2018_paper.pdf)] 
+     
+     * Triplet Loss in Siamese Network for Object Tracking. ECCV, 2018.  <br /> Xingping Dong, Jianbing Shen. [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xingping_Dong_Triplet_Loss_with_ECCV_2018_paper.pdf)]
+     
+     * Real-time 'Actor-Critic' Tracking. ECCV, 2018.  <br />  Boyu Chen, Dong Wang, Peixia Li, Shuang Wang, Huchuan Lu. [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Boyu_Chen_Real-time_Actor-Critic_Tracking_ECCV_2018_paper.pdf)] 
+     
+     * Joint Representation and Truncated Inference Learning for Correlation Filter based Tracking. ECCV, 2018.  <br />  Yingjie Yao, Xiaohe Wu, Lei Zhang, Shiguang Shan, Wangmeng Zuo. [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yingjie_Yao_Joint_Representation_and_ECCV_2018_paper.pdf)] 
+     
+     * Visual Tracking via Spatially Aligned Correlation Filters Network. ECCV, 2018.  <br />  Mengdan Zhang, Qiang Wang, Junliang Xing, Jin Gao, Peixi Peng, Weiming Hu, Steve Maybank. [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/mengdan_zhang_Visual_Tracking_via_ECCV_2018_paper.pdf)] 
+     
+     * Deep Reinforcement Learning with Iterative Shift for Visual Tracking. ECCV, 2018.  <br />  Liangliang Ren, Xin Yuan, Jiwen Lu, Ming Yang, Jie Zhou. [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Liangliang_Ren_Deep_Reinforcement_Learning_ECCV_2018_paper.pdf)] 
+     
+     * Cross-Modal Ranking with Soft Consistency and Noisy Labels for Robust RGB-T Tracking. ECCV, 2018.  <br /> Chenglong Li, Chengli Zhu, Yan Huang, Jin Tang, Liang Wang. [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Chenglong_Li_Cross-Modal_Ranking_with_ECCV_2018_paper.pdf)]
+     
+     * Long-term Tracking in the Wild: a Benchmark. ECCV, 2018.  <br /> Jack Valmadre, Luca Bertinetto, Joao F. Henriques, Ran Tao, Andrea Vedaldi, Arnold W.M. Smeulders, Philip H.S. Torr, Efstratios Gavves. [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Efstratios_Gavves_Long-term_Tracking_in_ECCV_2018_paper.pdf)] 
+     
+     * Deep Regression Tracking with Shrinkage Loss. ECCV, 2018.  <br /> Xiankai Lu, Chao Ma, Bingbing Ni, Xiaokang Yang, Ian Reid, Ming-Hsuan Yang. [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiankai_Lu_Deep_Regression_Tracking_ECCV_2018_paper.pdf)]
 
-. ECCV, 2018.  <br />   
-
-. [[Paper]()]
+     * Unveiling the Power of Deep Tracking. ECCV, 2018.  <br /> Goutam Bhat, Joakim Johnander, Martin Danelljan, Fahad Shahbaz Khan, Michael Felsberg. [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Goutam_Bhat_Unveiling_the_Power_ECCV_2018_paper.pdf)]
 
 * **2017:**
 
