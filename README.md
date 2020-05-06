@@ -324,6 +324,16 @@ Heng Fan, Haibin Ling. [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/p
      * Structural Correlation Filter for Robust Visual Tracking. CVPR, 2016.  <br /> Si Liu, Tianzhu Zhang, Xiaochun Cao, Changsheng Xu. [[Paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Liu_Structural_Correlation_Filter_CVPR_2016_paper.pdf)] 
      
      * Visual Tracking Using Attention-Modulated Disintegration and Integration. CVPR, 2016.  <br /> Jongwon Choi, Hyung Jin Chang, Jiyeoup Jeong, Yiannis Demiris, Jin Young Choi. [[Paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Choi_Visual_Tracking_Using_CVPR_2016_paper.pdf)] 
+     
+     * A Benchmark and Simulator for UAV Tracking. ECCV, 2016.  <br /> Matthias Mueller, Bernard Ghanem, Neil Smith. 
+     
+     * Distractor-supported single target tracking in extremely cluttered scenes. ECCV, 2016.  <br /> Jingjing Xiao, Linbo Qiao, Rustam Stolkin, leš Leonardis. 
+     
+     * Real-Time Visual Tracking: Promoting the Robustness of Correlation Filter Learning. ECCV, 2016.  <br /> Yao Sui, Ziming Zhang, Guanghui Wang, Yafei Tang, Li Zhang. 
+     
+      * Target Response Adaptation for Correlation Filter Tracking. ECCV, 2016.  <br />  Adel Bibi, Matthias Mueller, Bernard Ghanem. 
+      
+      * Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking. ECCV, 2016.  <br />  Martin Danelljan, Andreas Robinson, Fahad Khan, Michael Felsberg. 
 
 * **2015:**
      * Structural Sparse Tracking. CVPR, 2015.  <br /> Tianzhu Zhang, Si Liu, Changsheng Xu, Shuicheng Yan, Bernard Ghanem, Narendra Ahuja, Ming-Hsuan Yang. [[Paper](http://openaccess.thecvf.com/content_cvpr_2015/papers/Zhang_Structural_Sparse_Tracking_2015_CVPR_paper.pdf)]
