@@ -169,7 +169,8 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
 * **2014:**
 
 * **2013:**
-     * Visual Tracking via Locality Sensitive Histograms. Shengfeng He, Qingxiong Yang, Rynson W.H. Lau, Jiang Wang, Ming-Hsuan Yang. CVPR, 2013. 
+     * Visual Tracking via Locality Sensitive Histograms. CVPR, 2013. 
+       Shengfeng He, Qingxiong Yang, Rynson W.H. Lau, Jiang Wang, Ming-Hsuan Yang. 
      * Online Object Tracking: A Benchmark. Yi Wu, Jongwoo Lim, Ming-Hsuan Yang. CVPR, 2013. 
      * Learning Compact Binary Codes for Visual Tracking. Xi Li, Chunhua Shen, Anthony Dick, Anton van den Hengel. CVPR, 2013. 
      * Least Soft-Threshold Squares Tracking. Dong Wang, Huchuan Lu, Ming-Hsuan Yang. CVPR, 2013. 
