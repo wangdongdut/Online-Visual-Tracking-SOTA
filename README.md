@@ -471,5 +471,7 @@ Heng Fan, Haibin Ling. [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/p
      * Orderless Tracking through Model-Averaged Posterior Estimation. ICCV, 2013. <br /> Seunghoon Hong, Suha Kwak, Bohyung Han. 
      
 * **Before 2013:**
-
      
+## Survery & Book: 
+       
+     * Huchuan Lu, Dong Wang, Online Visual Tracking, Springer, 2019
