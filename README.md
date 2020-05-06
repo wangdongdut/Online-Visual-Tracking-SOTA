@@ -255,6 +255,48 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
      * Unveiling the Power of Deep Tracking. ECCV, 2018.  <br /> Goutam Bhat, Joakim Johnander, Martin Danelljan, Fahad Shahbaz Khan, Michael Felsberg. [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Goutam_Bhat_Unveiling_the_Power_ECCV_2018_paper.pdf)]
 
 * **2017:**
+     * Context-Aware Correlation Filter Tracking. CVPR, 2017.  <br /> Matthias Mueller, Neil Smith, Bernard Ghanem. [[Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Mueller_Context-Aware_Correlation_Filter_CVPR_2017_paper.pdf)]
+     
+     * Superpixel-Based Tracking-By-Segmentation Using Markov Chains. CVPR, 2017.  <br /> Donghun Yeo, Jeany Son, Bohyung Han, Joon Hee Han. [[Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yeo_Superpixel-Based_Tracking-By-Segmentation_Using_CVPR_2017_paper.pdf)] 
+     
+     * Action-Decision Networks for Visual Tracking With Deep Reinforcement Learning. CVPR, 2017.  <br /> Sangdoo Yun, Jongwon Choi, Youngjoon Yoo, Kimin Yun, Jin Young Choi. [[Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yun_Action-Decision_Networks_for_CVPR_2017_paper.pdf)] 
+     
+     * End-To-End Representation Learning for Correlation Filter Based Tracking. CVPR, 2017.  <br /> Jack Valmadre, Luca Bertinetto, Joao Henriques, Andrea Vedaldi, Philip H. S. Torr. [[Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Valmadre_End-To-End_Representation_Learning_CVPR_2017_paper.pdf)] 
+     
+     * Large Margin Object Tracking With Circulant Feature Maps. CVPR, 2017.  <br /> Mengmeng Wang, Yong Liu, Zeyi Huang. [[Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_Large_Margin_Object_CVPR_2017_paper.pdf)] 
+     
+     * Multi-Task Correlation Particle Filter for Robust Object Tracking. CVPR, 2017.  <br /> Tianzhu Zhang, Changsheng Xu, Ming-Hsuan Yang. [[Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Multi-Task_Correlation_Particle_CVPR_2017_paper.pdf)] 
+     
+     * Attentional Correlation Filter Network for Adaptive Visual Tracking. CVPR, 2017.  <br /> Jongwon Choi, Hyung Jin Chang, Sangdoo Yun, Tobias Fischer, Yiannis Demiris, Jin Young Choi. [[Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Choi_Attentional_Correlation_Filter_CVPR_2017_paper.pdf)]  
+     
+     * Robust Visual Tracking Using Oblique Random Forests. CVPR, 2017.  <br /> Le Zhang, Jagannadan Varadarajan, Ponnuthurai Nagaratnam Suganthan, Narendra Ahuja, Pierre Moulin. [[Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Robust_Visual_Tracking_CVPR_2017_paper.pdf)] 
+     
+     * Tracking by Natural Language Specification. CVPR, 2017.  <br /> Zhenyang Li, Ran Tao, Efstratios Gavves, Cees G. M. Snoek, Arnold W.M. Smeulders. [[Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Tracking_by_Natural_CVPR_2017_paper.pdf)] 
+     
+     * ECO: Efficient Convolution Operators for Tracking. CVPR, 2017.  <br /> Martin Danelljan, Goutam Bhat, Fahad Shahbaz Khan, Michael Felsberg. [[Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Danelljan_ECO_Efficient_Convolution_CVPR_2017_paper.pdf)] 
+     
+     * Learning Policies for Adaptive Tracking With Deep Feature Cascades. ICCV, 2017.  <br /> Chen Huang, Simon Lucey, Deva Ramanan. [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Huang_Learning_Policies_for_ICCV_2017_paper.pdf)] 
+     
+     * Tracking as Online Decision-Making: Learning a Policy From Streaming Videos With Reinforcement Learning. ICCV, 2017.  <br /> James Supancic,III, Deva Ramanan. [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Supancic_Tracking_as_Online_ICCV_2017_paper.pdf)] 
+     
+     * Need for Speed: A Benchmark for Higher Frame Rate Object Tracking. ICCV, 2017.  <br /> Hamed Kiani Galoogahi, Ashton Fagg, Chen Huang, Deva Ramanan, Simon Lucey. [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Galoogahi_Need_for_Speed_ICCV_2017_paper.pdf)] 
+     
+     * Learning Background-Aware Correlation Filters for Visual Tracking. ICCV, 2017.  <br /> Hamed Kiani Galoogahi, Ashton Fagg, Simon Lucey. [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Galoogahi_Learning_Background-Aware_Correlation_ICCV_2017_paper.pdf)] 
+     
+     * Robust Object Tracking Based on Temporal and Spatial Deep Networks. ICCV, 2017.  <br /> Zhu Teng, Junliang Xing, Qiang Wang, Congyan Lang, Songhe Feng, Yi Jin. [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Teng_Robust_Object_Tracking_ICCV_2017_paper.pdf)] 
+     
+     * Learning Dynamic Siamese Network for Visual Object Tracking. ICCV, 2017.  <br /> Qing Guo, Wei Feng, Ce Zhou, Rui Huang, Liang Wan, Song Wang. [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Guo_Learning_Dynamic_Siamese_ICCV_2017_paper.pdf)] 
+     
+     * CREST: Convolutional Residual Learning for Visual Tracking. ICCV, 2017.  <br /> Yibing Song, Chao Ma, Lijun Gong, Jiawei Zhang, Rynson W. H. Lau, Ming-Hsuan Yang. [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Song_CREST_Convolutional_Residual_ICCV_2017_paper.pdf)] 
+     
+     * Beyond Standard Benchmarks: Parameterizing Performance Evaluation in Visual Object Tracking. ICCV, 2017.  <br /> Luka Cehovin Zajc, Alan Lukezic, Ales Leonardis, Matej Kristan. [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zajc_Beyond_Standard_Benchmarks_ICCV_2017_paper.pdf)] 
+     
+     * Parallel Tracking and Verifying: A Framework for Real-Time and High Accuracy Visual Tracking. ICCV, 2017.  <br />
+Heng Fan, Haibin Ling. [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Fan_Parallel_Tracking_and_ICCV_2017_paper.pdf)] 
+     
+     * Non-Rigid Object Tracking via Deformable Patches Using Shape-Preserved KCF and Level Sets. ICCV, 2017.  <br /> Xin Sun, Ngai-Man Cheung, Hongxun Yao, Yiluan Guo. [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Sun_Non-Rigid_Object_Tracking_ICCV_2017_paper.pdf)] 
+     
+     * Learning Policies for Adaptive Tracking With Deep Feature Cascades. ICCV, 2017.  <br /> Chen Huang, Simon Lucey, Deva Ramanan. [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Huang_Learning_Policies_for_ICCV_2017_paper.pdf)] 
 
 * **2016:**
 
