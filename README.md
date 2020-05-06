@@ -157,6 +157,38 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
 * **2020:**
 
 * **2019:**
+     * Unsupervised Deep Tracking. CVPR, 2019.  <br /> Ning Wang, Yibing Song, Chao Ma, Wengang Zhou, Wei Liu, Houqiang Li. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Unsupervised_Deep_Tracking_CVPR_2019_paper.pdf)]
+
+     * Fast Online Object Tracking and Segmentation: A Unifying Approach. CVPR, 2019.  <br /> Qiang Wang, Li Zhang, Luca Bertinetto, Weiming Hu, Philip H.S. Torr. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Fast_Online_Object_Tracking_and_Segmentation_A_Unifying_Approach_CVPR_2019_paper.pdf)] 
+     
+     * Object Tracking by Reconstruction With View-Specific Discriminative Correlation Filters. CVPR, 2019.  <br /> Ugur Kart, Alan Lukezic, Matej Kristan, Joni-Kristian Kamarainen, Jiri Matas. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kart_Object_Tracking_by_Reconstruction_With_View-Specific_Discriminative_Correlation_Filters_CVPR_2019_paper.pdf)] 
+     
+     * Target-Aware Deep Tracking. CVPR, 2019.  <br /> Xin Li, Chao Ma, Baoyuan Wu, Zhenyu He, Ming-Hsuan Yang. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Target-Aware_Deep_Tracking_CVPR_2019_paper.pdf)] 
+     
+     * SPM-Tracker: Series-Parallel Matching for Real-Time Visual Object Tracking. CVPR, 2019.  <br />  Guangting Wang, Chong Luo, Zhiwei Xiong, Wenjun Zeng. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_SPM-Tracker_Series-Parallel_Matching_for_Real-Time_Visual_Object_Tracking_CVPR_2019_paper.pdf)] 
+     
+     * SiamRPN++: Evolution of Siamese Visual Tracking With Very Deep Networks. CVPR, 2019.  <br />  Bo Li, Wei Wu, Qiang Wang, Fangyi Zhang, Junliang Xing, Junjie Yan. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_SiamRPN_Evolution_of_Siamese_Visual_Tracking_With_Very_Deep_Networks_CVPR_2019_paper.pdf)] 
+     
+     * Deeper and Wider Siamese Networks for Real-Time Visual Tracking. CVPR, 2019.  <br />  Zhipeng Zhang, Houwen Peng. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Deeper_and_Wider_Siamese_Networks_for_Real-Time_Visual_Tracking_CVPR_2019_paper.pdf)] 
+     
+     * Graph Convolutional Tracking. CVPR, 2019.  <br /> Junyu Gao, Tianzhu Zhang, Changsheng Xu. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gao_Graph_Convolutional_Tracking_CVPR_2019_paper.pdf)] 
+     
+     * ATOM: Accurate Tracking by Overlap Maximization. CVPR, 2019.  <br /> Martin Danelljan, Goutam Bhat, Fahad Shahbaz Khan, Michael Felsberg. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Danelljan_ATOM_Accurate_Tracking_by_Overlap_Maximization_CVPR_2019_paper.pdf)] 
+     
+     * Visual Tracking via Adaptive Spatially-Regularized Correlation Filters. CVPR, 2019.  <br />  Kenan Dai, Dong Wang, Huchuan Lu, Chong Sun, Jianhua Li. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Dai_Visual_Tracking_via_Adaptive_Spatially-Regularized_Correlation_Filters_CVPR_2019_paper.pdf)] 
+     
+     * LaSOT: A High-Quality Benchmark for Large-Scale Single Object Tracking. CVPR, 2019.  <br /> Heng Fan, Liting Lin, Fan Yang, Peng Chu, Ge Deng, Sijia Yu, Hexin Bai, Yong Xu, Chunyuan Liao, Haibin Ling. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Fan_LaSOT_A_High-Quality_Benchmark_for_Large-Scale_Single_Object_Tracking_CVPR_2019_paper.pdf)] 
+     
+     * ROI Pooled Correlation Filters for Visual Tracking. CVPR, 2019.  <br /> Yuxuan Sun, Chong Sun, Dong Wang, You He, Huchuan Lu. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_ROI_Pooled_Correlation_Filters_for_Visual_Tracking_CVPR_2019_paper.pdf)] 
+     
+     * Siamese Cascaded Region Proposal Networks for Real-Time Visual Tracking. CVPR, 2019.  <br /> Heng Fan, Haibin Ling. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Fan_Siamese_Cascaded_Region_Proposal_Networks_for_Real-Time_Visual_Tracking_CVPR_2019_paper.pdf)] 
+     
+     * 
+     
+. ICCV, 2019.  <br />   
+
+. [[Paper]()]
+
 
 * **2018:**
 
