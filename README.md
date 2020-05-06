@@ -169,61 +169,43 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
 * **2014:**
 
 * **2013:**
-     * Visual Tracking via Locality Sensitive Histograms. CVPR, 2013.  <br />
-       Shengfeng He, Qingxiong Yang, Rynson W.H. Lau, Jiang Wang, Ming-Hsuan Yang. 
+     * Visual Tracking via Locality Sensitive Histograms. CVPR, 2013.  <br /> Shengfeng He, Qingxiong Yang, Rynson W.H. Lau, Jiang Wang, Ming-Hsuan Yang. 
        
-     * Online Object Tracking: A Benchmark. CVPR, 2013.  <br /> 
-       Yi Wu, Jongwoo Lim, Ming-Hsuan Yang. 
+     * Online Object Tracking: A Benchmark. CVPR, 2013.  <br /> Yi Wu, Jongwoo Lim, Ming-Hsuan Yang. 
        
-     * Learning Compact Binary Codes for Visual Tracking. CVPR, 2013.  <br />  
-       Xi Li, Chunhua Shen, Anthony Dick, Anton van den Hengel. 
+     * Learning Compact Binary Codes for Visual Tracking. CVPR, 2013.  <br /> Xi Li, Chunhua Shen, Anthony Dick, Anton van den Hengel. 
        
-     * Least Soft-Threshold Squares Tracking. CVPR, 2013.  <br />  Dong Wang, Huchuan Lu, Ming-Hsuan Yang. 
+     * Least Soft-Threshold Squares Tracking. CVPR, 2013.  <br /> Dong Wang, Huchuan Lu, Ming-Hsuan Yang. 
        
-     * Part-Based Visual Tracking with Online Latent Structural Learning. CVPR, 2013.  <br />  
-       Rui Yao, Qinfeng Shi, Chunhua Shen, Yanning Zhang, Anton van den Hengel.
+     * Part-Based Visual Tracking with Online Latent Structural Learning. CVPR, 2013.  <br /> Rui Yao, Qinfeng Shi, Chunhua Shen, Yanning Zhang, Anton van den Hengel.
        
-     * Minimum Uncertainty Gap for Robust Visual Tracking. CVPR, 2013.  <br />   
-       Junseok Kwon, Kyoung Mu Lee.
+     * Minimum Uncertainty Gap for Robust Visual Tracking. CVPR, 2013.  <br /> Junseok Kwon, Kyoung Mu Lee.
        
-     * Structure Preserving Object Tracking. CVPR, 2013.  <br />  
-       Lu Zhang, Laurens van der Maaten. 
+     * Structure Preserving Object Tracking. CVPR, 2013.  <br /> Lu Zhang, Laurens van der Maaten. 
        
-     * Self-Paced Learning for Long-Term Tracking. CVPR, 2013.  <br />   
-       James S. Supancic III, Deva Ramanan. 
+     * Self-Paced Learning for Long-Term Tracking. CVPR, 2013.  <br /> James S. Supancic III, Deva Ramanan. 
        
-     * Tracking via Robust Multi-task Multi-view Joint Sparse Representation. ICCV, 2013.  <br /> 
-       Zhibin Hong, Xue Mei, Danil Prokhorov, Dacheng Tao. 
+     * Tracking via Robust Multi-task Multi-view Joint Sparse Representation. ICCV, 2013.  <br /> Zhibin Hong, Xue Mei, Danil Prokhorov, Dacheng Tao. 
        
-     * Online Robust Non-negative Dictionary Learning for Visual Tracking. ICCV, 2013.  <br />  
-       Naiyan Wang, Jingdong Wang, Dit-Yan Yeung. 
+     * Online Robust Non-negative Dictionary Learning for Visual Tracking. ICCV, 2013.  <br /> Naiyan Wang, Jingdong Wang, Dit-Yan Yeung. 
        
-     * Robust Object Tracking with Online Multi-lifespan Dictionary Learning. ICCV, 2013.   <br />
-       Junliang Xing, Jin Gao, Bing Li, Weiming Hu, Shuicheng Yan. 
+     * Robust Object Tracking with Online Multi-lifespan Dictionary Learning. ICCV, 2013.   <br /> Junliang Xing, Jin Gao, Bing Li, Weiming Hu, Shuicheng Yan. 
        
-     * Finding the Best from the Second Bests - Inhibiting Subjective Bias in Evaluation of Visual Tracking Algorithms. ICCV, 2013.    <br />
-       Yu Pang, Haibin Ling. 
+     * Finding the Best from the Second Bests - Inhibiting Subjective Bias in Evaluation of Visual Tracking Algorithms. ICCV, 2013.    <br /> Yu Pang, Haibin Ling. 
        
-     * PixelTrack: A Fast Adaptive Algorithm for Tracking Non-rigid Objects. ICCV, 2013. <br />
-       Stefan Duffner, Christophe Garcia. 
+     * PixelTrack: A Fast Adaptive Algorithm for Tracking Non-rigid Objects. ICCV, 2013. <br /> Stefan Duffner, Christophe Garcia. 
        
-     * Discriminant Tracking Using Tensor Representation with Semi-supervised Improvement.ICCV, 2013. <br />
-       Jin Gao, Junliang Xing, Weiming Hu, Steve Maybank. 
+     * Discriminant Tracking Using Tensor Representation with Semi-supervised Improvement.ICCV, 2013. <br /> Jin Gao, Junliang Xing, Weiming Hu, Steve Maybank. 
        
-     * Initialization-Insensitive Visual Tracking through Voting with Salient Local Features. ICCV, 2013. <br />
-       Kwang Moo Yi, Hawook Jeong, Byeongho Heo, Hyung Jin Chang, Jin Young Choi. 
+     * Initialization-Insensitive Visual Tracking through Voting with Salient Local Features. ICCV, 2013. <br /> Kwang Moo Yi, Hawook Jeong, Byeongho Heo, Hyung Jin Chang, Jin Young Choi. 
        
-     * Randomized Ensemble Tracking. ICCV, 2013. <br /> 
-       Qinxun Bai, Zheng Wu, Stan Sclaroff, Margrit Betke, Camille Monnier. 
+     * Randomized Ensemble Tracking. ICCV, 2013. <br /> Qinxun Bai, Zheng Wu, Stan Sclaroff, Margrit Betke, Camille Monnier. 
        
-     * Tracking Revisited Using RGBD Camera: Unified Benchmark and Baselines. ICCV, 2013. <br /> 
-       Shuran Song, Jianxiong Xiao. 
+     * Tracking Revisited Using RGBD Camera: Unified Benchmark and Baselines. ICCV, 2013. <br /> Shuran Song, Jianxiong Xiao. 
        
-     * Modeling Self-Occlusions in Dynamic Shape and Appearance Tracking. ICCV, 2013. <br /> 
-       Yanchao Yang, Ganesh Sundaramoorthi. 
+     * Modeling Self-Occlusions in Dynamic Shape and Appearance Tracking. ICCV, 2013. <br /> Yanchao Yang, Ganesh Sundaramoorthi. 
        
-     * Orderless Tracking through Model-Averaged Posterior Estimation. ICCV, 2013. <br /> 
-       Seunghoon Hong, Suha Kwak, Bohyung Han. 
+     * Orderless Tracking through Model-Averaged Posterior Estimation. ICCV, 2013. <br /> Seunghoon Hong, Suha Kwak, Bohyung Han. 
      
 * **2012:**
 
