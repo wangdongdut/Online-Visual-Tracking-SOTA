@@ -434,14 +434,6 @@ Heng Fan, Haibin Ling. [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/p
        
      * Orderless Tracking through Model-Averaged Posterior Estimation. ICCV, 2013. <br /> Seunghoon Hong, Suha Kwak, Bohyung Han. 
      
-* **2012:**
+* **Before 2013:**
 
-* **2011:**
-
-* **Before 2010:**
-
-     * Tracking in Low Frame Rate Video: A Cascade Particle Filter with Discriminative Observers of Different Lifespans. CVPR, 2007. <br /> Yuan Li, Haizhou Ai, Takayoshi Yamashita, Shihong Lao, and Masato Kawade
      
-     * Object Tracking by Asymmetric Kernel Mean Shift with Automatic Scale and Orientation Selection. CVPR, 2007. <br /> Alper Yilmaz 
-     
-     * Learning Features for Tracking. CVPR, 2007. <br /> Michael Grabner, Helmut Grabner, and Horst Bischof
