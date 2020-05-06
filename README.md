@@ -178,8 +178,7 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
      * Learning Compact Binary Codes for Visual Tracking. CVPR, 2013.  <br />  
        Xi Li, Chunhua Shen, Anthony Dick, Anton van den Hengel. 
        
-     * Least Soft-Threshold Squares Tracking. CVPR, 2013.  <br />  
-       Dong Wang, Huchuan Lu, Ming-Hsuan Yang. 
+     * Least Soft-Threshold Squares Tracking. CVPR, 2013.  <br />  Dong Wang, Huchuan Lu, Ming-Hsuan Yang. 
        
      * Part-Based Visual Tracking with Online Latent Structural Learning. CVPR, 2013.  <br />  
        Rui Yao, Qinfeng Shi, Chunhua Shen, Yanning Zhang, Anton van den Hengel.
