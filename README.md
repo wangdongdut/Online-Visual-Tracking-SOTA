@@ -200,9 +200,36 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
      * CDTB: A Color and Depth Visual Object Tracking Dataset and Benchmark. ICCV, 2019.  <br />  Alan Lukezic, Ugur Kart, Jani Kapyla, Ahmed Durmush, Joni-Kristian Kamarainen, Jiri Matas, Matej Kristan. [[Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Lukezic_CDTB_A_Color_and_Depth_Visual_Object_Tracking_Dataset_and_ICCV_2019_paper.pdf)]
 
 * **2018:**
+     * Context-Aware Deep Feature Compression for High-Speed Visual Tracking. CVPR, 2018.  <br /> Jongwon Choi, Hyung Jin Chang, Tobias Fischer, Sangdoo Yun, Kyuewang Lee, Jiyeoup Jeong, Yiannis Demiris, Jin Young Choi. [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_Context-Aware_Deep_Feature_CVPR_2018_paper.pdf)] 
+     
+     * Correlation Tracking via Joint Discrimination and Reliability Learning. CVPR, 2018.  <br /> Chong Sun, Dong Wang, Huchuan Lu, Ming-Hsuan Yang. [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sun_Correlation_Tracking_via_CVPR_2018_paper.pdf)]
+
+     * Hyperparameter Optimization for Tracking With Continuous Deep Q-Learning. CVPR, 2018.  <br /> Xingping Dong, Jianbing Shen, Wenguan Wang, Yu Liu, Ling Shao, Fatih Porikli. [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Dong_Hyperparameter_Optimization_for_CVPR_2018_paper.pdf)] 
+     
+     * End-to-End Flow Correlation Tracking With Spatial-Temporal Attention. CVPR, 2018.  <br />  Zheng Zhu, Wei Wu, Wei Zou, Junjie Yan. [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhu_End-to-End_Flow_Correlation_CVPR_2018_paper.pdf)] 
+     
+     * Efficient Diverse Ensemble for Discriminative Co-Tracking. CVPR, 2018.  <br />  Kourosh Meshgi, Shigeyuki Oba, Shin Ishii. [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Meshgi_Efficient_Diverse_Ensemble_CVPR_2018_paper.pdf)] 
+     
+     * A Twofold Siamese Network for Real-Time Object Tracking. CVPR, 2018.  <br /> Anfeng He, Chong Luo, Xinmei Tian, Wenjun Zeng. [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/He_A_Twofold_Siamese_CVPR_2018_paper.pdf)] 
+     
+     * Multi-Cue Correlation Filters for Robust Visual Tracking. CVPR, 2018.  <br /> Ning Wang, Wengang Zhou, Qi Tian, Richang Hong, Meng Wang, Houqiang Li. [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Multi-Cue_Correlation_Filters_CVPR_2018_paper.pdf)] 
+     
+     * Learning Attentions: Residual Attentional Siamese Network for High Performance Online Visual Tracking. CVPR, 2018.  <br />  Qiang Wang, Zhu Teng, Junliang Xing, Jin Gao, Weiming Hu, Stephen Maybank. [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Learning_Attentions_Residual_CVPR_2018_paper.pdf)] 
+     
+     * SINT++: Robust Visual Tracking via Adversarial Positive Instance Generation. CVPR, 2018.  <br />  Xiao Wang, Chenglong Li, Bin Luo, Jin Tang. [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_SINT_Robust_Visual_CVPR_2018_paper.pdf)] 
+     
+     * High-Speed Tracking With Multi-Kernel Correlation Filters. CVPR, 2018.  <br />  Ming Tang, Bin Yu, Fan Zhang, Jinqiao Wang. [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tang_High-Speed_Tracking_With_CVPR_2018_paper.pdf)] 
+     
+     * Learning Spatial-Temporal Regularized Correlation Filters for Visual Tracking. CVPR, 2018.  <br />  Feng Li, Cheng Tian, Wangmeng Zuo, Lei Zhang, Ming-Hsuan Yang. [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Learning_Spatial-Temporal_Regularized_CVPR_2018_paper.pdf)] 
+     
+     * Learning Spatial-Aware Regressions for Visual Tracking. CVPR, 2018.  <br /> Chong Sun, Dong Wang, Huchuan Lu, Ming-Hsuan Yang. [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sun_Learning_Spatial-Aware_Regressions_CVPR_2018_paper.pdf)] 
+     
+     * High Performance Visual Tracking With Siamese Region Proposal Network. CVPR, 2018.  <br />  Bo Li, Junjie Yan, Wei Wu, Zheng Zhu, Xiaolin Hu. [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_High_Performance_Visual_CVPR_2018_paper.pdf)]
+
+     * VITAL: VIsual Tracking via Adversarial Learning. CVPR, 2018.  <br /> Yibing Song, Chao Ma, Xiaohe Wu, Lijun Gong, Linchao Bao, Wangmeng Zuo, Chunhua Shen, Rynson W.H. Lau, Ming-Hsuan Yang. [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Song_VITAL_VIsual_Tracking_CVPR_2018_paper.pdf)]
 
 
-. ICCV, 2019.  <br />   
+. ECCV, 2018.  <br />   
 
 . [[Paper]()]
 
