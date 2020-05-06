@@ -167,6 +167,29 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
 * **2015:**
 
 * **2014:**
+     * Adaptive Color Attributes for Real-Time Visual Tracking. CVPR, 2014.  <br /> Martin Danelljan, Fahad Shahbaz Khan, Michael Felsberg, Joost van de Weijer. [[Paper](http://openaccess.thecvf.com/content_cvpr_2014/papers/Danelljan_Adaptive_Color_Attributes_2014_CVPR_paper.pdf)[
+
+    * Multi-Cue Visual Tracking Using Robust Feature-Level Fusion Based on Joint Sparse Representation. CVPR, 2014.  <br /> Xiangyuan Lan, Andy J. Ma, Pong C. Yuen. [[Paper](http://openaccess.thecvf.com/content_cvpr_2014/papers/Lan_Multi-Cue_Visual_Tracking_2014_CVPR_paper.pdf)]
+
+    * Multi-Forest Tracker: A Chameleon in Tracking. CVPR, 2014.  <br /> David J. Tan, Slobodan Ilic. [[Paper](http://openaccess.thecvf.com/content_cvpr_2014/papers/Tan_Multi-Forest_Tracker_A_2014_CVPR_paper.pdf)] 
+    
+    * Pyramid-based Visual Tracking Using Sparsity Represented Mean Transform. CVPR, 2014.  <br /> Zhe Zhang, Kin Hong Wong. [[Paper](http://openaccess.thecvf.com/content_cvpr_2014/papers/Zhang_Pyramid-based_Visual_Tracking_2014_CVPR_paper.pdf)] 
+    
+    * Partial Occlusion Handling for Visual Tracking via Robust Part Matching. CVPR, 2014.  <br /> Tianzhu Zhang, Kui Jia, Changsheng Xu, Yi Ma, Narendra Ahuja. [[Paper](http://openaccess.thecvf.com/content_cvpr_2014/papers/Zhang_Partial_Occlusion_Handling_2014_CVPR_paper.pdf)] 
+    
+    * Speeding Up Tracking by Ignoring Features. CVPR, 2014.  <br /> Lu Zhang, Hamdi Dibeklioglu, Laurens van der Maaten. [[Paper](http://openaccess.thecvf.com/content_cvpr_2014/papers/Zhang_Speeding_Up_Tracking_2014_CVPR_paper.pdf)] 
+    
+    * Online Object Tracking, Learning and Parsing with And-Or Graphs. CVPR, 2014.  <br /> Yang Lu, Tianfu Wu, Song Chun Zhu. [[Paper](http://openaccess.thecvf.com/content_cvpr_2014/papers/Lu_Online_Object_Tracking_2014_CVPR_paper.pdf)] 
+    
+    * Visual Tracking via Probability Continuous Outlier Model. CVPR, 2014.  <br /> Dong Wang, Huchuan Lu. [[Paper](http://openaccess.thecvf.com/content_cvpr_2014/papers/Wang_Visual_Tracking_via_2014_CVPR_paper.pdf)]  
+    
+    * Visual Tracking Using Pertinent Patch Selection and Masking. CVPR, 2014.  <br /> Dae-Youn Lee, Jae-Young Sim, Chang-Su Kim. [[Paper](http://openaccess.thecvf.com/content_cvpr_2014/papers/Lee_Visual_Tracking_Using_2014_CVPR_paper.pdf)]  
+    
+    * Interval Tracker: Tracking by Interval Analysis. CVPR, 2014.  <br /> Junseok Kwon, Kyoung Mu Lee. [[Paper](http://openaccess.thecvf.com/content_cvpr_2014/papers/Kwon_Interval_Tracker_Tracking_2014_CVPR_paper.pdf)]  
+    
+    * Unifying Spatial and Attribute Selection for Distracter-Resilient Tracking. CVPR, 2014.  <br /> Nan Jiang, Ying Wu. [[Paper](http://openaccess.thecvf.com/content_cvpr_2014/papers/Jiang_Unifying_Spatial_and_2014_CVPR_paper.pdf)]
+
+. CVPR, 2014.  <br />
 
 * **2013:**
      * Visual Tracking via Locality Sensitive Histograms. CVPR, 2013.  <br /> Shengfeng He, Qingxiong Yang, Rynson W.H. Lau, Jiang Wang, Ming-Hsuan Yang. 
