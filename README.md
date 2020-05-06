@@ -170,6 +170,13 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
 
 * **2013:**
      * Visual Tracking via Locality Sensitive Histograms. Shengfeng He, Qingxiong Yang, Rynson W.H. Lau, Jiang Wang, Ming-Hsuan Yang. CVPR, 2013. 
+     * Online Object Tracking: A Benchmark. Yi Wu, Jongwoo Lim, Ming-Hsuan Yang. CVPR, 2013. 
+     * Learning Compact Binary Codes for Visual Tracking. Xi Li, Chunhua Shen, Anthony Dick, Anton van den Hengel. CVPR, 2013. 
+     * Least Soft-Threshold Squares Tracking. Dong Wang, Huchuan Lu, Ming-Hsuan Yang. CVPR, 2013. 
+     * Part-Based Visual Tracking with Online Latent Structural Learning. Rui Yao, Qinfeng Shi, Chunhua Shen, Yanning Zhang, Anton van den Hengel. CVPR, 2013. 
+     * Minimum Uncertainty Gap for Robust Visual Tracking. Junseok Kwon, Kyoung Mu Lee. CVPR, 2013. 
+     * Structure Preserving Object Tracking. Lu Zhang, Laurens van der Maaten. CVPR, 2013.
+     * Self-Paced Learning for Long-Term Tracking. James S. Supancic III, Deva Ramanan. CVPR, 2013. 
 
 * **2012:**
 
