@@ -177,7 +177,18 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
      * Minimum Uncertainty Gap for Robust Visual Tracking. Junseok Kwon, Kyoung Mu Lee. CVPR, 2013. 
      * Structure Preserving Object Tracking. Lu Zhang, Laurens van der Maaten. CVPR, 2013.
      * Self-Paced Learning for Long-Term Tracking. James S. Supancic III, Deva Ramanan. CVPR, 2013. 
-
+     * Tracking via Robust Multi-task Multi-view Joint Sparse Representation. Zhibin Hong, Xue Mei, Danil Prokhorov, Dacheng Tao. ICCV, 2013.
+     * Online Robust Non-negative Dictionary Learning for Visual Tracking. Naiyan Wang, Jingdong Wang, Dit-Yan Yeung. ICCV, 2013. 
+     * Robust Object Tracking with Online Multi-lifespan Dictionary Learning. Junliang Xing, Jin Gao, Bing Li, Weiming Hu, Shuicheng Yan. ICCV, 2013. 
+     * Finding the Best from the Second Bests - Inhibiting Subjective Bias in Evaluation of Visual Tracking Algorithms. Yu Pang, Haibin Ling. ICCV, 2013. 
+     * PixelTrack: A Fast Adaptive Algorithm for Tracking Non-rigid Objects. Stefan Duffner, Christophe Garcia. ICCV, 2013. 
+     * Discriminant Tracking Using Tensor Representation with Semi-supervised Improvement. Jin Gao, Junliang Xing, Weiming Hu, Steve Maybank. ICCV, 2013.
+     * Initialization-Insensitive Visual Tracking through Voting with Salient Local Features. Kwang Moo Yi, Hawook Jeong, Byeongho Heo, Hyung Jin Chang, Jin Young Choi. ICCV, 2013.
+     * Randomized Ensemble Tracking. Qinxun Bai, Zheng Wu, Stan Sclaroff, Margrit Betke, Camille Monnier. ICCV, 2013. 
+     * Tracking Revisited Using RGBD Camera: Unified Benchmark and Baselines. Shuran Song, Jianxiong Xiao. ICCV, 2013. 
+     * Modeling Self-Occlusions in Dynamic Shape and Appearance Tracking. Yanchao Yang, Ganesh Sundaramoorthi. ICCV, 2013. 
+     * Orderless Tracking through Model-Averaged Posterior Estimation. Seunghoon Hong, Suha Kwak, Bohyung Han. ICCV, 2013. 
+     
 * **2012:**
 
 * **2011:**
