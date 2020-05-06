@@ -183,14 +183,28 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
      
      * Siamese Cascaded Region Proposal Networks for Real-Time Visual Tracking. CVPR, 2019.  <br /> Heng Fan, Haibin Ling. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Fan_Siamese_Cascaded_Region_Proposal_Networks_for_Real-Time_Visual_Tracking_CVPR_2019_paper.pdf)] 
      
-     * 
+     * Deep Meta Learning for Real-Time Target-Aware Visual Tracking. ICCV, 2019.  <br /> Janghoon Choi, Junseok Kwon, Kyoung Mu Lee. [[Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Choi_Deep_Meta_Learning_for_Real-Time_Target-Aware_Visual_Tracking_ICCV_2019_paper.pdf) 
      
+     * 'Skimming-Perusal' Tracking: A Framework for Real-Time and Robust Long-Term Tracking. ICCV, 2019.  <br />  Bin Yan, Haojie Zhao, Dong Wang, Huchuan Lu, Xiaoyun Yang. [[Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Skimming-Perusal_Tracking_A_Framework_for_Real-Time_and_Robust_Long-Term_Tracking_ICCV_2019_paper.pdf)] 
+     
+     * Learning Aberrance Repressed Correlation Filters for Real-Time UAV Tracking. ICCV, 2019.  <br />  Ziyuan Huang, Changhong Fu, Yiming Li, Fuling Lin, Peng Lu. [[Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_Learning_Aberrance_Repressed_Correlation_Filters_for_Real-Time_UAV_Tracking_ICCV_2019_paper.pdf)] 
+     
+     * Physical Adversarial Textures That Fool Visual Object Tracking. ICCV, 2019.  <br />  Rey Reza Wiyatno, Anqi Xu. [[Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wiyatno_Physical_Adversarial_Textures_That_Fool_Visual_Object_Tracking_ICCV_2019_paper.pdf)] 
+     
+     * GradNet: Gradient-Guided Network for Visual Object Tracking. ICCV, 2019.  <br /> Peixia Li, Boyu Chen, Wanli Ouyang, Dong Wang, Xiaoyun Yang, Huchuan Lu. [[Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_GradNet_Gradient-Guided_Network_for_Visual_Object_Tracking_ICCV_2019_paper.pdf)] 
+     
+     * Learning Discriminative Model Prediction for Tracking. ICCV, 2019.  <br />  Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte. [[Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Bhat_Learning_Discriminative_Model_Prediction_for_Tracking_ICCV_2019_paper.pdf)] 
+     
+     * Joint Group Feature Selection and Discriminative Filter Learning for Robust Visual Object Tracking. ICCV, 2019.  <br /> Tianyang Xu, Zhen-Hua Feng, Xiao-Jun Wu, Josef Kittler. [[Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Joint_Group_Feature_Selection_and_Discriminative_Filter_Learning_for_Robust_ICCV_2019_paper.pdf)] 
+     
+     * CDTB: A Color and Depth Visual Object Tracking Dataset and Benchmark. ICCV, 2019.  <br />  Alan Lukezic, Ugur Kart, Jani Kapyla, Ahmed Durmush, Joni-Kristian Kamarainen, Jiri Matas, Matej Kristan. [[Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Lukezic_CDTB_A_Color_and_Depth_Visual_Object_Tracking_Dataset_and_ICCV_2019_paper.pdf)]
+
+* **2018:**
+
+
 . ICCV, 2019.  <br />   
 
 . [[Paper]()]
-
-
-* **2018:**
 
 * **2017:**
 
