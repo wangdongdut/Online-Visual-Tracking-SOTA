@@ -299,6 +299,31 @@ Heng Fan, Haibin Ling. [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/p
      * Learning Policies for Adaptive Tracking With Deep Feature Cascades. ICCV, 2017.  <br /> Chen Huang, Simon Lucey, Deva Ramanan. [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Huang_Learning_Policies_for_ICCV_2017_paper.pdf)] 
 
 * **2016:**
+     * Beyond Local Search: Tracking Objects Everywhere With Instance-Specific Proposals. CVPR, 2016.  <br /> Gao Zhu, Fatih Porikli, Hongdong Li. [[Paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Zhu_Beyond_Local_Search_CVPR_2016_paper.pdf)] 
+     
+     * STCT: Sequentially Training Convolutional Networks for Visual Tracking. CVPR, 2016.  <br /> Lijun Wang, Wanli Ouyang, Xiaogang Wang, Huchuan Lu. [[Paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Wang_STCT_Sequentially_Training_CVPR_2016_paper.pdf)] 
+     
+     * Staple: Complementary Learners for Real-Time Tracking. CVPR, 2016.  <br /> Luca Bertinetto, Jack Valmadre, Stuart Golodetz, Ondrej Miksik, Philip H. S. Torr. [[Paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Bertinetto_Staple_Complementary_Learners_CVPR_2016_paper.pdf)] 
+     
+     * Siamese Instance Search for Tracking. CVPR, 2016.  <br /> Ran Tao, Efstratios Gavves, Arnold W.M. Smeulders. [[Paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Tao_Siamese_Instance_Search_CVPR_2016_paper.pdf)] 
+     
+     * Adaptive Decontamination of the Training Set: A Unified Formulation for Discriminative Visual Tracking. CVPR, 2016.  <br /> Martin Danelljan, Gustav Hager, Fahad Shahbaz Khan, Michael Felsberg. [[Paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Danelljan_Adaptive_Decontamination_of_CVPR_2016_paper.pdf)] 
+     
+     * Adaptive Decontamination of the Training Set: A Unified Formulation for Discriminative Visual Tracking. CVPR, 2016.  <br /> Martin Danelljan, Gustav Hager, Fahad Shahbaz Khan, Michael Felsberg. [[Paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Danelljan_Adaptive_Decontamination_of_CVPR_2016_paper.pdf)] 
+     
+     * Recurrently Target-Attending Tracking. CVPR, 2016.  <br /> Zhen Cui, Shengtao Xiao, Jiashi Feng, Shuicheng Yan. [[Paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Cui_Recurrently_Target-Attending_Tracking_CVPR_2016_paper.pdf)] 
+     
+     * In Defense of Sparse Tracking: Circulant Sparse Tracker. CVPR, 2016.  <br /> Tianzhu Zhang, Adel Bibi, Bernard Ghanem. [[Paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Zhang_In_Defense_of_CVPR_2016_paper.pdf)] 
+
+     * Object Tracking via Dual Linear Structured SVM and Explicit Feature Map. CVPR, 2016.  <br /> Jifeng Ning, Jimei Yang, Shaojie Jiang, Lei Zhang, Ming-Hsuan Yang. [[Paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Ning_Object_Tracking_via_CVPR_2016_paper.pdf)] 
+     
+     * Learning Multi-Domain Convolutional Neural Networks for Visual Tracking. CVPR, 2016.  <br /> Hyeonseob Nam, Bohyung Han. [[Paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Nam_Learning_Multi-Domain_Convolutional_CVPR_2016_paper.pdf)] 
+     
+     * Hedged Deep Tracking. CVPR, 2016.  <br /> Yuankai Qi, Shengping Zhang, Lei Qin, Hongxun Yao, Qingming Huang, Jongwoo Lim, Ming-Hsuan Yang. [[Paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Qi_Hedged_Deep_Tracking_CVPR_2016_paper.pdf)] 
+     
+     * Structural Correlation Filter for Robust Visual Tracking. CVPR, 2016.  <br /> Si Liu, Tianzhu Zhang, Xiaochun Cao, Changsheng Xu. [[Paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Liu_Structural_Correlation_Filter_CVPR_2016_paper.pdf)] 
+     
+     * Visual Tracking Using Attention-Modulated Disintegration and Integration. CVPR, 2016.  <br /> Jongwon Choi, Hyung Jin Chang, Jiyeoup Jeong, Yiannis Demiris, Jin Young Choi. [[Paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Choi_Visual_Tracking_Using_CVPR_2016_paper.pdf)] 
 
 * **2015:**
      * Structural Sparse Tracking. CVPR, 2015.  <br /> Tianzhu Zhang, Si Liu, Changsheng Xu, Shuicheng Yan, Bernard Ghanem, Narendra Ahuja, Ming-Hsuan Yang. [[Paper](http://openaccess.thecvf.com/content_cvpr_2015/papers/Zhang_Structural_Sparse_Tracking_2015_CVPR_paper.pdf)]
