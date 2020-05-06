@@ -473,5 +473,5 @@ Heng Fan, Haibin Ling. [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/p
 * **Before 2013:**
      
 ## Survery & Book: 
-       
+
      * Huchuan Lu, Dong Wang, Online Visual Tracking, Springer, 2019
