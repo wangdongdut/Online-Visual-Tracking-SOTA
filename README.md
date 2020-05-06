@@ -394,6 +394,32 @@ Heng Fan, Haibin Ling. [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/p
     * Interval Tracker: Tracking by Interval Analysis. CVPR, 2014.  <br /> Junseok Kwon, Kyoung Mu Lee. [[Paper](http://openaccess.thecvf.com/content_cvpr_2014/papers/Kwon_Interval_Tracker_Tracking_2014_CVPR_paper.pdf)]  
     
     * Unifying Spatial and Attribute Selection for Distracter-Resilient Tracking. CVPR, 2014.  <br /> Nan Jiang, Ying Wu. [[Paper](http://openaccess.thecvf.com/content_cvpr_2014/papers/Jiang_Unifying_Spatial_and_2014_CVPR_paper.pdf)]
+    
+    * Visual Tracking by Sampling Tree-Structured Graphical Models. ECCV, 2014.  <br /> Seunghoon Hong, Bohyung Han. 
+    
+    * Description-Discrimination Collaborative Tracking. ECCV, 2014.  <br /> Dapeng Chen, Zejian Yuan,Gang Hua, Yang Wu, Nanning Zheng. 
+    
+    * Online, Real-Time Tracking using a Category-to-Individual Detector. ECCV, 2014.  <br /> David Hall, Pietro Perona. 
+     
+     * Robust Visual Tracking with Double Bounding Box Model. ECCV, 2014.  <br /> Junseok Kwon, Junha Roh, Kyoung Mu Lee, Luc Van Gool. 
+     
+     * Transfer Learning Based Visual Tracking with Gaussian Process Regression. ECCV, 2014.  <br /> Jin Gao, Haibin Ling, Weiming Hu, Junliang Xing. 
+     
+     * Online Graph-Based Tracking. ECCV, 2014.  <br /> Hyeonseob Nam , Seunghoon Hong, Bohyung Han. 
+     
+     * Fast Visual Tracking via Dense Spatio-Temporal Context Learning. ECCV, 2014.  <br /> Kaihua Zhang, Lei Zhang, Qingshan Liu, David Zhang, Ming-Hsuan Yang. 
+     
+     * Extended Lucas-Kanade Tracking. ECCV, 2014.  <br /> Shaul Oron, Aharon Bar-Hillel, Shai Avidan. 
+     
+     * Appearances can be deceiving: Learning visual tracking from few trajectory annotations. ECCV, 2014.  <br /> Santiago Manen, Junseok Kwon, Matthieu Guillaumin, Luc Van Gool. 
+     
+     * Tracking using Multilevel Quantizations. ECCV, 2014.  <br /> Zhibin Hong, Chaohui Wang, Xue Mei, Danil Prokhorov, Dacheng Tao. 
+     
+     * Occlusing and Motion Reasoning for Long-term Tracking. ECCV, 2014.  <br /> Yang Hua, Karteek Alahari, Cordelia Schmid. 
+     
+     * MEEM: Robust Tracking via Multiple Experts using Entropy Minimization. ECCV, 2014.  <br /> Jianming Zhang, Shugao Ma, Stan Sclaroff. 
+     
+     * A Superior Tracking Approach: Building a strong Tracker through Fusion. ECCV, 2014.  <br /> Christian Bailer, Alain Pagani, Didier Stricker. 
 
 * **2013:**
      * Visual Tracking via Locality Sensitive Histograms. CVPR, 2013.  <br /> Shengfeng He, Qingxiong Yang, Rynson W.H. Lau, Jiang Wang, Ming-Hsuan Yang. 
