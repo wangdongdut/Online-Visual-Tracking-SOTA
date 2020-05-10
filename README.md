@@ -155,12 +155,26 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
 
 ## Conference Tracking Papers: 
 * **2020:**
-     * High-Performance Long-Term Tracking with Meta-Updater. CVPR, 2020.  <br /> Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang. [[Paper]()][[Code]()]
+     * High-Performance Long-Term Tracking with Meta-Updater. CVPR, 2020.  <br /> Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang. [[Paper]()][[Code](https://github.com/Daikenan/LTMU)]
      
-     * Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises. CVPR, 2020.  <br /> Bin Yan, Dong Wang, Huchuan Lu, Xiaoyun Yang. [[Paper]()][[Code]()]
+     * Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises. CVPR, 2020.  <br /> Bin Yan, Dong Wang, Huchuan Lu, Xiaoyun Yang. [[Paper]()][[Code](https://github.com/MasterBin-IIAU/CSA)]
      
+     * Siam R-CNN: Visual Tracking by Re-Detection. CVPR, 2020.  <br /> Paul Voigtlaender, Jonathon Luiten, Philip H. S. Torr, Bastian Leibe. [[Paper]()][[Code](https://github.com/VisualComputingInstitute/SiamR-CNN)]
+     
+     * Probabilistic Regression for Visual Tracking. CVPR, 2020.  <br /> Martin Danelljan, Luc Van Gool, Radu Timofte. [[Paper]()][[Code](https://github.com/visionml/pytracking)]
+     
+     * D3S - A Discriminative Single Shot Segmentation Tracker. CVPR, 2020.  <br /> Alan Lukezic, Jiri Matas, Matej Kristan.  [[Paper]()][[Code](https://github.com/alanlukezic/d3s)]
 
-
+     * Tracking by Instance Detection: A Meta-Learning Approach. CVPR, 2020.  <br /> Guangting Wang, Chong Luo, Xiaoyan Sun, Zhiwei Xiong, Wenjun Zeng: Tracking by Instance Detection: A Meta-Learning Approach.  [[Paper]()][[Code]()]
+     
+     * Deformable Siamese Attention Networks for Visual Object Tracking. CVPR, 2020.  <br />  Yuechen Yu, Yilei Xiong, Weilin Huang, Matthew R. Scott.  [[Paper]()][[Code]()] 
+     
+     * MAST: A Memory-Augmented Self-supervised Tracker. CVPR, 2020.  <br /> Zihang Lai, Erika Lu, Weidi Xie.  [[Paper]()][[Code]()] 
+     
+     * ROAM: Recurrently Optimizing Tracking Model. CVPR, 2020.  <br /> Tianyu Yang, Pengfei Xu, Runbo Hu, Hua Chai, Antoni B. Chan.  [[Paper]()][[Code]()]
+     
+     * AutoTrack: Towards High-Performance Visual Tracking for UAV with Automatic Spatio-Temporal Regularization. CVPR, 2020.  <br /> 
+Yiming Li, Changhong Fu, Fangqiang Ding, Ziyuan Huang, Geng Lu.  [[Paper]()][[Code]()] 
 
 * **2019:**
      * Unsupervised Deep Tracking. CVPR, 2019.  <br /> Ning Wang, Yibing Song, Chao Ma, Wengang Zhou, Wei Liu, Houqiang Li. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Unsupervised_Deep_Tracking_CVPR_2019_paper.pdf)][[Code](https://github.com/594422814/UDT)]
