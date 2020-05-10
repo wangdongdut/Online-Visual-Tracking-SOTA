@@ -155,6 +155,12 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
 
 ## Conference Tracking Papers: 
 * **2020:**
+     * High-Performance Long-Term Tracking with Meta-Updater. CVPR, 2020.  <br /> Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang. [[Paper]()][[Code]()]
+     
+     * Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises. CVPR, 2020.  <br /> Bin Yan, Dong Wang, Huchuan Lu, Xiaoyun Yang. [[Paper]()][[Code]()]
+     
+
+
 
 * **2019:**
      * Unsupervised Deep Tracking. CVPR, 2019.  <br /> Ning Wang, Yibing Song, Chao Ma, Wengang Zhou, Wei Liu, Houqiang Li. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Unsupervised_Deep_Tracking_CVPR_2019_paper.pdf)][[Code](https://github.com/594422814/UDT)]
