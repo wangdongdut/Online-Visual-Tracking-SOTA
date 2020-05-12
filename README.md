@@ -503,6 +503,8 @@ Heng Fan, Haibin Ling. [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/p
 
 * **Survey & Book:**
 
+    * Online Visual Tracking. Springer, 2019. <br />  Huchuan Lu, Dong Wang.
+
     * Deep Visual Tracking: Review and Experimental Comparison. PR, 2018. <br />  Peixia Li, Dong Wang, Lijun Wang, Huchuan Lu.
     
     * Visual Tracking: An Experimental Survey. IEEE TPAMI, 2014. <br /> Arnold W. M. Smeulders, Dung Manh Chu, Rita Cucchiara, Simone Calderara, Afshin Dehghan, Mubarak Shah. 
