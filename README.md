@@ -514,3 +514,9 @@ Heng Fan, Haibin Ling. [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/p
     * A Survey of Appearance Models in Visual Object Tracking. ACM TIST, 2013. <br /> Xi Li, Weiming Hu, Chunhua Shen, Zhongfei Zhang, Anthony R. Dick, Anton van den Hengel.  
     
     * Object Tracking: A Survey. ACM CS, 2006. <br /> Alper Yilmaz, Omar Javed, Mubarak Shah. 
+
+* **Resources:**
+
+     * [SiamTrackers](https://github.com/HonglinChu/SiamTrackers)：https://github.com/HonglinChu/SiamTrackers
+     
+     * [CFTrackers](https://github.com/HonglinChu/CFTrackers): https://github.com/HonglinChu/CFTrackers
