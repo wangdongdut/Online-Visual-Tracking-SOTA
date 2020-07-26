@@ -52,6 +52,7 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.
     
     * VOT2018 and VOT2017 have same sequences. VOT2013 to VOT2016 are small-scale and out-of-date. 
     * LADCF is the best tracker in the original [VOT2018](http://prints.vicos.si/publications/365) report. 
+    * The sequences of VOT2019 and VOT2018 have small differences, and few trackers has been tested on VOT2019. 
 
 * **TrackingNet:star2:**
 
