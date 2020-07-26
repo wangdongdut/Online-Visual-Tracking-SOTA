@@ -33,14 +33,6 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
 
     * MDNet is the best tracker in the original [LaSOT](https://cis.temple.edu/lasot/) paper. 
 
-* **VOT2019:**   
-
-     | Tracker                   | EAO    | Accuracy (A) | Robustness (R) | Paper/Code |
-     |:-----------               |:----------------:|:----------------:|:----------------:|:----------------:|
-     | DRNet (VOT2019)           | 0.395  |  0.605  |  0.261  | [Code](https://github.com/ShuaiBai623/DRNet)|
-
-    * DRNet is the best tracker in the original [VOT2019](http://prints.vicos.si/publications/375) report. 
-    
  * **VOT2018:**  
     
      | Tracker                   | EAO    | Accuracy (A) | Robustness (R) | Paper/Code |
@@ -109,7 +101,15 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
     * Too many trackers are tested on OTB-100, here merely list the SOTA trackers whose success scores are larger than **0.690**. 
     * OTB-50 and OTB-2013 are similar subsets of OTB-100. 
     * It seems that the OTB-100 dataset has already been overfitting. 
-    
+
+* **VOT2019:**   
+
+     | Tracker                   | EAO    | Accuracy (A) | Robustness (R) | Paper/Code |
+     |:-----------               |:----------------:|:----------------:|:----------------:|:----------------:|
+     | DRNet (VOT2019)           | 0.395  |  0.605  |  0.261  | [Code](https://github.com/ShuaiBai623/DRNet)|
+
+    * DRNet is the best tracker in the original [VOT2019](http://prints.vicos.si/publications/375) report. 
+   
 * **NFS:**
 
      | Tracker                   | Success Score    | Speed (fps) | Paper/Code |
