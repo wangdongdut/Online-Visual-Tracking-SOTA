@@ -5,12 +5,12 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
 
 * **TOP-One Performance on All Datasets:**
 
-     | LaSOT    |  VOT2018 | TrackingNet | Got-10k  | OTB-100 | VOT2019 | NFS    | UAV123  | TC-128   |
+     | **LaSOT**:star2:  |  **VOT2018**:star2: | **TrackingNet**:star2: | **Got-10k**:star2:  | **OTB-100**:star2: | VOT2019 | NFS    | UAV123  | TC-128   |
      |:--------:|:-------:|:-----------:|:-----------:|:--------:|:--------:|:-------:|:-------:|:--------:|
      | Success  |   EAO   |   Success   | Success  |  Success |  EAO   | Success  | Success | Success  |
      |  0.648   |  0.489  |     0.812   |  0.649   |  0.712   |  0.395 |0.639   |  0.680  |  0.649   |
 
-* **LaSOT:**
+* **LaSOT:star2:**
 
      | Tracker                   | Success Score    | Speed (fps) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|
@@ -33,7 +33,7 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
 
     * MDNet is the best tracker in the original [LaSOT](https://cis.temple.edu/lasot/) paper. 
 
- * **VOT2018:**  
+ * **VOT2018:star2:**  
     
      | Tracker                   | EAO    | Accuracy (A) | Robustness (R) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|:----------------:|
@@ -53,7 +53,7 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
     * VOT2018 and VOT2017 have same sequences. VOT2013 to VOT2016 are small-scale and out-of-date. 
     * LADCF is the best tracker in the original [VOT2018](http://prints.vicos.si/publications/365) report. 
 
-* **TrackingNet:**
+* **TrackingNet:star2:**
 
      | Tracker                   | Success Score    | Norm Precision Score | Speed (fps) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|:----------------:|
@@ -67,7 +67,7 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
      * The performance on TrackingNet is improved very fast. Here merely list the trackers performing better than **SiamRPN++**. 
      * TrackingNet Leaderboard：http://eval.tracking-net.org/web/challenges/challenge-page/39/leaderboard
 
-* **GOT-10k:**
+* **GOT-10k:star2:**
 
      | Tracker                   | Success Score (AO) | Speed (fps) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|
@@ -81,7 +81,7 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
      * The performance on GOT-10k has been improved significantly after ATOM. Here merely list the trackers performing better than **ATOM**. 
      * GOT-10k leaderboard: http://got-10k.aitestunion.com/leaderboard
 
-* **OTB-100/OTB-2015:**
+* **OTB-100/OTB-2015:star2:**
      | Tracker                   | Success Score    | Precision Score | Speed (fps) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|:----------------:|
      | SiamAttn (CVPR20)         | 0.712  | 0.926  | 45 (RTX 2080Ti)  | [Paper](https://arxiv.org/pdf/2004.06711.pdf)/[Code]() |
@@ -102,7 +102,7 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
     * OTB-50 and OTB-2013 are similar subsets of OTB-100. 
     * It seems that the OTB-100 dataset has already been overfitting. 
 
-* **VOT2019:**   
+* **VOT2019**   
 
      | Tracker                   | EAO    | Accuracy (A) | Robustness (R) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|:----------------:|
@@ -110,7 +110,7 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
 
     * DRNet is the best tracker in the original [VOT2019](http://prints.vicos.si/publications/375) report. 
    
-* **NFS:**
+* **NFS**
 
      | Tracker                   | Success Score    | Speed (fps) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|
@@ -118,7 +118,7 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
      | PrDiMP50 (CVPR20)         | 0.635  | 30 (Unkown GPU)  | [Paper](https://arxiv.org/pdf/2003.12565.pdf)/[Code](https://github.com/visionml/pytracking)  |  
      | DiMP50 (ICCV19)           | 0.620  | 43 (GTX 1080)    | [Paper](https://arxiv.org/pdf/1904.07220.pdf)/[Code](https://github.com/visionml/pytracking)  |
 
-* **UAV123:**
+* **UAV123**
 
      | Tracker                   |   Success Score  | Speed (fps) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|
@@ -128,7 +128,7 @@ LaSOT, VOT2019, VOT2018, TrackingNet, GOT-10k, NFS, UAV123, TC-128, OTB-100.
      | ATOM (CVPR19)             | 0.643  |  30 (GTX 1080)   | [Paper](https://arxiv.org/pdf/1811.07628.pdf)/[Code](https://github.com/visionml/pytracking)  |
      | SiamRPN++ (CVPR19)        | 0.642  |  35 (Titan XP)   | [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_SiamRPN_Evolution_of_Siamese_Visual_Tracking_With_Very_Deep_Networks_CVPR_2019_paper.pdf)/[Code](https://github.com/STVIR/pysot) |
 
-* **TC-128:**
+* **TC-128**
 
      | Tracker                   |   Success Score  | Speed (fps) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|
