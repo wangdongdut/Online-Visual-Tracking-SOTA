@@ -118,7 +118,8 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.
      | DRNet (VOT2019)           | 0.395  |  0.605  |  0.261  | [Code](https://github.com/ShuaiBai623/DRNet)|
 
     * DRNet is the best tracker in the original [VOT2019](http://prints.vicos.si/publications/375) report. 
-    * There is a small difference between VOT2019 and VOT2018. Few trackers was tested on this datasets and performed better than DRNet.
+    * There is a small difference between VOT2019 and VOT2018. VOT2018 is much more popular. 
+    * Few trackers was tested on this dataset and performed better than DRNet.
    
 * **NFS**
 
