@@ -533,13 +533,15 @@ Heng Fan, Haibin Ling. [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/p
 
      * [TracKit[Microsoft]](https://github.com/researchmm/TracKit)：https://github.com/researchmm/TracKit
      
+     * [pytracking[visionml]](https://github.com/visionml/pytracking)：https://github.com/visionml/pytracking
+     
+     * [pysot[STVIR]](https://github.com/STVIR/pysot)：https://github.com/STVIR/pysot
+     
      * [pysot-toolkit](https://github.com/StrangerZhang/pysot-toolkit)：https://github.com/StrangerZhang/pysot-toolkit
      
      * [SiamTrackers](https://github.com/HonglinChu/SiamTrackers)：https://github.com/HonglinChu/SiamTrackers
      
      * [CFTrackers](https://github.com/HonglinChu/CFTrackers): https://github.com/HonglinChu/CFTrackers
-     
-     
      
 * **Online Reports[Chinese]:**
 
