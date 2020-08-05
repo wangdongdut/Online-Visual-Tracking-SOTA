@@ -539,9 +539,13 @@ Heng Fan, Haibin Ling. [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/p
      
      * [pysot-toolkit](https://github.com/StrangerZhang/pysot-toolkit)：https://github.com/StrangerZhang/pysot-toolkit
      
+     * [SOT-MOT-Comparision](https://github.com/JudasDie/Comparision)：https://github.com/JudasDie/Comparision
+     
      * [SiamTrackers](https://github.com/HonglinChu/SiamTrackers)：https://github.com/HonglinChu/SiamTrackers
      
      * [CFTrackers](https://github.com/HonglinChu/CFTrackers): https://github.com/HonglinChu/CFTrackers
+     
+
      
 * **Online Reports[Chinese]:**
 
