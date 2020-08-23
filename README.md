@@ -55,13 +55,14 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
      | DiMP50 (ICCV19)           | 0.440  |  0.587  | 0.153   | [Paper](https://arxiv.org/pdf/1904.07220.pdf)/[Code](https://github.com/visionml/pytracking)  |
      | SiamFC++GoogLeNet (AAAI20)| 0.426  |  0.587  | 0.183   | [Paper](https://arxiv.org/pdf/1911.06188.pdf)/[Code](https://github.com/MegviiDetection/video_analyst) |
      | SiamRPN++ (CVPR19)        | 0.414  |  0.600  | 0.234   | [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_SiamRPN_Evolution_of_Siamese_Visual_Tracking_With_Very_Deep_Networks_CVPR_2019_paper.pdf)/[Code](https://github.com/STVIR/pysot) |     
-     | Siam R-CNN (CVPR20)       | 0.408  |  0.597  |  0.220  | [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |    
-     | ATOM (CVPR19)             | 0.401  |  0.590  |  0.204  | [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Danelljan_ATOM_Accurate_Tracking_by_Overlap_Maximization_CVPR_2019_paper.pdf)/[Code](https://github.com/visionml/pytracking) |
-     | LADCF (VOT2018)           | 0.389  |  0.503  |  0.159  | [Code](https://github.com/XU-TIANYANG/LADCF) |
+     <!--| Siam R-CNN (CVPR20)       | 0.408  |  0.597  |  0.220  | [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |   -->
+     <!--| ATOM (CVPR19)             | 0.401  |  0.590  |  0.204  | [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Danelljan_ATOM_Accurate_Tracking_by_Overlap_Maximization_CVPR_2019_paper.pdf)/[Code](https://github.com/visionml/pytracking) | -->
+     <!--| LADCF (VOT2018)           | 0.389  |  0.503  |  0.159  | [Code](https://github.com/XU-TIANYANG/LADCF) | -->
     
     * VOT2018 and VOT2017 have same sequences. VOT2013 to VOT2016 are small-scale and out-of-date. 
-    * LADCF is the best tracker in the original [VOT2018](http://prints.vicos.si/publications/365) report. 
+    <!--* LADCF is the best tracker in the original [VOT2018](http://prints.vicos.si/publications/365) report. -->
     * The sequences of VOT2019 and VOT2018 have small differences, and few trackers has been tested on VOT2019. 
+    * Only top-10 published trackers are reported here.
 
 * **TrackingNet:star2:**
 
