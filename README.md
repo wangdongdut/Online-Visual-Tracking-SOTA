@@ -47,9 +47,10 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
      |:-----------               |:----------------:|:----------------:|:----------------:|:----------------:|
      | Ocean (ECCV20)            | 0.489  |  0.592  | 0.117   | [Paper](https://arxiv.org/abs/2006.10721)/[Code](https://github.com/researchmm/TracKit) |  
      | D3S (CVPR20)              | 0.489  |  0.640  | 0.150   | [Paper](https://arxiv.org/pdf/1911.08862.pdf)/[Code](https://github.com/alanlukezic/d3s) |  
-     | SiamAttn (CVPR20)         | 0.470  |  0.630  | 0.16    | [Paper](https://arxiv.org/pdf/2004.06711.pdf)/[Code]() |
+     | SiamAttn (CVPR20)         | 0.470  |  0.630  | 0.160   | [Paper](https://arxiv.org/pdf/2004.06711.pdf)/[Code]() |
      | MAML-Retina (CVPR20)      | 0.452  |  0.604  | 0.159   | [Paper](https://arxiv.org/pdf/2004.00830.pdf)/[Code]() | 
      | SiamBAN (CVPR20)          | 0.452  |  0.597  | 0.178   | [Paper](https://arxiv.org/pdf/2003.06761.pdf)/[Code](https://github.com/hqucv/siamban) |  
+     | PG-Net (ECCV20)           | 0.447  |  0.618  | 0.192   | [Paper]()/[Code]()|
      | PrDiMP50 (CVPR20)         | 0.442  |  0.618  | 0.165   | [Paper](https://arxiv.org/pdf/2003.12565.pdf)/[Code](https://github.com/visionml/pytracking)  |  
      | DiMP50 (ICCV19)           | 0.440  |  0.587  | 0.153   | [Paper](https://arxiv.org/pdf/1904.07220.pdf)/[Code](https://github.com/visionml/pytracking)  |
      | SiamFC++GoogLeNet (AAAI20)| 0.426  |  0.587  | 0.183   | [Paper](https://arxiv.org/pdf/1911.06188.pdf)/[Code](https://github.com/MegviiDetection/video_analyst) |
