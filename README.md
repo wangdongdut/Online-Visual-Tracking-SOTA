@@ -31,7 +31,8 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
      <!-- | SPLT (ICCV19)             | 0.426  |  26 (GTX 1080Ti)   |   [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Skimming-Perusal_Tracking_A_Framework_for_Real-Time_and_Robust_Long-Term_Tracking_ICCV_2019_paper.pdf)/[Code](https://github.com/iiau-tracker/SPLT) | -->
      <!-- | MDNet (CVPR16)            | 0.397  |  5 (GTX 1080Ti)    |   [Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Nam_Learning_Multi-Domain_Convolutional_CVPR_2016_paper.pdf)/[Code](https://github.com/hyeonseobnam/py-MDNet) | -->
 
-    * MDNet is the best tracker in the original [LaSOT](https://cis.temple.edu/lasot/) paper. 
+    <!-- * MDNet is the best tracker in the original [LaSOT](https://cis.temple.edu/lasot/) paper.  -->
+    * **Only top-10 published trackers are reported here!**
     
  * **VOT2020:star2:**  
 
@@ -62,7 +63,7 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
     * VOT2018 and VOT2017 have same sequences. VOT2013 to VOT2016 are small-scale and out-of-date. 
     <!--* LADCF is the best tracker in the original [VOT2018](http://prints.vicos.si/publications/365) report. -->
     * The sequences of VOT2019 and VOT2018 have small differences, and few trackers has been tested on VOT2019. 
-    * Only top-10 published trackers are reported here.
+    * **Only top-10 published trackers are reported here!**
 
 * **TrackingNet:star2:**
 
@@ -89,8 +90,10 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
      | D3S (CVPR20)              | 0.597  | 25 (GTX 1080)    | [Paper](https://arxiv.org/pdf/1911.08862.pdf)/[Code](https://github.com/alanlukezic/d3s) | 
      | ATOM (CVPR19)             | 0.556  | 30 (GTX 1080)    | [Paper](https://arxiv.org/pdf/1811.07628.pdf)/[Code](https://github.com/visionml/pytracking)  |
      
-     * The performance on GOT-10k has been improved significantly after ATOM. Here merely list the trackers performing better than **ATOM**. 
+     * The performance on GOT-10k has been improved significantly after ATOM. <!-- Here merely list the trackers performing better than **ATOM**. -->
+     * **Only top-10 published trackers are reported here!**
      * GOT-10k leaderboard: http://got-10k.aitestunion.com/leaderboard
+     
 
 * **OTB-100/OTB-2015:star2:**
      | Tracker                   | Success Score    | Precision Score | Speed (fps) | Paper/Code |
@@ -105,11 +108,11 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
      | SiamBAN (CVPR20)          | 0.696  | 0.910  | 40 (GTX 1080Ti)  | [Paper](https://arxiv.org/pdf/2003.06761.pdf)/[Code](https://github.com/hqucv/siamban) | 
      | GFS-DCF (ICCV19)          | 0.693  | 0.932  |  8 (Titan X)     | [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Joint_Group_Feature_Selection_and_Discriminative_Filter_Learning_for_Robust_ICCV_2019_paper.pdf)/[Code](https://github.com/XU-TIANYANG/GFS-DCF) |    
      | SACF (ECCV18)             | 0.693  | 0.917  | 23 (GTX Titan)   | [Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/mengdan_zhang_Visual_Tracking_via_ECCV_2018_paper.pdf)|
-     | ASRCF(CVPR19)             | 0.692  | 0.922  | 28 (GTX 1080Ti)  | [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Dai_Visual_Tracking_via_Adaptive_Spatially-Regularized_Correlation_Filters_CVPR_2019_paper.pdf)/[Code](https://github.com/Daikenan/ASRCF) |
-     | LSART (CVPR18)            | 0.691  | 0.923  |  1 (Titan X)     | [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sun_Learning_Spatial-Aware_Regressions_CVPR_2018_paper.pdf)/[Code](https://github.com/cswaynecool/LSART) |
-     | ECO (CVPR17)              | 0.691  | N/A  |    8 (Unkown GPU)  | [Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Danelljan_ECO_Efficient_Convolution_CVPR_2017_paper.pdf)/[M-Code](https://github.com/martin-danelljan/ECO)/[P-Code](https://github.com/visionml/pytracking)|
+     <!--| ASRCF(CVPR19)             | 0.692  | 0.922  | 28 (GTX 1080Ti)  | [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Dai_Visual_Tracking_via_Adaptive_Spatially-Regularized_Correlation_Filters_CVPR_2019_paper.pdf)/[Code](https://github.com/Daikenan/ASRCF) | -->
+     <!--| LSART (CVPR18)            | 0.691  | 0.923  |  1 (Titan X)     | [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sun_Learning_Spatial-Aware_Regressions_CVPR_2018_paper.pdf)/[Code](https://github.com/cswaynecool/LSART) | -->
+     <!--| ECO (CVPR17)              | 0.691  | N/A  |    8 (Unkown GPU)  | [Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Danelljan_ECO_Efficient_Convolution_CVPR_2017_paper.pdf)/[M-Code](https://github.com/martin-danelljan/ECO)/[P-Code](https://github.com/visionml/pytracking)| -->
 
-    * Too many trackers are tested on OTB-100, here merely list the SOTA trackers whose success scores are larger than **0.690**. 
+    * Too many trackers are tested on OTB-100, **Only top-10 published trackers are reported here!**. 
     * OTB-50 and OTB-2013 are similar subsets of OTB-100. 
     * It seems that the OTB-100 dataset has already been overfitting. 
 
