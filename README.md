@@ -34,7 +34,7 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
      |:-----------               |:----------------:|:----------------:|:----------------:|:----------------:|
      | RPT:star2:                | 0.530 |  XXX | XXX   | [Paper]()/[Code]() |
      | OceanPlus                 | 0.491 |  XXX | XXX   | [Paper]()/[Code]() |
-     | AlphaRef:star2:           | 0.482 |  XXX | XXX   | [Paper]()/[Code]() |    
+     | AlphaRef:star2:           | 0.482 |  XXX | XXX   | [Paper](https://arxiv.org/abs/2007.02024)/[Code](https://github.com/MasterBin-IIAU/AlphaRefine) |    
      | AFOD                      | 0.472 |  XXX | XXX   | [Paper]()/[Code]() |  
      | LWTL                      | 0.463 |  XXX | XXX   | [Paper]()/[Code]() |
      | fastOcean                 | 0.461 |  XXX | XXX   | [Paper]()/[Code]() |  
