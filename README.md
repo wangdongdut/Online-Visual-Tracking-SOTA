@@ -32,7 +32,7 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
 
      | Tracker                   | EAO    | Accuracy (A) | Robustness (R) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|:----------------:|
-     | RPT:star2:                | 0.530 |  XXX | XXX   | [Paper]()/[Code]() |
+     | RPT (ECCVW2020):star2:    | 0.530 |  XXX | XXX   | [Paper](https://arxiv.org/pdf/2008.03467.pdf) |
      | OceanPlus                 | 0.491 |  XXX | XXX   | [Paper]()/[Code]() |
      | AlphaRef:star2:           | 0.482 |  XXX | XXX   | [Paper](https://arxiv.org/abs/2007.02024)/[Code](https://github.com/MasterBin-IIAU/AlphaRefine) |    
      | AFOD                      | 0.472 |  XXX | XXX   | [Paper]()/[Code]() |  
