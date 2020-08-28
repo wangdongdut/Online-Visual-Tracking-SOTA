@@ -9,6 +9,7 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
      |:--------:|:-------:|:-------:|:-----------:|:-----------:|:--------:|:--------:|:-------:|:-------:|:--------:|
      | Success  |   EAO   |   EAO   |   Success   | Success  |  Success |  EAO   | Success  | Success | Success  |
      |  0.648   |  0.530  |  0.510  |     0.812   |  0.649   |  0.715   |  0.417 | 0.639   |  0.680  |  0.649   |
+     |  Siam R-CNN (CVPR20)   |  RPT (ECCVW20) |  RPT (ECCVW20)  |     Siam R-CNN (CVPR20)   |  Siam R-CNN (CVPR20)  |  RPT (ECCVW20)   |  RPT (ECCVW20) | Siam R-CNN (CVPR20)   |  Siam R-CNN (CVPR20) |  Siam R-CNN (CVPR20)  |
 
 * **LaSOT:star2:**
 
