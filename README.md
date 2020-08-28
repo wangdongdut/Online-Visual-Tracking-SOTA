@@ -8,7 +8,7 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
      | **LaSOT**:star2:  |  **VOT2020**:star2: | **VOT2018**:star2: | **TrackingNet**:star2: | **Got-10k**:star2:  | **OTB-100**:star2: | VOT2019 | NFS    | UAV123  | TC-128   |
      |:--------:|:-------:|:-------:|:-----------:|:-----------:|:--------:|:--------:|:-------:|:-------:|:--------:|
      | Success  |   EAO   |   EAO   |   Success   | Success  |  Success |  EAO   | Success  | Success | Success  |
-     |  0.648   |   XXX   |  0.489  |     0.812   |  0.649   |  0.712   |  0.395 |0.639   |  0.680  |  0.649   |
+     |  0.648   |  0.530  |  0.510  |     0.812   |  0.649   |  0.715   |  0.417 | 0.639   |  0.680  |  0.649   |
 
 * **LaSOT:star2:**
 
@@ -32,7 +32,7 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
 
      | Tracker                   | EAO    | Accuracy (A) | Robustness (R) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|:----------------:|
-     | RPT (ECCVW20):star2:    | 0.530 |  XXX | XXX   | [Paper](https://arxiv.org/pdf/2008.03467.pdf) |
+     | RPT (ECCVW20):star2:      | 0.530 |  XXX | XXX   | [Paper](https://arxiv.org/pdf/2008.03467.pdf) |
      | OceanPlus                 | 0.491 |  XXX | XXX   | [Paper]()/[Code]() |
      | AlphaRef:star2:           | 0.482 |  XXX | XXX   | [Paper](https://arxiv.org/abs/2007.02024)/[Code](https://github.com/MasterBin-IIAU/AlphaRefine) |    
      | AFOD                      | 0.472 |  XXX | XXX   | [Paper]()/[Code]() |  
@@ -86,6 +86,7 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
      |:-----------               |:----------------:|:----------------:|:----------------:|
      | Siam R-CNN (CVPR20)       | 0.649  | 5 (Tesla V100)   | [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
      | PrDiMP50 (CVPR20)         | 0.634  | 30 (Unkown GPU)  | [Paper](https://arxiv.org/pdf/2003.12565.pdf)/[Code](https://github.com/visionml/pytracking)  |
+     | RPT (ECCVW20)             | 0.624  | 20 (GTX 1080Ti)  | [Paper](https://arxiv.org/pdf/2008.03467.pdf)|      
      | Ocean (ECCV20)            | 0.611  | 25 (Tesla V100)  | [Paper](https://arxiv.org/abs/2006.10721)/[Code](https://github.com/researchmm/TracKit) |  
      | DiMP50 (ICCV19)           | 0.611  | 43 (GTX 1080)    | [Paper](https://arxiv.org/pdf/1904.07220.pdf)/[Code](https://github.com/visionml/pytracking)  |
      | D3S (CVPR20)              | 0.597  | 25 (GTX 1080)    | [Paper](https://arxiv.org/pdf/1911.08862.pdf)/[Code](https://github.com/alanlukezic/d3s) | 
@@ -99,6 +100,7 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
 * **OTB-100/OTB-2015:star2:**
      | Tracker                   | Success Score    | Precision Score | Speed (fps) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|:----------------:|
+     | RPT (ECCVW20)             | 0.715  | 0.936  | 20 (GTX 1080Ti)  | [Paper](https://arxiv.org/pdf/2008.03467.pdf)|    
      | SiamAttn (CVPR20)         | 0.712  | 0.926  | 45 (RTX 2080Ti)  | [Paper](https://arxiv.org/pdf/2004.06711.pdf)/[Code]() |
      | UPDT (ECCV2018)           | 0.702  | 0.931  |      N/A         | [Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Goutam_Bhat_Unveiling_the_Power_ECCV_2018_paper.pdf)          |
      | Siam R-CNN (CVPR20)       | 0.701  | 0.891  | 5 (Tesla V100)   | [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
@@ -108,7 +110,6 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
      | MCCT (CVPR18)             | 0.696  | 0.914  | 8 (GTX 1080Ti)   | [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Multi-Cue_Correlation_Filters_CVPR_2018_paper.pdf)/[Code](https://github.com/594422814/MCCT) |
      | SiamBAN (CVPR20)          | 0.696  | 0.910  | 40 (GTX 1080Ti)  | [Paper](https://arxiv.org/pdf/2003.06761.pdf)/[Code](https://github.com/hqucv/siamban) | 
      | GFS-DCF (ICCV19)          | 0.693  | 0.932  |  8 (Titan X)     | [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Joint_Group_Feature_Selection_and_Discriminative_Filter_Learning_for_Robust_ICCV_2019_paper.pdf)/[Code](https://github.com/XU-TIANYANG/GFS-DCF) |    
-     | SACF (ECCV18)             | 0.693  | 0.917  | 23 (GTX Titan)   | [Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/mengdan_zhang_Visual_Tracking_via_ECCV_2018_paper.pdf)|
 
     * Too many trackers are tested on OTB-100, **Only top-10 published trackers are reported here!**. 
     * OTB-50 and OTB-2013 are similar subsets of OTB-100. 
@@ -118,6 +119,7 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
 
      | Tracker                   | EAO    | Accuracy (A) | Robustness (R) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|:----------------:|
+     | RPT (ECCVW20)             | 0.417  |  0.623  |  0.186  | [Paper](https://arxiv.org/pdf/2008.03467.pdf)|    
      | DRNet (VOT2019)           | 0.395  |  0.605  |  0.261  | [Code](https://github.com/ShuaiBai623/DRNet)|
 
     * DRNet is the best tracker in the original [VOT2019](http://prints.vicos.si/publications/375) report. 
