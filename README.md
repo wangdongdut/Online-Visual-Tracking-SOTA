@@ -175,6 +175,8 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
 
 * **2021:**
      * Transformer Tracking. CVPR, 2021.  <br /> Xin Chen, Bin Yan, Jiawen Zhu, Dong Wang, Xiaoyun yang, Huchuan Lu. [[Paper]()][[Code](https://github.com/Daikenan/LTMU)]
+     * Alpha-Refine: Boosting Tracking Performance by Precise Bounding Box Estimation. CVPR, 2021.  <br />  Bin Yan, Xinyu Zhang, Dong Wang, Huchuan Lu, Xiaoyun Yang.  [[Paper]()][[Code](https://github.com/Daikenan/LTMU)]
+
 
 * **2020:**
      * High-Performance Long-Term Tracking with Meta-Updater. CVPR, 2020.  <br /> Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang. [[Paper]()][[Code](https://github.com/Daikenan/LTMU)]
