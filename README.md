@@ -28,8 +28,8 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
      | GlobalTrack (AAAI20)      | 0.521  |  6 (GTX TitanX)   |   [Paper](https://arxiv.org/abs/1912.08531)/[Code](https://github.com/huanglianghua/GlobalTrack) |
      | ATOM (CVPR19)             | 0.515  |  30 (GTX 1080)    |   [Paper](https://arxiv.org/pdf/1811.07628.pdf)/[Code](https://github.com/visionml/pytracking)  |
 
-    <!-- * MDNet is the best tracker in the original [LaSOT](https://cis.temple.edu/lasot/) paper.  -->
-    * **Only top-10 published trackers are reported here!**
+
+    * **Baseline: ATOM, Ocean, DiMP**
     
 * **TrackingNet:star2:**
 
