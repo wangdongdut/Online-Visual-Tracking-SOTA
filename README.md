@@ -24,7 +24,7 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
      | Ocean (ECCV20)            | 0.560  |  25 (Tesla V100)  |   [Paper](https://arxiv.org/abs/2006.10721)/[Code](https://github.com/researchmm/TracKit) |  
      | GlobalTrack (AAAI20)      | 0.521  |  6 (GTX TitanX)   |   [Paper](https://arxiv.org/abs/1912.08531)/[Code](https://github.com/huanglianghua/GlobalTrack) |
 
-     * **Baseline(short-term): SiamRPN++, Ocean, DiMP**
+     * **Baseline(short-term): SiamRPN++, Ocean, DiMP, PrDiMP**
      * **Baseline(long-term): GlobalTrack, LTMU**
     
 * **TrackingNet:star2:**
@@ -40,7 +40,7 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
      
      * The performance on TrackingNet is improved very fast. Here merely list the trackers performing better than **SiamRPN++**. 
      * TrackingNet Leaderboard：http://eval.tracking-net.org/web/challenges/challenge-page/39/leaderboard
-     * **Baseline: SiamRPN++, Ocean, DiMP**
+     * **Baseline: SiamRPN++, Ocean, DiMP, PrDiMP**
 
 * **GOT-10k:star2:**
 
@@ -55,7 +55,7 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
      * The performance on GOT-10k has been improved significantly after ATOM. <!-- Here merely list the trackers performing better than **ATOM**. -->
      * **Only top-10 published trackers are reported here!**
      * GOT-10k leaderboard: http://got-10k.aitestunion.com/leaderboard
-     * **Baseline: SiamRPN++, Ocean, DiMP**
+     * **Baseline: SiamRPN++, Ocean, DiMP, PrDiMP**
 
  * **VOT2020:star2:**  
 
