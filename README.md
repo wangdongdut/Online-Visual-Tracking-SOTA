@@ -31,6 +31,38 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
     <!-- * MDNet is the best tracker in the original [LaSOT](https://cis.temple.edu/lasot/) paper.  -->
     * **Only top-10 published trackers are reported here!**
     
+* **TrackingNet:star2:**
+
+     | Tracker                   | Success Score    | Norm Precision Score | Speed (fps) | Paper/Code |
+     |:-----------               |:----------------:|:----------------:|:----------------:|:----------------:|
+     | TransT (CVPR21)           | 0.814  | 0.867   |50 (RTX 2080Ti)  |   [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |       
+     | Siam R-CNN (CVPR20)       | 0.812  | 0.854   | 5 (Tesla V100)   | [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
+     | ARDiMPsuper (CVPR21)      | 0.805  | 0.856   |33 (RTX 2080Ti)  |   [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
+     | PrDiMP50 (CVPR20)         | 0.758  | 0.816   | 30 (Unkown GPU)  | [Paper](https://arxiv.org/pdf/2003.12565.pdf)/[Code](https://github.com/visionml/pytracking)  |  
+     | MAML-FCOS (CVPR20)        |  0.757 | 0.822   | 42 (NVIDIA P100) | [Paper](https://arxiv.org/pdf/2004.00830.pdf)/[Code]() |
+     | SiamAttn (CVPR20)         | 0.752  | 0.817   | 45 (RTX 2080Ti)  | [Paper](https://arxiv.org/pdf/2004.06711.pdf)/[Code]() |
+     | DiMP50 (ICCV19)           | 0.740  | 0.801   |  43 (GTX 1080)   | [Paper](https://arxiv.org/pdf/1904.07220.pdf)/[Code](https://github.com/visionml/pytracking)  |
+     | SiamRPN++ (CVPR19)        | 0.733  | 0.800   | 35 (Titan XP)    | [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_SiamRPN_Evolution_of_Siamese_Visual_Tracking_With_Very_Deep_Networks_CVPR_2019_paper.pdf)/[Code](https://github.com/STVIR/pysot) |
+     
+     * The performance on TrackingNet is improved very fast. Here merely list the trackers performing better than **SiamRPN++**. 
+     * TrackingNet Leaderboard：http://eval.tracking-net.org/web/challenges/challenge-page/39/leaderboard
+
+* **GOT-10k:star2:**
+
+     | Tracker                   | Success Score (AO) | Speed (fps) | Paper/Code |
+     |:-----------               |:----------------:|:----------------:|:----------------:|
+     | Siam R-CNN (CVPR20)       | 0.649  | 5 (Tesla V100)   | [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
+     | PrDiMP50 (CVPR20)         | 0.634  | 30 (Unkown GPU)  | [Paper](https://arxiv.org/pdf/2003.12565.pdf)/[Code](https://github.com/visionml/pytracking)  |
+     | RPT (ECCVW20)             | 0.624  | 20 (GTX 1080Ti)  | [Paper](https://arxiv.org/pdf/2008.03467.pdf)|      
+     | Ocean (ECCV20)            | 0.611  | 25 (Tesla V100)  | [Paper](https://arxiv.org/abs/2006.10721)/[Code](https://github.com/researchmm/TracKit) |  
+     | DiMP50 (ICCV19)           | 0.611  | 43 (GTX 1080)    | [Paper](https://arxiv.org/pdf/1904.07220.pdf)/[Code](https://github.com/visionml/pytracking)  |
+     | D3S (CVPR20)              | 0.597  | 25 (GTX 1080)    | [Paper](https://arxiv.org/pdf/1911.08862.pdf)/[Code](https://github.com/alanlukezic/d3s) | 
+     | ATOM (CVPR19)             | 0.556  | 30 (GTX 1080)    | [Paper](https://arxiv.org/pdf/1811.07628.pdf)/[Code](https://github.com/visionml/pytracking)  |
+     
+     * The performance on GOT-10k has been improved significantly after ATOM. <!-- Here merely list the trackers performing better than **ATOM**. -->
+     * **Only top-10 published trackers are reported here!**
+     * GOT-10k leaderboard: http://got-10k.aitestunion.com/leaderboard
+
  * **VOT2020:star2:**  
 
      | Tracker                   | EAO    | Accuracy (A) | Robustness (R) | Paper/Code |
@@ -68,38 +100,6 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
     <!--* LADCF is the best tracker in the original [VOT2018](http://prints.vicos.si/publications/365) report. -->
     * The sequences of VOT2019 and VOT2018 have small differences, and few trackers has been tested on VOT2019. 
     * **Only top-10 published trackers are reported here!**
-
-* **TrackingNet:star2:**
-
-     | Tracker                   | Success Score    | Norm Precision Score | Speed (fps) | Paper/Code |
-     |:-----------               |:----------------:|:----------------:|:----------------:|:----------------:|
-     | TransT (CVPR21)           | 0.814  | 0.867   |50 (RTX 2080Ti)  |   [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |       
-     | Siam R-CNN (CVPR20)       | 0.812  | 0.854   | 5 (Tesla V100)   | [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
-     | ARDiMPsuper (CVPR21)      | 0.805  | 0.856   |33 (RTX 2080Ti)  |   [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
-     | PrDiMP50 (CVPR20)         | 0.758  | 0.816   | 30 (Unkown GPU)  | [Paper](https://arxiv.org/pdf/2003.12565.pdf)/[Code](https://github.com/visionml/pytracking)  |  
-     | MAML-FCOS (CVPR20)        |  0.757 | 0.822   | 42 (NVIDIA P100) | [Paper](https://arxiv.org/pdf/2004.00830.pdf)/[Code]() |
-     | SiamAttn (CVPR20)         | 0.752  | 0.817   | 45 (RTX 2080Ti)  | [Paper](https://arxiv.org/pdf/2004.06711.pdf)/[Code]() |
-     | DiMP50 (ICCV19)           | 0.740  | 0.801   |  43 (GTX 1080)   | [Paper](https://arxiv.org/pdf/1904.07220.pdf)/[Code](https://github.com/visionml/pytracking)  |
-     | SiamRPN++ (CVPR19)        | 0.733  | 0.800   | 35 (Titan XP)    | [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_SiamRPN_Evolution_of_Siamese_Visual_Tracking_With_Very_Deep_Networks_CVPR_2019_paper.pdf)/[Code](https://github.com/STVIR/pysot) |
-     
-     * The performance on TrackingNet is improved very fast. Here merely list the trackers performing better than **SiamRPN++**. 
-     * TrackingNet Leaderboard：http://eval.tracking-net.org/web/challenges/challenge-page/39/leaderboard
-
-* **GOT-10k:star2:**
-
-     | Tracker                   | Success Score (AO) | Speed (fps) | Paper/Code |
-     |:-----------               |:----------------:|:----------------:|:----------------:|
-     | Siam R-CNN (CVPR20)       | 0.649  | 5 (Tesla V100)   | [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
-     | PrDiMP50 (CVPR20)         | 0.634  | 30 (Unkown GPU)  | [Paper](https://arxiv.org/pdf/2003.12565.pdf)/[Code](https://github.com/visionml/pytracking)  |
-     | RPT (ECCVW20)             | 0.624  | 20 (GTX 1080Ti)  | [Paper](https://arxiv.org/pdf/2008.03467.pdf)|      
-     | Ocean (ECCV20)            | 0.611  | 25 (Tesla V100)  | [Paper](https://arxiv.org/abs/2006.10721)/[Code](https://github.com/researchmm/TracKit) |  
-     | DiMP50 (ICCV19)           | 0.611  | 43 (GTX 1080)    | [Paper](https://arxiv.org/pdf/1904.07220.pdf)/[Code](https://github.com/visionml/pytracking)  |
-     | D3S (CVPR20)              | 0.597  | 25 (GTX 1080)    | [Paper](https://arxiv.org/pdf/1911.08862.pdf)/[Code](https://github.com/alanlukezic/d3s) | 
-     | ATOM (CVPR19)             | 0.556  | 30 (GTX 1080)    | [Paper](https://arxiv.org/pdf/1811.07628.pdf)/[Code](https://github.com/visionml/pytracking)  |
-     
-     * The performance on GOT-10k has been improved significantly after ATOM. <!-- Here merely list the trackers performing better than **ATOM**. -->
-     * **Only top-10 published trackers are reported here!**
-     * GOT-10k leaderboard: http://got-10k.aitestunion.com/leaderboard
 
 * **VOT2019**   
 
