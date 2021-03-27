@@ -22,14 +22,10 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
      | LTMU (CVPR20)             | 0.572  |  13 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2004.00305)/[Code](https://github.com/Daikenan/LTMU) |
      | DiMP50 (ICCV19)           | 0.568  |  43 (GTX 1080)    |   [Paper](https://arxiv.org/pdf/1904.07220.pdf)/[Code](https://github.com/visionml/pytracking)  |
      | Ocean (ECCV20)            | 0.560  |  25 (Tesla V100)  |   [Paper](https://arxiv.org/abs/2006.10721)/[Code](https://github.com/researchmm/TracKit) |  
-     | SiamAttn (CVPR20)         | 0.560  |  45 (RTX 2080Ti)  |   [Paper](https://arxiv.org/pdf/2004.06711.pdf)/[Code]() |
-     | SiamFC++GoogLeNet (AAAI20)| 0.544  |  90 (RTX 2080Ti)  |   [Paper](https://arxiv.org/pdf/1911.06188.pdf)/[Code](https://github.com/MegviiDetection/video_analyst) |
-     | MAML-FCOS (CVPR20)        | 0.523  |  42 (NVIDIA P100) |   [Paper](https://arxiv.org/pdf/2004.00830.pdf)/[Code]() |
      | GlobalTrack (AAAI20)      | 0.521  |  6 (GTX TitanX)   |   [Paper](https://arxiv.org/abs/1912.08531)/[Code](https://github.com/huanglianghua/GlobalTrack) |
-     | ATOM (CVPR19)             | 0.515  |  30 (GTX 1080)    |   [Paper](https://arxiv.org/pdf/1811.07628.pdf)/[Code](https://github.com/visionml/pytracking)  |
 
-
-    * **Baseline: ATOM, Ocean, DiMP**
+     * **Baseline(short-term): SiamRPN++, Ocean, DiMP**
+     * **Baseline(long-term): GlobalTrack, LTMU**
     
 * **TrackingNet:star2:**
 
@@ -39,13 +35,12 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
      | Siam R-CNN (CVPR20)       | 0.812  | 0.854   | 5 (Tesla V100)   | [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
      | ARDiMPsuper (CVPR21)      | 0.805  | 0.856   |33 (RTX 2080Ti)  |   [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
      | PrDiMP50 (CVPR20)         | 0.758  | 0.816   | 30 (Unkown GPU)  | [Paper](https://arxiv.org/pdf/2003.12565.pdf)/[Code](https://github.com/visionml/pytracking)  |  
-     | MAML-FCOS (CVPR20)        |  0.757 | 0.822   | 42 (NVIDIA P100) | [Paper](https://arxiv.org/pdf/2004.00830.pdf)/[Code]() |
-     | SiamAttn (CVPR20)         | 0.752  | 0.817   | 45 (RTX 2080Ti)  | [Paper](https://arxiv.org/pdf/2004.06711.pdf)/[Code]() |
      | DiMP50 (ICCV19)           | 0.740  | 0.801   |  43 (GTX 1080)   | [Paper](https://arxiv.org/pdf/1904.07220.pdf)/[Code](https://github.com/visionml/pytracking)  |
      | SiamRPN++ (CVPR19)        | 0.733  | 0.800   | 35 (Titan XP)    | [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_SiamRPN_Evolution_of_Siamese_Visual_Tracking_With_Very_Deep_Networks_CVPR_2019_paper.pdf)/[Code](https://github.com/STVIR/pysot) |
      
      * The performance on TrackingNet is improved very fast. Here merely list the trackers performing better than **SiamRPN++**. 
      * TrackingNet Leaderboard：http://eval.tracking-net.org/web/challenges/challenge-page/39/leaderboard
+     * **Baseline: SiamRPN++, Ocean, DiMP**
 
 * **GOT-10k:star2:**
 
@@ -56,12 +51,11 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
      | RPT (ECCVW20)             | 0.624  | 20 (GTX 1080Ti)  | [Paper](https://arxiv.org/pdf/2008.03467.pdf)|      
      | Ocean (ECCV20)            | 0.611  | 25 (Tesla V100)  | [Paper](https://arxiv.org/abs/2006.10721)/[Code](https://github.com/researchmm/TracKit) |  
      | DiMP50 (ICCV19)           | 0.611  | 43 (GTX 1080)    | [Paper](https://arxiv.org/pdf/1904.07220.pdf)/[Code](https://github.com/visionml/pytracking)  |
-     | D3S (CVPR20)              | 0.597  | 25 (GTX 1080)    | [Paper](https://arxiv.org/pdf/1911.08862.pdf)/[Code](https://github.com/alanlukezic/d3s) | 
-     | ATOM (CVPR19)             | 0.556  | 30 (GTX 1080)    | [Paper](https://arxiv.org/pdf/1811.07628.pdf)/[Code](https://github.com/visionml/pytracking)  |
      
      * The performance on GOT-10k has been improved significantly after ATOM. <!-- Here merely list the trackers performing better than **ATOM**. -->
      * **Only top-10 published trackers are reported here!**
      * GOT-10k leaderboard: http://got-10k.aitestunion.com/leaderboard
+     * **Baseline: SiamRPN++, Ocean, DiMP**
 
  * **VOT2020:star2:**  
 
