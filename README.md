@@ -24,8 +24,8 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
      | Ocean (ECCV20)            | 0.560  |  25 (Tesla V100)  |   [Paper](https://arxiv.org/abs/2006.10721)/[Code](https://github.com/researchmm/TracKit) |  
      | GlobalTrack (AAAI20)      | 0.521  |  6 (GTX TitanX)   |   [Paper](https://arxiv.org/abs/1912.08531)/[Code](https://github.com/huanglianghua/GlobalTrack) |
 
-     * **Baseline(short-term): SiamRPN++, Ocean, DiMP, PrDiMP**
-     * **Baseline(long-term): GlobalTrack, LTMU**
+     * **Baseline(short-term): SiamRPN++, Ocean, DiMP, PrDiMP, Siam R-CNN**
+     * **Baseline(long-term): GlobalTrack, LTMU, Siam R-CNN**
     
 * **TrackingNet:star2:**
 
@@ -39,7 +39,7 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
      | SiamRPN++ (CVPR19)        | 0.733  | 0.800   | 35 (Titan XP)    | [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_SiamRPN_Evolution_of_Siamese_Visual_Tracking_With_Very_Deep_Networks_CVPR_2019_paper.pdf)/[Code](https://github.com/STVIR/pysot) |
      
      * TrackingNet Leaderboard：http://eval.tracking-net.org/web/challenges/challenge-page/39/leaderboard
-     * **Baseline: SiamRPN++, Ocean, DiMP, PrDiMP**
+     * **Baseline: SiamRPN++, Ocean, DiMP, PrDiMP, Siam R-CNN**
 
 * **GOT-10k:star2:**
 
@@ -52,7 +52,7 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
      | DiMP50 (ICCV19)           | 0.611  | 43 (GTX 1080)    | [Paper](https://arxiv.org/pdf/1904.07220.pdf)/[Code](https://github.com/visionml/pytracking)  |
      
      * GOT-10k leaderboard: http://got-10k.aitestunion.com/leaderboard
-     * **Baseline: SiamRPN++, Ocean, DiMP, PrDiMP**
+     * **Baseline: SiamRPN++, Ocean, DiMP, PrDiMP, Siam R-CNN**
 
 * **OTB-100/OTB-2015:star2:**
      | Tracker                   | Success Score    | Precision Score | Speed (fps) | Paper/Code |
@@ -62,7 +62,7 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
      | UPDT (ECCV2018)           | 0.702  | 0.931  |      N/A         | [Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Goutam_Bhat_Unveiling_the_Power_ECCV_2018_paper.pdf)          |
      | Siam R-CNN (CVPR20)       | 0.701  | 0.891  | 5 (Tesla V100)   | [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
 
-    * **Baseline: Siam R-CNN**
+    * **Baseline: SiamRPN++, Ocean, DiMP, PrDiMP, Siam R-CNN**
     * OTB-50 and OTB-2013 are similar subsets of OTB-100. 
     * It seems that the OTB-100 dataset has already been overfitting. 
    
@@ -72,7 +72,7 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
      |:-----------               |:----------------:|:----------------:|:----------------:|
      | Siam R-CNN (CVPR20)       | 0.639  | 5 (Tesla V100)   | [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
     
-     * **Baseline: Siam R-CNN**
+     * **Baseline: SiamRPN++, Ocean, DiMP, PrDiMP, Siam R-CNN**
 
 * **UAV123**
 
@@ -82,7 +82,7 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
      | DiMP50 (ICCV19)           | 0.654  | 43 (GTX 1080)    | [Paper](https://arxiv.org/pdf/1904.07220.pdf)/[Code](https://github.com/visionml/pytracking)  |
      | Siam R-CNN (CVPR20)       | 0.649  | 5 (Tesla V100)   | [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
      
-     * **Baseline: Siam R-CNN**
+     * **Baseline: SiamRPN++, Ocean, DiMP, PrDiMP, Siam R-CNN**
 
 * **TC-128**
 
@@ -90,7 +90,7 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
      |:-----------               |:----------------:|:----------------:|:----------------:|
      | Siam R-CNN (CVPR20)       | 0.649  | 5 (Tesla V100)   | [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) | 
      
-     * **Baseline: Siam R-CNN**
+     * **Baseline: SiamRPN++, Ocean, DiMP, PrDiMP, Siam R-CNN**
      
  
  * **VOT2020:star2:**  
