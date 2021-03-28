@@ -173,6 +173,8 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
      * Alpha-Refine: Boosting Tracking Performance by Precise Bounding Box Estimation. CVPR, 2021.  <br />  Bin Yan, Xinyu Zhang, Dong Wang, Huchuan Lu, Xiaoyun Yang.  [[Paper]()][[Code](https://github.com/MasterBin-IIAU/AlphaRefine)]
      * LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search. CVPR, 2021.  <br />  Bin Yan, Houwen Peng, Kan Wu, Dong Wang, Jianlong Fu, Huchuan Lu.  [[Paper]()][[Code]()] 
      * Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking. CVPR, 2021.  <br />  Ning Wang, Wengang Zhou, Jie Wang, Houqiang Li.   [[Paper]()][[Code](https://github.com/594422814/TransformerTrack)] 
+     * Graph Attention Tracking. CVPR, 2021.  <br />  Dongyan Guo, Yanyan Shao, Ying Cui, Zhenhua Wang, Liyan Zhang, Chunhua Shen.   [[Paper](https://arxiv.org/pdf/2011.11204.pdf)][[Code](https://github.com/ohhhyeahhh/SiamGAT)]   
+
 
 * **2020:**
      * High-Performance Long-Term Tracking with Meta-Updater. CVPR, 2020.  <br /> Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang. [[Paper]()][[Code](https://github.com/Daikenan/LTMU)]
