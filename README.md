@@ -5,7 +5,7 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
 
 * **TOP-One Performance on All Datasets:**
 
-     | **LaSOT**:star2:  | **TrackingNet**:star2: | **Got-10k**:star2:  | **OTB-100**:star2: | NFS    | UAV123  | TC-128   |
+     | **LaSOT**  | **TrackingNet** | **Got-10k**  | **OTB-100** | NFS    | UAV123  | TC-128   |
      |:--------:|:-------:|:-------:|:-----------:|:-----------:|:--------:|:-------:|
      | Success  | Success   |   AO  |  Success | Success  | Success | Success  |
      |  0.653   | 0.814   |  0.649   |  0.715   | 0.639   |  0.680  |  0.649   |
