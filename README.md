@@ -51,8 +51,6 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
      | Ocean (ECCV20)            | 0.611  | 25 (Tesla V100)  | [Paper](https://arxiv.org/abs/2006.10721)/[Code](https://github.com/researchmm/TracKit) |  
      | DiMP50 (ICCV19)           | 0.611  | 43 (GTX 1080)    | [Paper](https://arxiv.org/pdf/1904.07220.pdf)/[Code](https://github.com/visionml/pytracking)  |
      
-     * The performance on GOT-10k has been improved significantly after ATOM. <!-- Here merely list the trackers performing better than **ATOM**. -->
-     * **Only top-10 published trackers are reported here!**
      * GOT-10k leaderboard: http://got-10k.aitestunion.com/leaderboard
      * **Baseline: SiamRPN++, Ocean, DiMP, PrDiMP**
 
