@@ -57,7 +57,51 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
      * GOT-10k leaderboard: http://got-10k.aitestunion.com/leaderboard
      * **Baseline: SiamRPN++, Ocean, DiMP, PrDiMP**
 
- * **VOT2020:star2:**  
+* **OTB-100/OTB-2015:star2:**
+     | Tracker                   | Success Score    | Precision Score | Speed (fps) | Paper/Code |
+     |:-----------               |:----------------:|:----------------:|:----------------:|:----------------:|
+     | RPT (ECCVW20)             | 0.715  | 0.936  | 20 (GTX 1080Ti)  | [Paper](https://arxiv.org/pdf/2008.03467.pdf)|    
+     | SiamAttn (CVPR20)         | 0.712  | 0.926  | 45 (RTX 2080Ti)  | [Paper](https://arxiv.org/pdf/2004.06711.pdf)/[Code]() |
+     | UPDT (ECCV2018)           | 0.702  | 0.931  |      N/A         | [Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Goutam_Bhat_Unveiling_the_Power_ECCV_2018_paper.pdf)          |
+     | Siam R-CNN (CVPR20)       | 0.701  | 0.891  | 5 (Tesla V100)   | [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
+     | DRT (CVPR18)              | 0.699  | 0.923  |        N/A       | [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sun_Correlation_Tracking_via_CVPR_2018_paper.pdf)/[Code](https://github.com/cswaynecool/DRT) |
+     | PrDiMP50 (CVPR20)         | 0.696  |  N/A   | 30 (Unkown GPU)  | [Paper](https://arxiv.org/pdf/2003.12565.pdf)/[Code](https://github.com/visionml/pytracking)  |  
+     | SiamRPN++ (CVPR19)        | 0.696  | 0.914  | 35 (Titan XP)    | [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_SiamRPN_Evolution_of_Siamese_Visual_Tracking_With_Very_Deep_Networks_CVPR_2019_paper.pdf)/[Code](https://github.com/STVIR/pysot) |
+     | MCCT (CVPR18)             | 0.696  | 0.914  | 8 (GTX 1080Ti)   | [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Multi-Cue_Correlation_Filters_CVPR_2018_paper.pdf)/[Code](https://github.com/594422814/MCCT) |
+     | SiamBAN (CVPR20)          | 0.696  | 0.910  | 40 (GTX 1080Ti)  | [Paper](https://arxiv.org/pdf/2003.06761.pdf)/[Code](https://github.com/hqucv/siamban) | 
+     | GFS-DCF (ICCV19)          | 0.693  | 0.932  |  8 (Titan X)     | [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Joint_Group_Feature_Selection_and_Discriminative_Filter_Learning_for_Robust_ICCV_2019_paper.pdf)/[Code](https://github.com/XU-TIANYANG/GFS-DCF) |  
+
+    * Too many trackers are tested on OTB-100, **Only top-10 published trackers are reported here!**. 
+    * OTB-50 and OTB-2013 are similar subsets of OTB-100. 
+    * It seems that the OTB-100 dataset has already been overfitting. 
+   
+* **NFS**
+
+     | Tracker                   | Success Score    | Speed (fps) | Paper/Code |
+     |:-----------               |:----------------:|:----------------:|:----------------:|
+     | Siam R-CNN (CVPR20)       | 0.639  | 5 (Tesla V100)   | [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
+     | PrDiMP50 (CVPR20)         | 0.635  | 30 (Unkown GPU)  | [Paper](https://arxiv.org/pdf/2003.12565.pdf)/[Code](https://github.com/visionml/pytracking)  |  
+     | DiMP50 (ICCV19)           | 0.620  | 43 (GTX 1080)    | [Paper](https://arxiv.org/pdf/1904.07220.pdf)/[Code](https://github.com/visionml/pytracking)  |
+
+* **UAV123**
+
+     | Tracker                   |   Success Score  | Speed (fps) | Paper/Code |
+     |:-----------               |:----------------:|:----------------:|:----------------:|
+     | PrDiMP50 (CVPR20)         | 0.680  | 30 (Unkown GPU)  | [Paper](https://arxiv.org/pdf/2003.12565.pdf)/[Code](https://github.com/visionml/pytracking)  |  
+     | DiMP50 (ICCV19)           | 0.654  | 43 (GTX 1080)    | [Paper](https://arxiv.org/pdf/1904.07220.pdf)/[Code](https://github.com/visionml/pytracking)  |
+     | Siam R-CNN (CVPR20)       | 0.649  | 5 (Tesla V100)   | [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
+     | ATOM (CVPR19)             | 0.643  |  30 (GTX 1080)   | [Paper](https://arxiv.org/pdf/1811.07628.pdf)/[Code](https://github.com/visionml/pytracking)  |
+     | SiamRPN++ (CVPR19)        | 0.642  |  35 (Titan XP)   | [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_SiamRPN_Evolution_of_Siamese_Visual_Tracking_With_Very_Deep_Networks_CVPR_2019_paper.pdf)/[Code](https://github.com/STVIR/pysot) |
+
+* **TC-128**
+
+     | Tracker                   |   Success Score  | Speed (fps) | Paper/Code |
+     |:-----------               |:----------------:|:----------------:|:----------------:|
+     | Siam R-CNN (CVPR20)       | 0.649  | 5 (Tesla V100)   | [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) | 
+     | UPDT (ECCV2018)           | 0.622  |      N/A         | [Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Goutam_Bhat_Unveiling_the_Power_ECCV_2018_paper.pdf)  |
+     
+ 
+  * **VOT2020:star2:**  
 
      | Tracker                   | EAO    | Accuracy (A) | Robustness (R) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|:----------------:|
@@ -106,48 +150,6 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
     * There is a small difference between VOT2019 and VOT2018. VOT2018 is much more popular. 
     * Few trackers was tested on this dataset and performed better than DRNet. 
     
-* **OTB-100/OTB-2015:star2:**
-     | Tracker                   | Success Score    | Precision Score | Speed (fps) | Paper/Code |
-     |:-----------               |:----------------:|:----------------:|:----------------:|:----------------:|
-     | RPT (ECCVW20)             | 0.715  | 0.936  | 20 (GTX 1080Ti)  | [Paper](https://arxiv.org/pdf/2008.03467.pdf)|    
-     | SiamAttn (CVPR20)         | 0.712  | 0.926  | 45 (RTX 2080Ti)  | [Paper](https://arxiv.org/pdf/2004.06711.pdf)/[Code]() |
-     | UPDT (ECCV2018)           | 0.702  | 0.931  |      N/A         | [Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Goutam_Bhat_Unveiling_the_Power_ECCV_2018_paper.pdf)          |
-     | Siam R-CNN (CVPR20)       | 0.701  | 0.891  | 5 (Tesla V100)   | [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
-     | DRT (CVPR18)              | 0.699  | 0.923  |        N/A       | [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sun_Correlation_Tracking_via_CVPR_2018_paper.pdf)/[Code](https://github.com/cswaynecool/DRT) |
-     | PrDiMP50 (CVPR20)         | 0.696  |  N/A   | 30 (Unkown GPU)  | [Paper](https://arxiv.org/pdf/2003.12565.pdf)/[Code](https://github.com/visionml/pytracking)  |  
-     | SiamRPN++ (CVPR19)        | 0.696  | 0.914  | 35 (Titan XP)    | [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_SiamRPN_Evolution_of_Siamese_Visual_Tracking_With_Very_Deep_Networks_CVPR_2019_paper.pdf)/[Code](https://github.com/STVIR/pysot) |
-     | MCCT (CVPR18)             | 0.696  | 0.914  | 8 (GTX 1080Ti)   | [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Multi-Cue_Correlation_Filters_CVPR_2018_paper.pdf)/[Code](https://github.com/594422814/MCCT) |
-     | SiamBAN (CVPR20)          | 0.696  | 0.910  | 40 (GTX 1080Ti)  | [Paper](https://arxiv.org/pdf/2003.06761.pdf)/[Code](https://github.com/hqucv/siamban) | 
-     | GFS-DCF (ICCV19)          | 0.693  | 0.932  |  8 (Titan X)     | [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Joint_Group_Feature_Selection_and_Discriminative_Filter_Learning_for_Robust_ICCV_2019_paper.pdf)/[Code](https://github.com/XU-TIANYANG/GFS-DCF) |  
-
-    * Too many trackers are tested on OTB-100, **Only top-10 published trackers are reported here!**. 
-    * OTB-50 and OTB-2013 are similar subsets of OTB-100. 
-    * It seems that the OTB-100 dataset has already been overfitting. 
-   
-* **NFS**
-
-     | Tracker                   | Success Score    | Speed (fps) | Paper/Code |
-     |:-----------               |:----------------:|:----------------:|:----------------:|
-     | Siam R-CNN (CVPR20)       | 0.639  | 5 (Tesla V100)   | [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
-     | PrDiMP50 (CVPR20)         | 0.635  | 30 (Unkown GPU)  | [Paper](https://arxiv.org/pdf/2003.12565.pdf)/[Code](https://github.com/visionml/pytracking)  |  
-     | DiMP50 (ICCV19)           | 0.620  | 43 (GTX 1080)    | [Paper](https://arxiv.org/pdf/1904.07220.pdf)/[Code](https://github.com/visionml/pytracking)  |
-
-* **UAV123**
-
-     | Tracker                   |   Success Score  | Speed (fps) | Paper/Code |
-     |:-----------               |:----------------:|:----------------:|:----------------:|
-     | PrDiMP50 (CVPR20)         | 0.680  | 30 (Unkown GPU)  | [Paper](https://arxiv.org/pdf/2003.12565.pdf)/[Code](https://github.com/visionml/pytracking)  |  
-     | DiMP50 (ICCV19)           | 0.654  | 43 (GTX 1080)    | [Paper](https://arxiv.org/pdf/1904.07220.pdf)/[Code](https://github.com/visionml/pytracking)  |
-     | Siam R-CNN (CVPR20)       | 0.649  | 5 (Tesla V100)   | [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
-     | ATOM (CVPR19)             | 0.643  |  30 (GTX 1080)   | [Paper](https://arxiv.org/pdf/1811.07628.pdf)/[Code](https://github.com/visionml/pytracking)  |
-     | SiamRPN++ (CVPR19)        | 0.642  |  35 (Titan XP)   | [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_SiamRPN_Evolution_of_Siamese_Visual_Tracking_With_Very_Deep_Networks_CVPR_2019_paper.pdf)/[Code](https://github.com/STVIR/pysot) |
-
-* **TC-128**
-
-     | Tracker                   |   Success Score  | Speed (fps) | Paper/Code |
-     |:-----------               |:----------------:|:----------------:|:----------------:|
-     | Siam R-CNN (CVPR20)       | 0.649  | 5 (Tesla V100)   | [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) | 
-     | UPDT (ECCV2018)           | 0.622  |      N/A         | [Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Goutam_Bhat_Unveiling_the_Power_ECCV_2018_paper.pdf)  |
 
 ## All Short-Term Tracking Datasets:
 * **List:**
