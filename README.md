@@ -174,6 +174,7 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
      * LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search. CVPR, 2021.  <br />  Bin Yan, Houwen Peng, Kan Wu, Dong Wang, Jianlong Fu, Huchuan Lu.  [[Paper]()][[Code]()] 
      * Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking. CVPR, 2021.  <br />  Ning Wang, Wengang Zhou, Jie Wang, Houqiang Li.   [[Paper]()][[Code](https://github.com/594422814/TransformerTrack)] 
      * Graph Attention Tracking. CVPR, 2021.  <br />  Dongyan Guo, Yanyan Shao, Ying Cui, Zhenhua Wang, Liyan Zhang, Chunhua Shen.   [[Paper](https://arxiv.org/pdf/2011.11204.pdf)][[Code](https://github.com/ohhhyeahhh/SiamGAT)]   
+     *  Rotation Equivariant Siamese Networks for Tracking.  CVPR, 2021.  <br /> Deepak K. Gupta, Devanshu Arya, Efstratios Gavves.   [[Paper](https://arxiv.org/abs/2012.13078)][[Code]()]   
 
 
 * **2020:**
