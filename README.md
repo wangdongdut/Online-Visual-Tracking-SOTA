@@ -564,7 +564,7 @@ Heng Fan, Haibin Ling. [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/p
      
      * [CFTrackers](https://github.com/HonglinChu/CFTrackers): https://github.com/HonglinChu/CFTrackers
      
-     * [Single-Object-Tracking-Paper-List](https://github.com/wangxiao5791509/Single_Object_Tracking_Paper_List):https://github.com/wangxiao5791509/Single_Object_Tracking_Paper_List
+     * [Single-Object-Tracking-Paper-List](https://github.com/wangxiao5791509/Single_Object_Tracking_Paper_List): https://github.com/wangxiao5791509/Single_Object_Tracking_Paper_List
      
 
      
