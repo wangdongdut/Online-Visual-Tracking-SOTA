@@ -177,6 +177,7 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
      *  Rotation Equivariant Siamese Networks for Tracking.  CVPR, 2021.  <br /> Deepak K. Gupta, Devanshu Arya, Efstratios Gavves.   [[Paper](https://arxiv.org/abs/2012.13078)][[Code](https://github.com/dkgupta90/re-siamnet)] 
      *  Distractor-Aware Fast Tracking via Dynamic Convolutions and MOT Philosophy. CVPR, 2021.  <br /> 
      *  Learning to Filter: Siamese Relation Network for Robust Tracking. CVPR, 2021.  <br />  
+     * IoU Attack: Towards Temporally Coherent Black-Box Adversarial Attack for Visual Object Tracking. CVPR, 2021.  <br /> Shuai Jia, Yibing Song, Chao Ma, Xiaokang Yang. [[Paper](https://arxiv.org/abs/2103.14938)][[Code](https://github.com/VISION-SJTU/IoUattack)] 
 
 
 * **2020:**
