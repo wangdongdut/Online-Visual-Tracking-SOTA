@@ -15,7 +15,7 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
 
      | Tracker                   | Success Score    | Speed (fps) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|
-     | ARDiMPsuper (CVPR21)      | 0.653  |  33 (RTX 2080Ti)  |   [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/MasterBin-IIAU/AlphaRefine) |
+     | ARDiMPsuper (CVPR21)      | 0.653  |  33 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2012.06815)/[Code](https://github.com/MasterBin-IIAU/AlphaRefine) |
      | TransT (CVPR21)           | 0.649  |  50 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2103.15436)/[Code](https://github.com/chenxin-dlut/TransT) |
      | Siam R-CNN (CVPR20)       | 0.648  |  5 (Tesla V100)   |   [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
      | TrDimp (CVPR21)           | 0.639  |                   |   [Paper]()/[Code]() |
@@ -34,7 +34,7 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
      |:-----------               |:----------------:|:----------------:|:----------------:|:----------------:|
      | TransT (CVPR21)           | 0.814  | 0.867   |50 (RTX 2080Ti)   |   [Paper](https://arxiv.org/abs/2103.15436)/[Code](https://github.com/chenxin-dlut/TransT) |       
      | Siam R-CNN (CVPR20)       | 0.812  | 0.854   | 5 (Tesla V100)   | [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
-     | ARDiMPsuper (CVPR21)      | 0.805  | 0.856   |33 (RTX 2080Ti)   |   [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
+     | ARDiMPsuper (CVPR21)      | 0.805  | 0.856   |33 (RTX 2080Ti)   |   [Paper](https://arxiv.org/abs/2012.06815)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
      | TrDimp (CVPR21)           | 0.784  | 0.833   |                  |   [Paper]()/[Code]() |
      | PrDiMP50 (CVPR20)         | 0.758  | 0.816   | 30 (Unkown GPU)  | [Paper](https://arxiv.org/pdf/2003.12565.pdf)/[Code](https://github.com/visionml/pytracking)  |  
      | DiMP50 (ICCV19)           | 0.740  | 0.801   |  43 (GTX 1080)   | [Paper](https://arxiv.org/pdf/1904.07220.pdf)/[Code](https://github.com/visionml/pytracking)  |
@@ -175,7 +175,7 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
 
 * **2021:**
      * Transformer Tracking. CVPR, 2021.  <br /> Xin Chen, Bin Yan, Jiawen Zhu, Dong Wang, Xiaoyun yang, Huchuan Lu. [[Paper](https://arxiv.org/abs/2103.15436)][[Code](https://github.com/chenxin-dlut/TransT)]
-     * Alpha-Refine: Boosting Tracking Performance by Precise Bounding Box Estimation. CVPR, 2021.  <br />  Bin Yan, Xinyu Zhang, Dong Wang, Huchuan Lu, Xiaoyun Yang.  [[Paper]()][[Code](https://github.com/MasterBin-IIAU/AlphaRefine)]
+     * Alpha-Refine: Boosting Tracking Performance by Precise Bounding Box Estimation. CVPR, 2021.  <br />  Bin Yan, Xinyu Zhang, Dong Wang, Huchuan Lu, Xiaoyun Yang.  [[Paper](https://arxiv.org/abs/2012.06815)][[Code](https://github.com/MasterBin-IIAU/AlphaRefine)]
      * LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search. CVPR, 2021.  <br />  Bin Yan, Houwen Peng, Kan Wu, Dong Wang, Jianlong Fu, Huchuan Lu.  [[Paper]()][[Code](https://github.com/researchmm/LightTrack)] 
      * Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking. CVPR, 2021.  <br />  Ning Wang, Wengang Zhou, Jie Wang, Houqiang Li.   [[Paper]()][[Code](https://github.com/594422814/TransformerTrack)] 
      * Graph Attention Tracking. CVPR, 2021.  <br />  Dongyan Guo, Yanyan Shao, Ying Cui, Zhenhua Wang, Liyan Zhang, Chunhua Shen.   [[Paper](https://arxiv.org/abs/2011.11204)][[Code](https://github.com/ohhhyeahhh/SiamGAT)]
