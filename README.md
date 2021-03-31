@@ -106,17 +106,7 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
      | Tracker                   | EAO    | Accuracy (A) | Robustness (R) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|:----------------:|
      | RPT (ECCVW20):star2:      | 0.530 |  XXX | XXX   | [Paper](https://arxiv.org/pdf/2008.03467.pdf)/[Code](https://github.com/zhanght021/RPT) |
-     | OceanPlus                 | 0.491 |  XXX | XXX   | [Paper]()/[Code]() |
-     | AlphaRef:star2:           | 0.482 |  XXX | XXX   | [Paper](https://arxiv.org/abs/2007.02024)/[Code](https://github.com/MasterBin-IIAU/AlphaRefine) |    
-     | AFOD                      | 0.472 |  XXX | XXX   | [Paper]()/[Code]() |  
-     | LWTL                      | 0.463 |  XXX | XXX   | [Paper]()/[Code]() |
-     | fastOcean                 | 0.461 |  XXX | XXX   | [Paper]()/[Code]() |  
-     | TRASTmask                 | 0.441 |  XXX | XXX   | [Paper]()/[Code]() |  
-     | DET50                     | 0.439 |  XXX | XXX   | [Paper]()/[Code]() |  
-     | D3S                       | 0.430 |  XXX | XXX   | [Paper]()/[Code]() |  
-     | Ocean                     | 0.424 |  XXX | XXX   | [Paper]()/[Code]() |  
-     * RPT
-     * AlphaRef 
+     | AlphaRef:star2:           | 0.482 |  XXX | XXX   | [Paper](https://arxiv.org/abs/2007.02024)/[Code](https://github.com/MasterBin-IIAU/AlphaRefine) |     
 
  * **VOT2018:star2:**  
     
