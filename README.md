@@ -169,14 +169,23 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
 
 * **2021:**
      * Transformer Tracking. CVPR, 2021.  <br /> Xin Chen, Bin Yan, Jiawen Zhu, Dong Wang, Xiaoyun yang, Huchuan Lu. [[Paper](https://arxiv.org/abs/2103.15436)][[Code](https://github.com/chenxin-dlut/TransT)]
+     
      * Alpha-Refine: Boosting Tracking Performance by Precise Bounding Box Estimation. CVPR, 2021.  <br />  Bin Yan, Xinyu Zhang, Dong Wang, Huchuan Lu, Xiaoyun Yang.  [[Paper](https://arxiv.org/abs/2012.06815)][[Code](https://github.com/MasterBin-IIAU/AlphaRefine)]
+     
      * LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search. CVPR, 2021.  <br />  Bin Yan, Houwen Peng, Kan Wu, Dong Wang, Jianlong Fu, Huchuan Lu.  [[Paper]()][[Code](https://github.com/researchmm/LightTrack)] 
+     
      * Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking. CVPR, 2021.  <br />  Ning Wang, Wengang Zhou, Jie Wang, Houqiang Li.   [[Paper](https://arxiv.org/abs/2103.11681)][[Code](https://github.com/594422814/TransformerTrack)] 
+     
      * Graph Attention Tracking. CVPR, 2021.  <br />  Dongyan Guo, Yanyan Shao, Ying Cui, Zhenhua Wang, Liyan Zhang, Chunhua Shen.   [[Paper](https://arxiv.org/abs/2011.11204)][[Code](https://github.com/ohhhyeahhh/SiamGAT)]
+     
      * Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark. CVPR, 2021.  <br /> Xiao Wang, Xiujun Shu, Zhipeng Zhang, Bo Jiang, Yaowei Wang, Yonghong Tian, Feng Wu.   [[Paper]()][[Project](https://sites.google.com/view/langtrackbenchmark/)] 
-     *  Distractor-Aware Fast Tracking via Dynamic Convolutions and MOT Philosophy. CVPR, 2021.  <br /> 
-     *  Learning to Filter: Siamese Relation Network for Robust Tracking. CVPR, 2021.  <br />  
+     
+     *  Distractor-Aware Fast Tracking via Dynamic Convolutions and MOT Philosophy. CVPR, 2021.  <br />
+     
+     *  Learning to Filter: Siamese Relation Network for Robust Tracking. CVPR, 2021.  <br /> 
+     
      * IoU Attack: Towards Temporally Coherent Black-Box Adversarial Attack for Visual Object Tracking. CVPR, 2021.  <br /> Shuai Jia, Yibing Song, Chao Ma, Xiaokang Yang. [[Paper](https://arxiv.org/abs/2103.14938)][[Code](https://github.com/VISION-SJTU/IoUattack)] 
+     
      *  Rotation Equivariant Siamese Networks for Tracking.  CVPR, 2021.  <br /> Deepak K. Gupta, Devanshu Arya, Efstratios Gavves.   [[Paper](https://arxiv.org/abs/2012.13078)][[Code](https://github.com/dkgupta90/re-siamnet)] 
 
 
