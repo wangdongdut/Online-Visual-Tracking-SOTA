@@ -13,7 +13,7 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, VOT2019, NFS, UAV123, TC-128.  If
      |:--------:|:-------:|:-------:|:-----------:|:-----------:|:--------:|:-------:|
      | Success  | Success   |   AO  |  Success | Success  | Success | Success  |
      |  0.653   | 0.814   |  0.649   |  0.715   | 0.639   |  0.691  |  0.649   |
-     |  ARDiMPsuper (CVPR21)  |     TransT (CVPR21)   |  Siam R-CNN (CVPR20)  |  RPT (ECCVW20)   | Siam R-CNN (CVPR20)   |  TransT (CVPR21) |  Siam R-CNN (CVPR20)  |
+     |  ARDiMPsuper (CVPR21)  |     TransT (CVPR21)   |  Siam R-CNN (CVPR20)  |  RPT (ECCVW20)   | TrDimp (CVPR21)  |  TransT (CVPR21) |  Siam R-CNN (CVPR20)  |
 
 * **LaSOT:star2:**
 
