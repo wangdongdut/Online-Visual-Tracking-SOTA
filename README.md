@@ -181,6 +181,8 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, NFS, UAV123, TC-128, and VOT fami
      * Graph Attention Tracking. CVPR, 2021.  <br />  Dongyan Guo, Yanyan Shao, Ying Cui, Zhenhua Wang, Liyan Zhang, Chunhua Shen.   [[Paper](https://arxiv.org/abs/2011.11204)][[Code](https://github.com/ohhhyeahhh/SiamGAT)]
      
      * Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark. CVPR, 2021.  <br /> Xiao Wang, Xiujun Shu, Zhipeng Zhang, Bo Jiang, Yaowei Wang, Yonghong Tian, Feng Wu.   [[Paper]()][[Project](https://sites.google.com/view/langtrackbenchmark/)] 
+
+     * Siamese Natural Language Tracker: Tracking by Natural Language Descriptions with Siamese Trackers. CVPR, 2021.  <br /> Qi Feng, Vitaly Ablavsky, Qinxun Bai, Stan Sclaroff.   [[Paper](https://arxiv.org/abs/1912.02048v2)][[Project]()] 
      
      *  Distractor-Aware Fast Tracking via Dynamic Convolutions and MOT Philosophy. CVPR, 2021.  <br /> Zikai Zhang, Bineng Zhong, Shengping Zhang, Zhenjun Tang, Xin Liu, Zhaoxiang Zhang.   [[Paper](https://arxiv.org/abs/2104.12041)][[Project](https://github.com/hqucv/dmtrack)]  
      
@@ -193,6 +195,7 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, NFS, UAV123, TC-128, and VOT fami
      * Rotation Equivariant Siamese Networks for Tracking.  CVPR, 2021.  <br /> Deepak K. Gupta, Devanshu Arya, Efstratios Gavves.   [[Paper](https://arxiv.org/abs/2012.13078)][[Code](https://github.com/dkgupta90/re-siamnet)] 
 
      * Progressive Unsupervised Learning for Visual Object Tracking.  CVPR, 2021.  <br /> Qiangqiang Wu, Jia Wan, Antoni B. Chan.   [[Paper]()][[Code]()] 
+     
      * MeanShift++: Extremely Fast Mode-Seeking With Applications to Segmentation and Object Tracking.  CVPR, 2021.  <br /> Jennifer Jang, Heinrich Jiang.   [[Paper]()][[Code]()]  
 
 
