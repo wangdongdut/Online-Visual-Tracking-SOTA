@@ -193,6 +193,7 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, NFS, UAV123, TC-128, and VOT fami
      * Rotation Equivariant Siamese Networks for Tracking.  CVPR, 2021.  <br /> Deepak K. Gupta, Devanshu Arya, Efstratios Gavves.   [[Paper](https://arxiv.org/abs/2012.13078)][[Code](https://github.com/dkgupta90/re-siamnet)] 
 
      * Progressive Unsupervised Learning for Visual Object Tracking.  CVPR, 2021.  <br /> Qiangqiang Wu, Jia Wan, Antoni B. Chan.   [[Paper]()][[Code]()] 
+     * MeanShift++: Extremely Fast Mode-Seeking With Applications to Segmentation and Object Tracking.  CVPR, 2021.  <br /> Jennifer Jang, Heinrich Jiang.   [[Paper]()][[Code]()]  
 
 
 * **2020:**
