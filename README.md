@@ -172,6 +172,12 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, NFS, UAV123, TC-128, and VOT fami
 * **ICCV 2021:**
      * Learning Spatio-Temporal Transformer for Visual Tracking. ICCV, 2021.  <br /> Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu. [[Paper](https://arxiv.org/abs/2103.17154)][[Code](https://github.com/researchmm/Stark)]
 
+     * Learn to Match: Automatic Matching Network Design for Visual Tracking. ICCV, 2021.  <br /> Zhipeng Zhang, Yihao Liu, Xiao Wang, Bing Li, Weiming Hu. [[Paper](https://arxiv.org/abs/2108.00803)][[Code](https://github.com/JudasDie/SOTS)]
+
+     * Learning to Adversarially Blur Visual Object Tracking. ICCV, 2021.  <br /> Qing Guo, Ziyi Cheng, Felix Juefei-Xu, Lei Ma, Xiaofei Xie, Yang Liu, Jianjun Zhao. [[Paper](https://arxiv.org/abs/2107.12085)][[Code](https://github.com/tsingqguo/ABA)]
+
+     * HiFT: Hierarchical Feature Transformer for Aerial Tracking. ICCV, 2021.  <br /> Ziang Cao, Changhong Fu, Junjie Ye, Bowen Li, Yiming Li. [[Paper](https://arxiv.org/abs/2108.00202)][[Code]( https://github.com/vision4robotics/HiFT)]
+
 * **CVPR 2021:**
      * Transformer Tracking. CVPR, 2021.  <br /> Xin Chen, Bin Yan, Jiawen Zhu, Dong Wang, Xiaoyun yang, Huchuan Lu. [[Paper](https://arxiv.org/abs/2103.15436)][[Code](https://github.com/chenxin-dlut/TransT)]
      
