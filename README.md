@@ -170,7 +170,9 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, NFS, UAV123, TC-128, and VOT fami
 ## Conference Tracking Papers: 
 
 * **ICCV 2021:**
-     * Learning Spatio-Temporal Transformer for Visual Tracking. ICCV, 2021.  <br /> Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu. [[Paper](https://arxiv.org/abs/2103.17154)][[Code](https://github.com/researchmm/Stark)]
+     * Learning Spatio-Temporal Transformer for Visual Tracking. ICCV, 2021.  <br /> Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu. [[Paper](https://arxiv.org/abs/2103.17154)][[Code](https://github.com/researchmm/Stark)] 
+     
+     * Learning Target Candidate Association to Keep Track of What Not to Track. ICCV, 2021.  <br /> Christoph Mayer, Martin Danelljan, Danda Pani Paudel, Luc Van Gool. [[Paper](https://arxiv.org/abs/2103.16556)][[Code](https://github.com/visionml/pytracking)] <br />
 
      * Learn to Match: Automatic Matching Network Design for Visual Tracking. ICCV, 2021.  <br /> Zhipeng Zhang, Yihao Liu, Xiao Wang, Bing Li, Weiming Hu. [[Paper](https://arxiv.org/abs/2108.00803)][[Code](https://github.com/JudasDie/SOTS)]
 
