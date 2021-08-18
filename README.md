@@ -2,14 +2,6 @@
 
 This page focuses on watching the state-of-the-art performance for the short-term tracking task (if you are interested in the long-term tracking task, please visit **[here](https://github.com/wangdongdut/Long-term-Visual-Tracking)**). The evaluation datasets include: 
 LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, NFS, UAV123, TC-128, and VOT family.  If you are also interested in some resources on Paper Writting (computer vision), please visit **[here](https://github.com/wangdongdut/PaperWriting)**.  
-     
-* **TOP-One Performance on All Datasets:**
-
-     | **LaSOT**  | **TrackingNet** | **Got-10k**  | **OTB-100** | NFS    | UAV123  | TC-128   |
-     |:--------:|:-------:|:-------:|:-----------:|:-----------:|:--------:|:-------:|
-     | Success  | Success   |   AO  |  Success | Success  | Success | Success  |
-     |  0.653   | 0.814   |  0.649   |  0.715   | 0.639   |  0.691  |  0.649   |
-     |  ARDiMPsuper (CVPR21)  |     TransT (CVPR21)   |  Siam R-CNN (CVPR20)  |  RPT (ECCVW20)   | TrDimp (CVPR21)  |  TransT (CVPR21) |  Siam R-CNN (CVPR20)  |
 
 * **LaSOT:star2:**
 
