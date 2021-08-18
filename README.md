@@ -58,6 +58,11 @@ LaSOT, TrackingNet, GOT-10k, NOTU (NFS, OTB-100, TC-128, UAV123) and VOT family.
 
 * **NOTU:star2:**
 
+* **[VOT Challenge](https://www.votchallenge.net/challenges.html):star2:**
+
+
+
+
 ## All Short-Term Tracking Datasets:
 * **List:**
 
