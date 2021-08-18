@@ -54,6 +54,8 @@ LaSOT, TrackingNet, GOT-10k, NOTU (NFS, OTB-100, TC-128, UAV123) and VOT family.
      * GOT-10k leaderboard: http://got-10k.aitestunion.com/leaderboard
      * **Baseline: SiamRPN++, Ocean, DiMP, PrDiMP, Siam R-CNN**
 
+* **NOTU:star2:**
+
 ## All Short-Term Tracking Datasets:
 * **List:**
 
