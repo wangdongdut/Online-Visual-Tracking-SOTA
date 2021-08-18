@@ -3,6 +3,8 @@
 This page focuses on watching the state-of-the-art performance for the short-term tracking task (if you are interested in the long-term tracking task, please visit **[here](https://github.com/wangdongdut/Long-term-Visual-Tracking)**). The evaluation datasets include: 
 LaSOT, TrackingNet, GOT-10k, NOTU (NFS, OTB-100, TC-128, UAV123) and VOT family.  If you are also interested in some resources on Paper Writting (computer vision), please visit **[here](https://github.com/wangdongdut/PaperWriting)**.  
 
+**:star:**
+
 * **LaSOT:star2:**
 
      | Tracker                   | Success Score    | Speed (fps) | Paper/Code |
