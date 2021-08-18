@@ -43,7 +43,8 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, NFS, UAV123, TC-128, and VOT fami
      | Tracker                   | Success Score (AO) | Speed (fps) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|
      | STARK (ICCV11)            | 0.688  | 32 (Tesla V100)  | [Paper](https://arxiv.org/abs/2103.17154)/[Code](https://github.com/researchmm/Stark) |
-     | TransT (CVPR21)           | 0.671  | 50 (RTX 2080Ti)  | [Paper](https://arxiv.org/abs/2103.15436)/[Code](https://github.com/chenxin-dlut/TransT) |    
+     | TransT (CVPR21)           | 0.671  | 50 (RTX 2080Ti)  | [Paper](https://arxiv.org/abs/2103.15436)/[Code](https://github.com/chenxin-dlut/TransT) |   
+     | TrDimp (CVPR21)           | 0.671  | 26 (GTX 1080Ti)  | [Paper](https://arxiv.org/abs/2103.11681)/[Code](https://github.com/594422814/TransformerTrack) |
      | Siam R-CNN (CVPR20)       | 0.649  | 5 (Tesla V100)   | [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
      | PrDiMP50 (CVPR20)         | 0.634  | 30 (Unkown GPU)  | [Paper](https://arxiv.org/pdf/2003.12565.pdf)/[Code](https://github.com/visionml/pytracking)  |
      | RPT (ECCVW20)             | 0.624  | 20 (GTX 1080Ti)  | [Paper](https://arxiv.org/pdf/2008.03467.pdf)|      
