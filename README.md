@@ -22,7 +22,8 @@ LaSOT, TrackingNet, GOT-10k, NOTU (NFS, OTB-100, TC-128, UAV123) and VOT family.
      | GlobalTrack (AAAI20)      | 0.521  |  6 (GTX TitanX)   |   [Paper](https://arxiv.org/abs/1912.08531)/[Code](https://github.com/huanglianghua/GlobalTrack) |
 
      * **Baseline(short-term): SiamRPN++, Ocean, DiMP, PrDiMP, Siam R-CNN**
-     * **Baseline(long-term): GlobalTrack, LTMU, Siam R-CNN**
+     * **Baseline(long-term): GlobalTrack, LTMU, Siam R-CNN** 
+     * **[[paperswithcode-SOTA](https://paperswithcode.com/sota/visual-object-tracking-on-lasot)]: https://paperswithcode.com/sota/visual-object-tracking-on-lasot**
     
 * **TrackingNet:star2:**
 
