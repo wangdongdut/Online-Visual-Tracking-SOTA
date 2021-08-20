@@ -23,7 +23,7 @@ LaSOT, TrackingNet, GOT-10k, NOTU (NFS, OTB-100, TC-128, UAV123) and VOT family.
 
      * **Baseline(short-term): SiamRPN++, Ocean, DiMP, PrDiMP, Siam R-CNN**
      * **Baseline(long-term): GlobalTrack, LTMU, Siam R-CNN** 
-     * **[[paperswithcode-SOTA](https://paperswithcode.com/sota/visual-object-tracking-on-lasot)]: https://paperswithcode.com/sota/visual-object-tracking-on-lasot**
+     * **[paperswithcode-SOTA](https://paperswithcode.com/sota/visual-object-tracking-on-lasot): https://paperswithcode.com/sota/visual-object-tracking-on-lasot**
     
 * **TrackingNet:star2:**
 
