@@ -88,9 +88,9 @@ not accurately reflect the tracking ability of various trackers. To address this
      | [LaSOT](https://cis.temple.edu/lasot/)          | 1,400 (I-all-1,400/II-test-280)      |      3.52M/1,000/11,397/2,506 | 
      | [TrackingNet]()                                 | |    |  No  |
      | [GOT-10k](http://got-10k.aitestunion.com/)      | train-10k, val-180, test-180 |      1.5M      | 
-     | **NOTU** | 401 | |  
+     | **NOTU** | 401 (from NFS, OTB100, TC128, UAV123)| |  
      | | | |  
-     | [**N**fS](http://ci2cv.net/nfs/index.html)          | 100            |      383K/169/20,665/3,830      |  No |
+     | [**N**FS](http://ci2cv.net/nfs/index.html)          | 100            |      383K/169/20,665/3,830      |  No |
      | [**O**TB100](http://cvlab.hanyang.ac.kr/tracker_benchmark/)       | 100            |      59K/71/3,872/590       |  No | 
      | [**T**C128](http://www.dabi.temple.edu/~hbling/data/TColor-128/TColor-128.html)         | 128     | 55K/71/3,872/429   |  No | 
      | [**U**AV123](https://uav123.org/)                   | 123            |      113K/109/3,085/915      |  No | 
