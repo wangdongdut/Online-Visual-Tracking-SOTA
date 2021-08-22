@@ -9,8 +9,8 @@ LaSOT, TrackingNet, GOT-10k, NOTU (NFS, OTB-100, TC-128, UAV123) and VOT family.
 
      | Tracker                   | Success Score    | Speed (fps) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|
-     | LTCA (ICCV21)             | 0.672  |  13 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2103.16556)/[Code](https://github.com/visionml/pytracking) |  
      | STARK (ICCV21)            | 0.671  |  32 (Tesla V100)  |   [Paper](https://arxiv.org/abs/2103.17154)/[Code](https://github.com/researchmm/Stark) |     
+     | KeepTrack (ICCV21)        | 0.671  |  18 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2103.16556)/[Code](https://github.com/visionml/pytracking) |  
      | ARDiMPsuper (CVPR21)      | 0.653  |  33 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2012.06815)/[Code](https://github.com/MasterBin-IIAU/AlphaRefine) |
      | TransT (CVPR21)           | 0.649  |  50 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2103.15436)/[Code](https://github.com/chenxin-dlut/TransT) |
      | Siam R-CNN (CVPR20)       | 0.648  |  5 (Tesla V100)   |   [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
