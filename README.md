@@ -96,7 +96,9 @@ not accurately reflect the tracking ability of various trackers. To address this
      | [**U**AV123](https://uav123.org/)                   | 123            |      113K/109/3,085/915      |  xx  |  
      | **Others:**| | |  
      | [ALOV300++](http://alov300pp.joomlafree.it/)    | 315            |      8.9K/XXXX/XXXX/284      |  xx  | 
-     | [NUS-PRO](https://www.ece.nus.edu.sg/lv/pro/nus_pro.html)        | 365            |      135K/146/5,040/371      |  xx  |        
+     | [NUS-PRO](https://www.ece.nus.edu.sg/lv/pro/nus_pro.html)        | 365            |      135K/146/5,040/371      |  xx  |   
+     
+     * VOT Challenge: https://www.votchallenge.net/challenges.html
 
 ## Conference Tracking Papers: 
 
