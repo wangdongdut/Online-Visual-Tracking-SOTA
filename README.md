@@ -87,7 +87,8 @@ not accurately reflect the tracking ability of various trackers. To address this
      |:-----------    |:----------------:|:----------------:|:----------------:|
      | [**LaSOT**](https://cis.temple.edu/lasot/)          | 1,400 (I-all-1,400/II-test-280)      |      3.52M/1,000/11,397/2,506 |  xx  | 
      | [**TrackingNet**]()                                 | |    |  xx  |
-     | [**GOT-10k**](http://got-10k.aitestunion.com/)      | train-10k, val-180, test-180 |      1.5M      |  xx  |  
+     | [**GOT-10k**](http://got-10k.aitestunion.com/)      | train-10k, val-180, test-180 |      1.5M      |  xx  |
+     | [**VOT**](https://www.votchallenge.net/challenges.html)      | https://www.votchallenge.net/challenges.html |            |  [VOT Challenge](https://www.votchallenge.net/challenges.html)  |    
      | **NOTU** | 401 (from NFS, OTB100, TC128, UAV123)| |  xx  |   
      | **NOTU:**| | |  
      | [**N**FS](http://ci2cv.net/nfs/index.html)          | 100            |      383K/169/20,665/3,830      |  xx  | 
@@ -97,8 +98,6 @@ not accurately reflect the tracking ability of various trackers. To address this
      | **Others:**| | |  
      | [ALOV300++](http://alov300pp.joomlafree.it/)    | 315            |      8.9K/XXXX/XXXX/284      |  xx  | 
      | [NUS-PRO](https://www.ece.nus.edu.sg/lv/pro/nus_pro.html)        | 365            |      135K/146/5,040/371      |  xx  |   
-     
-     * VOT Challenge: https://www.votchallenge.net/challenges.html
 
 ## Conference Tracking Papers: 
 
