@@ -67,7 +67,9 @@ LaSOT, TrackingNet, GOT-10k, NOTU (NFS, OTB-100, TC-128, UAV123) and VOT family.
      | SiamRPN++ (CVPR19)        | 0.598  | 0.571 | 0.687 | 0.577 | 0.593  | 35 (Titan XP)    |[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_SiamRPN_Evolution_of_Siamese_Visual_Tracking_With_Very_Deep_Networks_CVPR_2019_paper.pdf)/[Code](https://github.com/STVIR/pysot) |    
      
      * **Baseline(short-term): SiamRPN++, DiMP**
-     * **Success Score** is reported
+     * **Success Score** is reported 
+     * **What is NOTU?** In recent years, an obvious trend of over-fitting has been observed on some small-scale tracking benchmarks like OTB. Performance on these datasets may
+not accurately reflect the tracking ability of various trackers. To address this issue, we collect a new large-scale tracking benchmark called NOTU, which contains all **401** sequences from NFS, OTB100, TC128, and UAV123. The evaluation metric include 'Success' and 'Precision'. The NOTU test will introduce **a large-scale evaluation**. 
 
 * **[VOT Challenge](https://www.votchallenge.net/challenges.html):star2:**
      * **VOT 2021**
