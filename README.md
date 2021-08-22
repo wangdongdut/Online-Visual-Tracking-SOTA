@@ -67,6 +67,7 @@ LaSOT, TrackingNet, GOT-10k, NOTU (NFS, OTB-100, TC-128, UAV123) and VOT family.
      | SiamRPN++ (CVPR19)        | 0.598  | 0.571 | 0.687 | 0.577 | 0.593  | 35 (Titan XP)    |[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_SiamRPN_Evolution_of_Siamese_Visual_Tracking_With_Very_Deep_Networks_CVPR_2019_paper.pdf)/[Code](https://github.com/STVIR/pysot) |    
      
      * **Baseline(short-term): SiamRPN++, DiMP**
+     * **Success Score** is reported
 
 * **[VOT Challenge](https://www.votchallenge.net/challenges.html):star2:**
      * **VOT 2021**
