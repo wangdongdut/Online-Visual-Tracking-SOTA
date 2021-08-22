@@ -83,22 +83,19 @@ not accurately reflect the tracking ability of various trackers. To address this
 ## All Short-Term Tracking Datasets:
 * **List:**
 
-     | Datasets       | #videos    | #total/min/max/average frames|Absent Label| 
-     |:-----------    |:----------------:|:----------------:|:----------------:|
-     | [LaSOT](https://cis.temple.edu/lasot/)          | 1,400 (I-all-1,400/II-test-280)      |      3.52M/1,000/11,397/2,506 |  Yes |   
-     | [VOT2018]()                                     | |    |  No  |
+     | Datasets       | #videos    | #total/min/max/average frames| 
+     |:-----------    |:----------------:|:----------------:|
+     | [LaSOT](https://cis.temple.edu/lasot/)          | 1,400 (I-all-1,400/II-test-280)      |      3.52M/1,000/11,397/2,506 | 
      | [TrackingNet]()                                 | |    |  No  |
-     | [GOT-10k](http://got-10k.aitestunion.com/)      | train-10k, val-180, test-180 |      1.5M      |  No |  
-     | [NfS](http://ci2cv.net/nfs/index.html)          | 100            |      383K/169/20,665/3,830      |  No |    
-     | [UAV123](https://uav123.org/)                   | 123            |      113K/109/3,085/915      |  No |          
+     | [GOT-10k](http://got-10k.aitestunion.com/)      | train-10k, val-180, test-180 |      1.5M      | 
      | | | |  
-     | [OTB-2015](http://cvlab.hanyang.ac.kr/tracker_benchmark/)       | 100            |      59K/71/3,872/590       |  No | 
+     | [NfS](http://ci2cv.net/nfs/index.html)          | 100            |      383K/169/20,665/3,830      |  No |
+     | [OTB100](http://cvlab.hanyang.ac.kr/tracker_benchmark/)       | 100            |      59K/71/3,872/590       |  No | 
      | [TC-128](http://www.dabi.temple.edu/~hbling/data/TColor-128/TColor-128.html)         | 128     | 55K/71/3,872/429   |  No | 
+     | [UAV123](https://uav123.org/)                   | 123            |      113K/109/3,085/915      |  No | 
+     | | | |  
      | [ALOV300++](http://alov300pp.joomlafree.it/)    | 315            |      8.9K/XXXX/XXXX/284      |  No |
      | [NUS-PRO](https://www.ece.nus.edu.sg/lv/pro/nus_pro.html)        | 365            |      135K/146/5,040/371      |  No |       
-
-     * [OTB-2013/OTB-50](http://cvlab.hanyang.ac.kr/tracker_benchmark/benchmark_v10.html) is a subset of OTB-2015. 
-
 
 ## Conference Tracking Papers: 
 
