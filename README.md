@@ -60,7 +60,7 @@ LaSOT, TrackingNet, GOT-10k, NOTU (NFS, OTB-100, TC-128, UAV123) and VOT family.
 * **NOTU:star2:**
 
      | Tracker                   | **NOTU**    | NFS | OTB100 | TC128 | UAV123 | Speed (fps) | Paper/Code |
-     |:-----------               |:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|
+     |:-----------               |:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|
      | STARK (ICCV21)            | 0.661  | 0.662 | 0.681 | 0.631 | 0.682  | 32 (Tesla V100)  | [Paper](https://arxiv.org/abs/2103.17154)/[Code](https://github.com/researchmm/Stark) |  
      | TransT (CVPR21)           | 0.650  | 0.653 | 0.695 | 0.596 | 0.681  | 50 (RTX 2080Ti)  | [Paper](https://arxiv.org/abs/2103.15436)/[Code](https://github.com/chenxin-dlut/TransT) |  
      | DiMP50 (ICCV19)           | 0.634  | 0.618 | 0.684 | 0.612 | 0.643  | 43 (GTX 1080)    | [Paper](https://arxiv.org/pdf/1904.07220.pdf)/[Code](https://github.com/visionml/pytracking) |   
