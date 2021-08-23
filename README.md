@@ -529,6 +529,8 @@ Heng Fan, Haibin Ling. [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/p
 
 * **Resources:**
 
+     * [mmtracking[open-mmlab]](https://github.com/open-mmlab/mmtracking.git): https://github.com/open-mmlab/mmtracking.git
+    
      * [TracKit[Microsoft]](https://github.com/researchmm/TracKit)：https://github.com/researchmm/TracKit
      
      * [pytracking[visionml]](https://github.com/visionml/pytracking)：https://github.com/visionml/pytracking
