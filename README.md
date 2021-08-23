@@ -95,7 +95,6 @@ not accurately reflect the tracking ability of various trackers. To address this
      | [**GOT-10k**](http://got-10k.aitestunion.com/)      | train-10k, val-180, test-**180** |      1.5M      |  xxxx/xxxx/xxxx/xxxx  |    |
      | [**VOT**](https://www.votchallenge.net/challenges.html)      | https://www.votchallenge.net/challenges.html |   |      |[VOT Challenge](https://www.votchallenge.net/challenges.html)  |    
      | **NOTU** | **401** (from NFS, OTB100, TC128, UAV123)| |    |  xxxx/xxxx/xxxx/xxxx  |    |   
-     | **NOTU:**| | |  
      | [**N**FS](http://ci2cv.net/nfs/index.html)          | 100            |   383K   | 383K/169/20,665/3,830      |  xx  | 
      | [**O**TB100](http://cvlab.hanyang.ac.kr/tracker_benchmark/)       | 100        | 59K    |      59K/71/3,872/590       |  xx  |  
      | [**T**C128](http://www.dabi.temple.edu/~hbling/data/TColor-128/TColor-128.html)         | 128     | 55K | 55K/71/3,872/429   |  xx  |  
