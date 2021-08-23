@@ -137,6 +137,9 @@ not accurately reflect the tracking ability of various trackers. To address this
 
 * **Survey & Book:**
 
+    * Deep Learning for Visual Tracking: A Comprehensive Survey. IEEE TITS, 2021. <br />  Seyed Mojtaba Marvasti-Zadeh, Li Cheng, Hossein Ghanei-Yakhdan, Shohreh Kasaei. 
+      [[Paper](https://ieeexplore.ieee.org/document/9339950)]
+
     * Handcrafted and Deep Trackers: Recent Visual Object Tracking Approaches and Trends. ACM CS, 2019. <br />  Mustansar Fiaz, Arif Mahmood, Sajid Javed, Soon Ki Jung.
      
     * Online Visual Tracking. Springer, 2019. <br />  Huchuan Lu, Dong Wang.
