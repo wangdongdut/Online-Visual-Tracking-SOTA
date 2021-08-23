@@ -116,10 +116,10 @@ not accurately reflect the tracking ability of various trackers. To address this
      * [**TracKit[Microsoft]**](https://github.com/researchmm/TracKit)：https://github.com/researchmm/TracKit
      
      * [**pytracking[visionml]**](https://github.com/visionml/pytracking)：https://github.com/visionml/pytracking
+     
+     * [**pysot[STVIR]**](https://github.com/STVIR/pysot)：https://github.com/STVIR/pysot
 
      * [**paperwithcode[VOT]**](https://paperswithcode.com/task/visual-object-tracking): https://paperswithcode.com/task/visual-object-tracking
-     
-     * [pysot[STVIR]](https://github.com/STVIR/pysot)：https://github.com/STVIR/pysot
      
      * [pysot-toolkit](https://github.com/StrangerZhang/pysot-toolkit)：https://github.com/StrangerZhang/pysot-toolkit
      
