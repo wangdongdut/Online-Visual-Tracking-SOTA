@@ -87,18 +87,18 @@ not accurately reflect the tracking ability of various trackers. To address this
 ## All Short-Term Tracking Datasets:
 * **List:**
 
-     | Datasets       | #videos    | #total/min/max/average frames|  Project/Paper|
-     |:-----------    |:----------------:|:----------------:|:----------------:|
-     | [**LaSOT**](https://cis.temple.edu/lasot/)          | 1,400 (I-all-1,400/II-test-**280**)      |      3.52M/1,000/11,397/2,506 |  [[Project](https://cis.temple.edu/lasot/)][[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Fan_LaSOT_A_High-Quality_Benchmark_for_Large-Scale_Single_Object_Tracking_CVPR_2019_paper.html)]  | 
-     | [LaSOT2021](https://cis.temple.edu/lasot/)          | 1,500 (I-all-1,400/II-test-280/III-oneshot-150)      |      3.87M/1,000/11,397/2,502 |  [[Project](http://vision.cs.stonybrook.edu/~lasot/)][[Paper](https://link.springer.com/article/10.1007/s11263-020-01387-y)]  | 
-     | [**TrackingNet**](https://tracking-net.org/)        | train-30132, test-**511** |    |  xx  |
-     | [**GOT-10k**](http://got-10k.aitestunion.com/)      | train-10k, val-180, test-**180** |      1.5M      |  xx  |
-     | [**VOT**](https://www.votchallenge.net/challenges.html)      | https://www.votchallenge.net/challenges.html |     VOT2013-VOT2021       |  [VOT Challenge](https://www.votchallenge.net/challenges.html)  |    
-     | **NOTU** | **401** (from NFS, OTB100, TC128, UAV123)| |  xx  |   
+     | Datasets       | #videos    | #total (All) | #total/min/max/average frames|  Project/Paper|
+     |:-----------    |:----------------:|:----------------:|:----------------:|:----------------:|
+     | [**LaSOT**](https://cis.temple.edu/lasot/)          | 1,400 (I-all-1,400/II-test-**280**)      |3.52M|      xxxx/xxxx/xxxx/xxxx |  [[Project](https://cis.temple.edu/lasot/)][[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Fan_LaSOT_A_High-Quality_Benchmark_for_Large-Scale_Single_Object_Tracking_CVPR_2019_paper.html)]  | 
+     | [LaSOT2021](https://cis.temple.edu/lasot/)          | 1,550 (I-all-1,400/II-test-280/III-oneshot-**150**)      |  3.87M|  xxxx/xxxx/xxxx/xxxx |  [[Project](http://vision.cs.stonybrook.edu/~lasot/)][[Paper](https://link.springer.com/article/10.1007/s11263-020-01387-y)]  | 
+     | [**TrackingNet**](https://tracking-net.org/)        | train-30132, test-**511** |    |  xxxx/xxxx/xxxx/xxxx  |    |  
+     | [**GOT-10k**](http://got-10k.aitestunion.com/)      | train-10k, val-180, test-**180** |      1.5M      |  xxxx/xxxx/xxxx/xxxx  |    |
+     | [**VOT**](https://www.votchallenge.net/challenges.html)      | https://www.votchallenge.net/challenges.html |   |      |[VOT Challenge](https://www.votchallenge.net/challenges.html)  |    
+     | **NOTU** | **401** (from NFS, OTB100, TC128, UAV123)| |    |  xxxx/xxxx/xxxx/xxxx  |    |   
      | **NOTU:**| | |  
-     | [**N**FS](http://ci2cv.net/nfs/index.html)          | 100            |      383K/169/20,665/3,830      |  xx  | 
-     | [**O**TB100](http://cvlab.hanyang.ac.kr/tracker_benchmark/)       | 100            |      59K/71/3,872/590       |  xx  |  
-     | [**T**C128](http://www.dabi.temple.edu/~hbling/data/TColor-128/TColor-128.html)         | 128     | 55K/71/3,872/429   |  xx  |  
+     | [**N**FS](http://ci2cv.net/nfs/index.html)          | 100            |   383K   | 383K/169/20,665/3,830      |  xx  | 
+     | [**O**TB100](http://cvlab.hanyang.ac.kr/tracker_benchmark/)       | 100        | 59K    |      59K/71/3,872/590       |  xx  |  
+     | [**T**C128](http://www.dabi.temple.edu/~hbling/data/TColor-128/TColor-128.html)         | 128     | 55K | 55K/71/3,872/429   |  xx  |  
      | [**U**AV123](https://uav123.org/)                   | 123            |      113K/109/3,085/915      |  xx  |  
      | **Others:**| | |  
      | [ALOV300++](http://alov300pp.joomlafree.it/)    | 315            |      8.9K/XXXX/XXXX/284      |  xx  | 
