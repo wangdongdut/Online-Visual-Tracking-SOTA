@@ -110,7 +110,7 @@ not accurately reflect the tracking ability of various trackers. To address this
      * **Common Large-scale Experiment Setting**: **1,432** = **280 (LaSOT)** + **511 (TrackingNet)** + **180 (GOT-10k)** + **401 (NOTU)** + **(60) Latest VOT** 
 
 ## Resources
-* **Codebase&Comparision:**
+* **Codebase & Comparision:**
      * [mmtracking[open-mmlab]](https://github.com/open-mmlab/mmtracking.git): https://github.com/open-mmlab/mmtracking.git
     
      * [TracKit[Microsoft]](https://github.com/researchmm/TracKit)：https://github.com/researchmm/TracKit
