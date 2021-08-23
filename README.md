@@ -87,7 +87,7 @@ not accurately reflect the tracking ability of various trackers. To address this
 
 ## All Short-Term Tracking Datasets:
 * **List:**
-
+     
      | Datasets       | #videos    | #total (All) | #total/min/max/average frames (Test Set)|  Project/Paper|
      |:-----------    |:----------------:|:----------------:|:----------------:|:----------------:|
      | [**LaSOT**](https://cis.temple.edu/lasot/)          | 1,400 (I-all-1,400/II-test-**280**)      |3.52M|      xxxx/xxxx/xxxx/xxxx |  [[Project](https://cis.temple.edu/lasot/)][[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Fan_LaSOT_A_High-Quality_Benchmark_for_Large-Scale_Single_Object_Tracking_CVPR_2019_paper.html)]  | 
@@ -105,7 +105,9 @@ not accurately reflect the tracking ability of various trackers. To address this
      | | | | | | 
      | **Others:**| | |  
      | [ALOV300++](http://alov300pp.joomlafree.it/)    | 315            |8.9K|      8.9K/XXXX/XXXX/284      |  xx  | 
-     | [NUS-PRO](https://www.ece.nus.edu.sg/lv/pro/nus_pro.html)        | 365            |135K|      135K/146/5,040/371      |  xx  |   
+     | [NUS-PRO](https://www.ece.nus.edu.sg/lv/pro/nus_pro.html)        | 365            |135K|      135K/146/5,040/371      |  xx  |  
+     
+     * **Common Large-scale Experiment Setting**: **1,432** = **280 (LaSOT)** + **511 (TrackingNet)** + **180 (GOT-10k)** + **401 (NOTU)** + **(60) Latest VOT** 
 
 ## Conference Tracking Papers: 
 
