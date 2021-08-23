@@ -110,7 +110,7 @@ not accurately reflect the tracking ability of various trackers. To address this
      * **Common Large-scale Experiment Setting**: **1,432** = **280 (LaSOT)** + **511 (TrackingNet)** + **180 (GOT-10k)** + **401 (NOTU)** + **(60) Latest VOT** 
 
 ## Resources
-
+* **Resources:**
      * [mmtracking[open-mmlab]](https://github.com/open-mmlab/mmtracking.git): https://github.com/open-mmlab/mmtracking.git
     
      * [TracKit[Microsoft]](https://github.com/researchmm/TracKit)：https://github.com/researchmm/TracKit
@@ -130,6 +130,20 @@ not accurately reflect the tracking ability of various trackers. To address this
      * [Single-Object-Tracking-Paper-List](https://github.com/wangxiao5791509/Single_Object_Tracking_Paper_List)：https://github.com/wangxiao5791509/Single_Object_Tracking_Paper_List
 
      * [Benchmark-Results](https://github.com/foolwood/benchmark_results)：https://github.com/foolwood/benchmark_results
+
+* **Survey & Book:**
+
+    * Handcrafted and Deep Trackers: Recent Visual Object Tracking Approaches and Trends. ACM CS, 2019. <br />  Mustansar Fiaz, Arif Mahmood, Sajid Javed, Soon Ki Jung.
+     
+    * Online Visual Tracking. Springer, 2019. <br />  Huchuan Lu, Dong Wang.
+
+    * Deep Visual Tracking: Review and Experimental Comparison. PR, 2018. <br />  Peixia Li, Dong Wang, Lijun Wang, Huchuan Lu.
+    
+    * Visual Tracking: An Experimental Survey. IEEE TPAMI, 2014. <br /> Arnold W. M. Smeulders, Dung Manh Chu, Rita Cucchiara, Simone Calderara, Afshin Dehghan, Mubarak Shah. 
+    
+    * A Survey of Appearance Models in Visual Object Tracking. ACM TIST, 2013. <br /> Xi Li, Weiming Hu, Chunhua Shen, Zhongfei Zhang, Anthony R. Dick, Anton van den Hengel.  
+    
+    * Object Tracking: A Survey. ACM CS, 2006. <br /> Alper Yilmaz, Omar Javed, Mubarak Shah. 
 
 ## Conference Tracking Papers: 
 
@@ -532,22 +546,6 @@ Heng Fan, Haibin Ling. [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/p
      
 
 
-
-
-* **Survey & Book:**
-
-
-    * Handcrafted and Deep Trackers: Recent Visual Object Tracking Approaches and Trends. ACM CS, 2019. <br />  Mustansar Fiaz, Arif Mahmood, Sajid Javed, Soon Ki Jung.
-     
-    * Online Visual Tracking. Springer, 2019. <br />  Huchuan Lu, Dong Wang.
-
-    * Deep Visual Tracking: Review and Experimental Comparison. PR, 2018. <br />  Peixia Li, Dong Wang, Lijun Wang, Huchuan Lu.
-    
-    * Visual Tracking: An Experimental Survey. IEEE TPAMI, 2014. <br /> Arnold W. M. Smeulders, Dung Manh Chu, Rita Cucchiara, Simone Calderara, Afshin Dehghan, Mubarak Shah. 
-    
-    * A Survey of Appearance Models in Visual Object Tracking. ACM TIST, 2013. <br /> Xi Li, Weiming Hu, Chunhua Shen, Zhongfei Zhang, Anthony R. Dick, Anton van den Hengel.  
-    
-    * Object Tracking: A Survey. ACM CS, 2006. <br /> Alper Yilmaz, Omar Javed, Mubarak Shah. 
      
 * **Online Reports[Chinese]:**
 
