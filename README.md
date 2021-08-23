@@ -111,11 +111,13 @@ not accurately reflect the tracking ability of various trackers. To address this
 
 ## Resources
 * **Codebase & Comparision:**
-     * [mmtracking[open-mmlab]](https://github.com/open-mmlab/mmtracking.git): https://github.com/open-mmlab/mmtracking.git
+     * [**mmtracking[open-mmlab]**](https://github.com/open-mmlab/mmtracking.git): https://github.com/open-mmlab/mmtracking.git
     
-     * [TracKit[Microsoft]](https://github.com/researchmm/TracKit)：https://github.com/researchmm/TracKit
+     * [**TracKit[Microsoft]**](https://github.com/researchmm/TracKit)：https://github.com/researchmm/TracKit
      
-     * [pytracking[visionml]](https://github.com/visionml/pytracking)：https://github.com/visionml/pytracking
+     * [**pytracking[visionml]**](https://github.com/visionml/pytracking)：https://github.com/visionml/pytracking
+
+     * [**paperwithcode[VOT]**](https://paperswithcode.com/task/visual-object-tracking): https://paperswithcode.com/task/visual-object-tracking
      
      * [pysot[STVIR]](https://github.com/STVIR/pysot)：https://github.com/STVIR/pysot
      
