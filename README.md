@@ -109,6 +109,28 @@ not accurately reflect the tracking ability of various trackers. To address this
      
      * **Common Large-scale Experiment Setting**: **1,432** = **280 (LaSOT)** + **511 (TrackingNet)** + **180 (GOT-10k)** + **401 (NOTU)** + **(60) Latest VOT** 
 
+* **Resources:**
+
+     * [mmtracking[open-mmlab]](https://github.com/open-mmlab/mmtracking.git): https://github.com/open-mmlab/mmtracking.git
+    
+     * [TracKit[Microsoft]](https://github.com/researchmm/TracKit)：https://github.com/researchmm/TracKit
+     
+     * [pytracking[visionml]](https://github.com/visionml/pytracking)：https://github.com/visionml/pytracking
+     
+     * [pysot[STVIR]](https://github.com/STVIR/pysot)：https://github.com/STVIR/pysot
+     
+     * [pysot-toolkit](https://github.com/StrangerZhang/pysot-toolkit)：https://github.com/StrangerZhang/pysot-toolkit
+     
+     * [SOT-MOT-Comparision](https://github.com/JudasDie/Comparision)：https://github.com/JudasDie/Comparision
+     
+     * [SiamTrackers](https://github.com/HonglinChu/SiamTrackers)：https://github.com/HonglinChu/SiamTrackers
+     
+     * [CFTrackers](https://github.com/HonglinChu/CFTrackers)：https://github.com/HonglinChu/CFTrackers
+     
+     * [Single-Object-Tracking-Paper-List](https://github.com/wangxiao5791509/Single_Object_Tracking_Paper_List)：https://github.com/wangxiao5791509/Single_Object_Tracking_Paper_List
+
+     * [Benchmark-Results](https://github.com/foolwood/benchmark_results)：https://github.com/foolwood/benchmark_results
+
 ## Conference Tracking Papers: 
 
 * **ICCV 2021:**
@@ -526,28 +548,6 @@ Heng Fan, Haibin Ling. [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/p
     * A Survey of Appearance Models in Visual Object Tracking. ACM TIST, 2013. <br /> Xi Li, Weiming Hu, Chunhua Shen, Zhongfei Zhang, Anthony R. Dick, Anton van den Hengel.  
     
     * Object Tracking: A Survey. ACM CS, 2006. <br /> Alper Yilmaz, Omar Javed, Mubarak Shah. 
-
-* **Resources:**
-
-     * [mmtracking[open-mmlab]](https://github.com/open-mmlab/mmtracking.git): https://github.com/open-mmlab/mmtracking.git
-    
-     * [TracKit[Microsoft]](https://github.com/researchmm/TracKit)：https://github.com/researchmm/TracKit
-     
-     * [pytracking[visionml]](https://github.com/visionml/pytracking)：https://github.com/visionml/pytracking
-     
-     * [pysot[STVIR]](https://github.com/STVIR/pysot)：https://github.com/STVIR/pysot
-     
-     * [pysot-toolkit](https://github.com/StrangerZhang/pysot-toolkit)：https://github.com/StrangerZhang/pysot-toolkit
-     
-     * [SOT-MOT-Comparision](https://github.com/JudasDie/Comparision)：https://github.com/JudasDie/Comparision
-     
-     * [SiamTrackers](https://github.com/HonglinChu/SiamTrackers)：https://github.com/HonglinChu/SiamTrackers
-     
-     * [CFTrackers](https://github.com/HonglinChu/CFTrackers)：https://github.com/HonglinChu/CFTrackers
-     
-     * [Single-Object-Tracking-Paper-List](https://github.com/wangxiao5791509/Single_Object_Tracking_Paper_List)：https://github.com/wangxiao5791509/Single_Object_Tracking_Paper_List
-
-     * [Benchmark-Results](https://github.com/foolwood/benchmark_results)：https://github.com/foolwood/benchmark_results
      
 * **Online Reports[Chinese]:**
 
