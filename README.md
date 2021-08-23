@@ -110,7 +110,7 @@ not accurately reflect the tracking ability of various trackers. To address this
      * **Common Large-scale Experiment Setting**: **1,432** = **280 (LaSOT)** + **511 (TrackingNet)** + **180 (GOT-10k)** + **401 (NOTU)** + **(60) Latest VOT** 
 
 ## Resources
-* **Resources:**
+* **Codebase&Comparision:**
      * [mmtracking[open-mmlab]](https://github.com/open-mmlab/mmtracking.git): https://github.com/open-mmlab/mmtracking.git
     
      * [TracKit[Microsoft]](https://github.com/researchmm/TracKit)：https://github.com/researchmm/TracKit
@@ -126,10 +126,10 @@ not accurately reflect the tracking ability of various trackers. To address this
      * [SiamTrackers](https://github.com/HonglinChu/SiamTrackers)：https://github.com/HonglinChu/SiamTrackers
      
      * [CFTrackers](https://github.com/HonglinChu/CFTrackers)：https://github.com/HonglinChu/CFTrackers
-     
-     * [Single-Object-Tracking-Paper-List](https://github.com/wangxiao5791509/Single_Object_Tracking_Paper_List)：https://github.com/wangxiao5791509/Single_Object_Tracking_Paper_List
 
      * [Benchmark-Results](https://github.com/foolwood/benchmark_results)：https://github.com/foolwood/benchmark_results
+
+     * [Single-Object-Tracking-Paper-List](https://github.com/wangxiao5791509/Single_Object_Tracking_Paper_List)：https://github.com/wangxiao5791509/Single_Object_Tracking_Paper_List
 
 * **Survey & Book:**
 
