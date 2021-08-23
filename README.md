@@ -74,6 +74,7 @@ LaSOT, TrackingNet, GOT-10k, NOTU (NFS, OTB100, TC128, UAV123) and VOT family.  
      * **Success Score** is reported 
      * **What is NOTU?** In recent years, an obvious trend of over-fitting has been observed on some small-scale tracking benchmarks like OTB. Performance on these datasets may
 not accurately reflect the tracking ability of various trackers. To address this issue, we collect a new large-scale tracking benchmark called NOTU, which contains all **401** sequences from NFS, OTB100, TC128, and UAV123. The evaluation metric include 'Success' and 'Precision'. The NOTU test will introduce **a large-scale evaluation**. 
+     * **Why use NOTU?** 
 
 * **[VOT Challenge](https://www.votchallenge.net/challenges.html):star2:**
      * **VOT 2021**
