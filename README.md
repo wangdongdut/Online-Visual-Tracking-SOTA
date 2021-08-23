@@ -525,6 +525,7 @@ Heng Fan, Haibin Ling. [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/p
     * Object Tracking: A Survey. ACM CS, 2006. <br /> Alper Yilmaz, Omar Javed, Mubarak Shah. 
 
 * **Resources:**
+     * [mmtracking[open-mmlab]](https://github.com/open-mmlab/mmtracking.git)：https://github.com/open-mmlab/mmtracking.git
 
      * [TracKit[Microsoft]](https://github.com/researchmm/TracKit)：https://github.com/researchmm/TracKit
      
