@@ -99,10 +99,10 @@ not accurately reflect the tracking ability of various trackers. To address this
      | [**N**FS](http://ci2cv.net/nfs/index.html)          | 100            |   383K   | 383K/169/20,665/3,830      |  xx  | 
      | [**O**TB100](http://cvlab.hanyang.ac.kr/tracker_benchmark/)       | 100        | 59K    |      59K/71/3,872/590       |  xx  |  
      | [**T**C128](http://www.dabi.temple.edu/~hbling/data/TColor-128/TColor-128.html)         | 128     | 55K | 55K/71/3,872/429   |  xx  |  
-     | [**U**AV123](https://uav123.org/)                   | 123            |      113K/109/3,085/915      |  xx  |  
+     | [**U**AV123](https://uav123.org/)                   | 123            |113K|      113K/109/3,085/915      |  xx  |  
      | **Others:**| | |  
-     | [ALOV300++](http://alov300pp.joomlafree.it/)    | 315            |      8.9K/XXXX/XXXX/284      |  xx  | 
-     | [NUS-PRO](https://www.ece.nus.edu.sg/lv/pro/nus_pro.html)        | 365            |      135K/146/5,040/371      |  xx  |   
+     | [ALOV300++](http://alov300pp.joomlafree.it/)    | 315            |8.9K|      8.9K/XXXX/XXXX/284      |  xx  | 
+     | [NUS-PRO](https://www.ece.nus.edu.sg/lv/pro/nus_pro.html)        | 365            |135K|      135K/146/5,040/371      |  xx  |   
 
 ## Conference Tracking Papers: 
 
