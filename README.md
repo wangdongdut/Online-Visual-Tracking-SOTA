@@ -175,10 +175,9 @@ not accurately reflect the tracking ability of various trackers. To address this
 
     * Object Tracking by Jointly Exploiting Frame and Event Domain. ICCV, 2021.  <br /> Jiqing Zhang, Xin Yang, Yingkai Fu, Xiaopeng Wei, Baocai Yin, Bo Dong. [[Paper]()][[Project](https://zhangjiqing.com/dataset/)]
 
-* **CVPR 2021:**
-     * Transformer Tracking. CVPR, 2021.  <br /> Xin Chen, Bin Yan, Jiawen Zhu, Dong Wang, Xiaoyun yang, Huchuan Lu. [[Paper](https://arxiv.org/abs/2103.15436)][[Code](https://github.com/chenxin-dlut/TransT)]
+    * Transformer Tracking. CVPR, 2021.  <br /> Xin Chen, Bin Yan, Jiawen Zhu, Dong Wang, Xiaoyun yang, Huchuan Lu. [[Paper](https://arxiv.org/abs/2103.15436)][[Code](https://github.com/chenxin-dlut/TransT)]
      
-     * Alpha-Refine: Boosting Tracking Performance by Precise Bounding Box Estimation. CVPR, 2021.  <br />  Bin Yan, Xinyu Zhang, Dong Wang, Huchuan Lu, Xiaoyun Yang.  [[Paper](https://arxiv.org/abs/2012.06815)][[Code](https://github.com/MasterBin-IIAU/AlphaRefine)]
+    * Alpha-Refine: Boosting Tracking Performance by Precise Bounding Box Estimation. CVPR, 2021.  <br />  Bin Yan, Xinyu Zhang, Dong Wang, Huchuan Lu, Xiaoyun Yang.  [[Paper](https://arxiv.org/abs/2012.06815)][[Code](https://github.com/MasterBin-IIAU/AlphaRefine)]
      
      * LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search. CVPR, 2021.  <br />  Bin Yan, Houwen Peng, Kan Wu, Dong Wang, Jianlong Fu, Huchuan Lu.  [[Paper](https://arxiv.org/abs/2104.14545)][[Code](https://github.com/researchmm/LightTrack)] 
      
