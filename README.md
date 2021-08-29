@@ -157,11 +157,11 @@ not accurately reflect the tracking ability of various trackers. To address this
     
     * Object Tracking: A Survey. ACM CS, 2006. <br /> Alper Yilmaz, Omar Javed, Mubarak Shah. [[Paper](https://dl.acm.org/doi/10.1145/1177352.1177355)]
 
-* **Survey & Book:**
+* **Highly-cited Journal Paper:**
 
-## Conference Papers: 
+## Conference Paper
 
-* **ICCV 2021:**
+* **2021:**
      * Learning Spatio-Temporal Transformer for Visual Tracking. ICCV, 2021.  <br /> Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu. [[Paper](https://arxiv.org/abs/2103.17154)][[Code](https://github.com/researchmm/Stark)] 
      
      * Learning Target Candidate Association to Keep Track of What Not to Track. ICCV, 2021.  <br /> Christoph Mayer, Martin Danelljan, Danda Pani Paudel, Luc Van Gool. [[Paper](https://arxiv.org/abs/2103.16556)][[Code](https://github.com/visionml/pytracking)] <br />
@@ -209,10 +209,7 @@ not accurately reflect the tracking ability of various trackers. To address this
      * Progressive Unsupervised Learning for Visual Object Tracking.  CVPR, 2021.  <br /> Qiangqiang Wu, Jia Wan, Antoni B. Chan.   [[Paper]()][[Code]()] 
      
      * MeanShift++: Extremely Fast Mode-Seeking With Applications to Segmentation and Object Tracking.  CVPR, 2021.  <br /> Jennifer Jang, Heinrich Jiang.   [[Paper]()][[Code]()]  
-
      * CapsuleRRT: Relationships-Aware Regression Tracking via Capsules.  CVPR, 2021.  <br /> Ding Ma, Xiangqian Wu.   [[Paper]()][[Code]()]  
-
-
 
 * **2020:**
      * High-Performance Long-Term Tracking with Meta-Updater. CVPR, 2020.  <br /> Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang. [[Paper]()][[Code](https://github.com/Daikenan/LTMU)]
