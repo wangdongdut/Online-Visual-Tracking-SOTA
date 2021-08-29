@@ -142,7 +142,7 @@ not accurately reflect the tracking ability of various trackers. To address this
 
     * Handcrafted and Deep Trackers: Recent Visual Object Tracking Approaches and Trends. ACM CS, 2019. <br />  Mustansar Fiaz, Arif Mahmood, Sajid Javed, Soon Ki Jung.
      
-    * Online Visual Tracking. Springer, 2019. <br />  Huchuan Lu, Dong Wang.
+    * Online Visual Tracking. Springer, 2019. <br />  Huchuan Lu, Dong Wang. [[Book](https://www.springer.com/gp/book/9789811304682)]
 
     * Deep Visual Tracking: Review and Experimental Comparison. PR, 2018. <br />  Peixia Li, Dong Wang, Lijun Wang, Huchuan Lu.
     
