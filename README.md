@@ -135,30 +135,6 @@ not accurately reflect the tracking ability of various trackers. To address this
 
 * **Result Collection & Evaluation Tools:**
 
-## Survey, Book and Highly-cited Journal Paper
-
-* **Survey & Book:**
-
-    * Deep Learning for Visual Tracking: A Comprehensive Survey. IEEE TITS, 2021. <br />  Seyed Mojtaba Marvasti-Zadeh, Li Cheng, Hossein Ghanei-Yakhdan, Shohreh Kasaei. 
-      [[Paper](https://ieeexplore.ieee.org/document/9339950)]
-
-    * Handcrafted and Deep Trackers: Recent Visual Object Tracking Approaches and Trends. ACM CS, 2019. <br />  Mustansar Fiaz, Arif Mahmood, Sajid Javed, Soon Ki Jung. 
-    [[Paper](https://dl.acm.org/doi/abs/10.1145/3309665)]
-     
-    * Online Visual Tracking. Springer, 2019. <br />  Huchuan Lu, Dong Wang. [[Book](https://www.springer.com/gp/book/9789811304682)]
-
-    * Deep Visual Tracking: Review and Experimental Comparison. PR, 2018. <br />  Peixia Li, Dong Wang, Lijun Wang, Huchuan Lu. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320317304612)]
-    
-    * Visual Tracking: An Experimental Survey. IEEE TPAMI, 2014. <br /> Arnold W. M. Smeulders, Dung Manh Chu, Rita Cucchiara, Simone Calderara, Afshin Dehghan, Mubarak Shah. 
-    [[Paper](https://ieeexplore.ieee.org/document/6671560)]
-    
-    * A Survey of Appearance Models in Visual Object Tracking. ACM TIST, 2013. <br /> Xi Li, Weiming Hu, Chunhua Shen, Zhongfei Zhang, Anthony R. Dick, Anton van den Hengel. 
-    [[Paper](https://dl.acm.org/doi/10.1145/2508037.2508039)]
-    
-    * Object Tracking: A Survey. ACM CS, 2006. <br /> Alper Yilmaz, Omar Javed, Mubarak Shah. [[Paper](https://dl.acm.org/doi/10.1145/1177352.1177355)]
-
-* **Highly-cited Journal Paper:**
-
 ## Conference Paper
 
 * **2021:**
@@ -553,8 +529,29 @@ Heng Fan, Haibin Ling. [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/p
      
 * **Before 2013:**
      
+## Survey, Book and Highly-cited Journal Paper
 
+* **Survey & Book:**
 
+    * Deep Learning for Visual Tracking: A Comprehensive Survey. IEEE TITS, 2021. <br />  Seyed Mojtaba Marvasti-Zadeh, Li Cheng, Hossein Ghanei-Yakhdan, Shohreh Kasaei. 
+      [[Paper](https://ieeexplore.ieee.org/document/9339950)]
+
+    * Handcrafted and Deep Trackers: Recent Visual Object Tracking Approaches and Trends. ACM CS, 2019. <br />  Mustansar Fiaz, Arif Mahmood, Sajid Javed, Soon Ki Jung. 
+    [[Paper](https://dl.acm.org/doi/abs/10.1145/3309665)]
+     
+    * Online Visual Tracking. Springer, 2019. <br />  Huchuan Lu, Dong Wang. [[Book](https://www.springer.com/gp/book/9789811304682)]
+
+    * Deep Visual Tracking: Review and Experimental Comparison. PR, 2018. <br />  Peixia Li, Dong Wang, Lijun Wang, Huchuan Lu. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320317304612)]
+    
+    * Visual Tracking: An Experimental Survey. IEEE TPAMI, 2014. <br /> Arnold W. M. Smeulders, Dung Manh Chu, Rita Cucchiara, Simone Calderara, Afshin Dehghan, Mubarak Shah. 
+    [[Paper](https://ieeexplore.ieee.org/document/6671560)]
+    
+    * A Survey of Appearance Models in Visual Object Tracking. ACM TIST, 2013. <br /> Xi Li, Weiming Hu, Chunhua Shen, Zhongfei Zhang, Anthony R. Dick, Anton van den Hengel. 
+    [[Paper](https://dl.acm.org/doi/10.1145/2508037.2508039)]
+    
+    * Object Tracking: A Survey. ACM CS, 2006. <br /> Alper Yilmaz, Omar Javed, Mubarak Shah. [[Paper](https://dl.acm.org/doi/10.1145/1177352.1177355)]
+
+* **Highly-cited Journal Paper:**
      
 * **Online Reports[Chinese]:**
 
