@@ -145,9 +145,10 @@ not accurately reflect the tracking ability of various trackers. To address this
      
     * Online Visual Tracking. Springer, 2019. <br />  Huchuan Lu, Dong Wang. [[Book](https://www.springer.com/gp/book/9789811304682)]
 
-    * Deep Visual Tracking: Review and Experimental Comparison. PR, 2018. <br />  Peixia Li, Dong Wang, Lijun Wang, Huchuan Lu.
+    * Deep Visual Tracking: Review and Experimental Comparison. PR, 2018. <br />  Peixia Li, Dong Wang, Lijun Wang, Huchuan Lu. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320317304612)]
     
     * Visual Tracking: An Experimental Survey. IEEE TPAMI, 2014. <br /> Arnold W. M. Smeulders, Dung Manh Chu, Rita Cucchiara, Simone Calderara, Afshin Dehghan, Mubarak Shah. 
+    [[Paper](https://ieeexplore.ieee.org/document/6671560)]
     
     * A Survey of Appearance Models in Visual Object Tracking. ACM TIST, 2013. <br /> Xi Li, Weiming Hu, Chunhua Shen, Zhongfei Zhang, Anthony R. Dick, Anton van den Hengel.  
     
