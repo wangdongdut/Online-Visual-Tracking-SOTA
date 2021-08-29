@@ -153,7 +153,7 @@ not accurately reflect the tracking ability of various trackers. To address this
     * A Survey of Appearance Models in Visual Object Tracking. ACM TIST, 2013. <br /> Xi Li, Weiming Hu, Chunhua Shen, Zhongfei Zhang, Anthony R. Dick, Anton van den Hengel. 
     [[Paper](https://dl.acm.org/doi/10.1145/2508037.2508039)]
     
-    * Object Tracking: A Survey. ACM CS, 2006. <br /> Alper Yilmaz, Omar Javed, Mubarak Shah. 
+    * Object Tracking: A Survey. ACM CS, 2006. <br /> Alper Yilmaz, Omar Javed, Mubarak Shah. [[Paper](https://dl.acm.org/doi/10.1145/1177352.1177355)]
 
 ## Conference Tracking Papers: 
 
@@ -414,7 +414,6 @@ Heng Fan, Haibin Ling. [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/p
      * Distractor-supported single target tracking in extremely cluttered scenes. ECCV, 2016.  <br /> Jingjing Xiao, Linbo Qiao, Rustam Stolkin, leš Leonardis. 
      
      * Real-Time Visual Tracking: Promoting the Robustness of Correlation Filter Learning. ECCV, 2016.  <br /> Yao Sui, Ziming Zhang, Guanghui Wang, Yafei Tang, Li Zhang. 
-
 
 * **2015:**
      * Structural Sparse Tracking. CVPR, 2015.  <br /> Tianzhu Zhang, Si Liu, Changsheng Xu, Shuicheng Yan, Bernard Ghanem, Narendra Ahuja, Ming-Hsuan Yang. [[Paper](http://openaccess.thecvf.com/content_cvpr_2015/papers/Zhang_Structural_Sparse_Tracking_2015_CVPR_paper.pdf)]
