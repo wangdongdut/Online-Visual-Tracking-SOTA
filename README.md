@@ -135,7 +135,7 @@ not accurately reflect the tracking ability of various trackers. To address this
 
 * **Result Collection & Evaluation Tools:**
 
-## Survey, Book and Highly-cited Journal Paper**
+## Survey, Book and Highly-cited Journal Paper
 
 * **Survey & Book:**
 
