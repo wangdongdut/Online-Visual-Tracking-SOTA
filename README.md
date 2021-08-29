@@ -135,6 +135,8 @@ not accurately reflect the tracking ability of various trackers. To address this
 
 * **Result Collection & Evaluation Tools:**
 
+## Survey, Book and Highly-cited Journal Paper**
+
 * **Survey & Book:**
 
     * Deep Learning for Visual Tracking: A Comprehensive Survey. IEEE TITS, 2021. <br />  Seyed Mojtaba Marvasti-Zadeh, Li Cheng, Hossein Ghanei-Yakhdan, Shohreh Kasaei. 
@@ -155,7 +157,9 @@ not accurately reflect the tracking ability of various trackers. To address this
     
     * Object Tracking: A Survey. ACM CS, 2006. <br /> Alper Yilmaz, Omar Javed, Mubarak Shah. [[Paper](https://dl.acm.org/doi/10.1145/1177352.1177355)]
 
-## Conference Tracking Papers: 
+* **Survey & Book:**
+
+## Conference Papers: 
 
 * **ICCV 2021:**
      * Learning Spatio-Temporal Transformer for Visual Tracking. ICCV, 2021.  <br /> Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu. [[Paper](https://arxiv.org/abs/2103.17154)][[Code](https://github.com/researchmm/Stark)] 
