@@ -150,7 +150,9 @@ not accurately reflect the tracking ability of various trackers. To address this
 
     * Saliency-Associated Object Tracking. ICCV, 2021.  <br /> Zikun Zhou, Wenjie Pei, Xin Li, Hongpeng Wang, Feng Zheng, Zhenyu He. [[Paper](https://arxiv.org/abs/2108.03637)][[Code](https://github.com/ZikunZhou/SAOT)]
     
-    * Video Annotation for Visual Tracking via Selection and Refinement. ICCV, 2021.  <br /> Kenan Dai, Jie Zhao, Lijun Wang, Dong Wang, Jianhua Li, Huchuan Lu, Xuesheng Qian, Xiaoyun Yang. [[Paper](https://arxiv.org/abs/2108.03821)][[Code]()] 
+    * Video Annotation for Visual Tracking via Selection and Refinement. ICCV, 2021.  <br /> Kenan Dai, Jie Zhao, Lijun Wang, Dong Wang, Jianhua Li, Huchuan Lu, Xuesheng Qian, Xiaoyun Yang. [[Paper](https://arxiv.org/abs/2108.03821)][[Code](https://github.com/Daikenan/VASR)] 
+
+     * Learning to Track Objects from Unlabeled Videos. ICCV, 2021.  <br /> Jilai Zheng, Chao Ma, Houwen Peng, Xiaokang Yang. [[Paper](https://arxiv.org/abs/2108.12711)][[Code](https://github.com/VISION-SJTU/USOT)] 
 
     * Transparent Object Tracking Benchmark. ICCV, 2021.  <br /> Heng Fan, Halady Akhilesha Miththanthaya, Harshit, Siranjiv Ramana Rajan, Xiaoqiong Liu, Zhilin Zou, Yuewei Lin, Haibin Ling. [[Paper](https://arxiv.org/abs/2011.10875)][[Project](https://hengfan2010.github.io/projects/TOTB/)]
 
