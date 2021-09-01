@@ -109,6 +109,24 @@ not accurately reflect the tracking ability of various trackers. To address this
      
      * **Common Large-scale Experiment Setting**: **1,432** = **280 (LaSOT)** + **511 (TrackingNet)** + **180 (GOT-10k)** + **401 (NOTU)** + **(60) Latest VOT** 
 
+* **RGBT:**
+     
+     | Datasets       | #videos    | #total (All) | #total/min/max/average frames (Test Set)|  Project/Paper|
+     |:-----------    |:----------------:|:----------------:|:----------------:|:----------------:|
+     | [**XXXX**]()        |xxxx |  xxxx  |  xxxx/xxxx/xxxx/xxxx  |    |  
+     | [**XXXX**]()      |xxxx |  xxxx  |  xxxx/xxxx/xxxx/xxxx  |    |    
+     | [**XXXX**]()      |xxxx |  xxxx  |  xxxx/xxxx/xxxx/xxxx  |    |    
+     | [**XXXX**]()      |xxxx |  xxxx  |  xxxx/xxxx/xxxx/xxxx  |    |
+     
+* **VLT (Vision-Lanuage-Tracking):**
+     
+     | Datasets       | #videos    | #total (All) | #total/min/max/average frames (Test Set)|  Project/Paper|
+     |:-----------    |:----------------:|:----------------:|:----------------:|:----------------:|
+     | [**XXXX**]()        |xxxx |  xxxx  |  xxxx/xxxx/xxxx/xxxx  |    |  
+     | [**XXXX**]()      |xxxx |  xxxx  |  xxxx/xxxx/xxxx/xxxx  |    |    
+     | [**XXXX**]()      |xxxx |  xxxx  |  xxxx/xxxx/xxxx/xxxx  |    |    
+     | [**XXXX**]()      |xxxx |  xxxx  |  xxxx/xxxx/xxxx/xxxx  |    |      
+
 * **RGBD:**
      
      | Datasets       | #videos    | #total (All) | #total/min/max/average frames (Test Set)|  Project/Paper|
@@ -118,24 +136,6 @@ not accurately reflect the tracking ability of various trackers. To address this
      | [**STC**]()      |xxxx |  xxxx  |  xxxx/xxxx/xxxx/xxxx  |    |    
      | [**PTB**]()      |xxxx |  xxxx  |  xxxx/xxxx/xxxx/xxxx  |    |    
      
-* **RGBT:**
-     
-     | Datasets       | #videos    | #total (All) | #total/min/max/average frames (Test Set)|  Project/Paper|
-     |:-----------    |:----------------:|:----------------:|:----------------:|:----------------:|
-     | [**XXXX**]()        |xxxx |  xxxx  |  xxxx/xxxx/xxxx/xxxx  |    |  
-     | [**XXXX**]()      |xxxx |  xxxx  |  xxxx/xxxx/xxxx/xxxx  |    |    
-     | [**XXXX**]()      |xxxx |  xxxx  |  xxxx/xxxx/xxxx/xxxx  |    |    
-     | [**XXXX**]()      |xxxx |  xxxx  |  xxxx/xxxx/xxxx/xxxx  |    |    
-
-* **VLT (Vision-Lanuage-Tracking):**
-     
-     | Datasets       | #videos    | #total (All) | #total/min/max/average frames (Test Set)|  Project/Paper|
-     |:-----------    |:----------------:|:----------------:|:----------------:|:----------------:|
-     | [**XXXX**]()        |xxxx |  xxxx  |  xxxx/xxxx/xxxx/xxxx  |    |  
-     | [**XXXX**]()      |xxxx |  xxxx  |  xxxx/xxxx/xxxx/xxxx  |    |    
-     | [**XXXX**]()      |xxxx |  xxxx  |  xxxx/xxxx/xxxx/xxxx  |    |    
-     | [**XXXX**]()      |xxxx |  xxxx  |  xxxx/xxxx/xxxx/xxxx  |    |    
-
 * **Other Interesting Datasets:**
 
 ## Resources
