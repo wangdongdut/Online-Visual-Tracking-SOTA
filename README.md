@@ -142,17 +142,17 @@ not accurately reflect the tracking ability of various trackers. To address this
      
      * Learning Target Candidate Association to Keep Track of What Not to Track. ICCV, 2021.  <br /> Christoph Mayer, Martin Danelljan, Danda Pani Paudel, Luc Van Gool. [[Paper](https://arxiv.org/abs/2103.16556)][[Code](https://github.com/visionml/pytracking)] <br />
 
-     * Learn to Match: Automatic Matching Network Design for Visual Tracking. ICCV, 2021.  <br /> Zhipeng Zhang, Yihao Liu, Xiao Wang, Bing Li, Weiming Hu. [[Paper](https://arxiv.org/abs/2108.00803)][[Code](https://github.com/JudasDie/SOTS)]
+     * Learn to Match: Automatic Matching Network Design for Visual Tracking. ICCV, 2021.  <br /> Zhipeng Zhang, Yihao Liu, Xiao Wang, Bing Li, Weiming Hu. [[Paper](https://arxiv.org/abs/2108.00803)][[Code](https://github.com/JudasDie/SOTS)] 
+
+    * Saliency-Associated Object Tracking. ICCV, 2021.  <br /> Zikun Zhou, Wenjie Pei, Xin Li, Hongpeng Wang, Feng Zheng, Zhenyu He. [[Paper](https://arxiv.org/abs/2108.03637)][[Code](https://github.com/ZikunZhou/SAOT)]
+    
+     * Video Annotation for Visual Tracking via Selection and Refinement. ICCV, 2021.  <br /> Kenan Dai, Jie Zhao, Lijun Wang, Dong Wang, Jianhua Li, Huchuan Lu, Xuesheng Qian, Xiaoyun Yang. [[Paper](https://arxiv.org/abs/2108.03821)][[Code](https://github.com/Daikenan/VASR)]
+
+     * Learning to Track Objects from Unlabeled Videos. ICCV, 2021.  <br /> Jilai Zheng, Chao Ma, Houwen Peng, Xiaokang Yang. [[Paper](https://arxiv.org/abs/2108.12711)][[Code](https://github.com/VISION-SJTU/USOT)] 
 
      * Learning to Adversarially Blur Visual Object Tracking. ICCV, 2021.  <br /> Qing Guo, Ziyi Cheng, Felix Juefei-Xu, Lei Ma, Xiaofei Xie, Yang Liu, Jianjun Zhao. [[Paper](https://arxiv.org/abs/2107.12085)][[Code](https://github.com/tsingqguo/ABA)]
 
      * HiFT: Hierarchical Feature Transformer for Aerial Tracking. ICCV, 2021.  <br /> Ziang Cao, Changhong Fu, Junjie Ye, Bowen Li, Yiming Li. [[Paper](https://arxiv.org/abs/2108.00202)][[Code]( https://github.com/vision4robotics/HiFT)]
-
-    * Saliency-Associated Object Tracking. ICCV, 2021.  <br /> Zikun Zhou, Wenjie Pei, Xin Li, Hongpeng Wang, Feng Zheng, Zhenyu He. [[Paper](https://arxiv.org/abs/2108.03637)][[Code](https://github.com/ZikunZhou/SAOT)]
-    
-    * Video Annotation for Visual Tracking via Selection and Refinement. ICCV, 2021.  <br /> Kenan Dai, Jie Zhao, Lijun Wang, Dong Wang, Jianhua Li, Huchuan Lu, Xuesheng Qian, Xiaoyun Yang. [[Paper](https://arxiv.org/abs/2108.03821)][[Code](https://github.com/Daikenan/VASR)] 
-
-     * Learning to Track Objects from Unlabeled Videos. ICCV, 2021.  <br /> Jilai Zheng, Chao Ma, Houwen Peng, Xiaokang Yang. [[Paper](https://arxiv.org/abs/2108.12711)][[Code](https://github.com/VISION-SJTU/USOT)] 
 
     * Transparent Object Tracking Benchmark. ICCV, 2021.  <br /> Heng Fan, Halady Akhilesha Miththanthaya, Harshit, Siranjiv Ramana Rajan, Xiaoqiong Liu, Zhilin Zou, Yuewei Lin, Haibin Ling. [[Paper](https://arxiv.org/abs/2011.10875)][[Project](https://hengfan2010.github.io/projects/TOTB/)]
 
