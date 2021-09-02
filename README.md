@@ -129,7 +129,7 @@ not accurately reflect the tracking ability of various trackers. To address this
      
      | Datasets       | #videos    | #total (All) | #total/min/max/average frames (Test Set)|  Project/Paper|
      |:-----------    |:----------------:|:----------------:|:----------------:|:----------------:|
-     | [**DepthTrack**]()        |xxxx |  xxxx  |  xxxx/xxxx/xxxx/xxxx  |    |  
+     | [**DepthTrack**]()        |xxxx |  xxxx  |  xxxx/xxxx/xxxx/xxxx  | [[Project](https://github.com/xiaozai/DeT)][[Paper](https://arxiv.org/abs/2108.13962)]  |  
      | [**CDTB**]()      |xxxx |  xxxx  |  xxxx/xxxx/xxxx/xxxx  |    |    
      | [**STC**]()      |xxxx |  xxxx  |  xxxx/xxxx/xxxx/xxxx  |    |    
      | [**PTB**]()      |xxxx |  xxxx  |  xxxx/xxxx/xxxx/xxxx  |    |    
