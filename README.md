@@ -3,9 +3,9 @@
 This page focuses on watching the state-of-the-art performance for the short-term tracking task (if you are interested in the long-term tracking task, please visit **[here](https://github.com/wangdongdut/Long-term-Visual-Tracking)**). The evaluation datasets include: 
 LaSOT, TrackingNet, GOT-10k, NOTU (NFS, OTB100, TC128, UAV123) and VOT family.  If you are also interested in some resources on Paper Writting (computer vision), please visit **[here](https://github.com/wangdongdut/PaperWriting)**.  
 
-**:star:** **Recently, transformer-based trackers (STARK (ICCV21), TransT (CVPR21), TrDimp (CVPR21)) obtain leading results.** 
+**:star:** **SwinTrack: A Simple and Strong Baseline for Transformer Tracking (https://arxiv.org/abs/2112.00995)(https://github.com/LitingLin/SwinTrack) achieves new records on many benchmarks**
 
-**:star:** **SwinTrack: A Simple and Strong Baseline for Transformer Tracking (https://arxiv.org/abs/2112.00995)** 
+**:star:** **Recently, transformer-based trackers (STARK (ICCV21), TransT (CVPR21), TrDimp (CVPR21)) obtain leading results.** 
 
 * **LaSOT:star2:**
 
