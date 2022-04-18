@@ -16,6 +16,7 @@ LaSOT, TrackingNet, GOT-10k, NOTU (NFS, OTB100, TC128, UAV123) and VOT family.  
      | ToMP                 |     |     |     | 
      | UTT                  |     |     |     |      
      | SBT                  |     |     |     | 
+     | Stark|               |     |     |     |
      | TransT               |     |     |     | 
      | TrDimp               |     |     |     | 
 
