@@ -8,6 +8,17 @@ LaSOT, TrackingNet, GOT-10k, NOTU (NFS, OTB100, TC128, UAV123) and VOT family.  
 
 * **Benchmark Results**
 
+     | Tracker              | LaSOT (AUC)   | GOT-10K (AO) | TrackingNet (AUC) |
+     |:-----------          |:----------------:|:----------------:|:----------------:|
+     | OSTrack              |     |     |     |     
+     | SimTrack             |     |     |     | 
+     | SwinTrack            |     |     |     | 
+     | ToMP                 |     |     |     | 
+     | UTT                  |     |     |     |      
+     | SBT                  |     |     |     | 
+     | TransT               |     |     |     | 
+     | TrDimp               |     |     |     | 
+
 * **Reference**
 
    * **OSTrack**--Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework. Arxiv, 2022.   <br /> Botao Ye, Hong Chang, Bingpeng Ma, Shiguang Shan.  [[Paper](https://arxiv.org/abs/2203.11991)][[Code](https://github.com/botaoye/OSTrack)]  <br /> 
