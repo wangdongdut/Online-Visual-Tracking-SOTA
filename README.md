@@ -10,6 +10,8 @@ LaSOT, TrackingNet, GOT-10k, NOTU (NFS, OTB100, TC128, UAV123) and VOT family.  
 
 * **Reference**
 
+    * **OSTrack**--Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework. Arxiv, 2022.   <br /> Botao Ye, Hong Chang, Bingpeng Ma, Shiguang Shan.  [[Paper](https://arxiv.org/abs/2203.11991)][[Code](https://github.com/botaoye/OSTrack)]  <br />
+
      * **ToMP**--Transforming Model Prediction for Tracking. CVPR, 2022.  <br /> Christoph Mayer, Martin Danelljan, Goutam Bhat, Matthieu Paul, Danda Pani Paudel, Fisher Yu, Luc Van Gool.  [[Paper](https://arxiv.org/abs/2203.11192)][[Code](https://github.com/visionml/pytracking)]  <br />
 
      * **MixFormer**--MixFormer: End-to-End Tracking with Iterative Mixed Attention. CVPR, 2022.  <br />  Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu. [[Paper](https://arxiv.org/abs/2203.11082)][[Code](https://github.com/MCG-NJU/MixFormer)]  <br />
