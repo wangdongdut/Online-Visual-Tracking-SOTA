@@ -4,6 +4,8 @@ This page focuses on watching the state-of-the-art performance for the short-ter
 LaSOT, TrackingNet, GOT-10k, NOTU (NFS, OTB100, TC128, UAV123) and VOT family.  If you are also interested in some resources on Paper Writting (computer vision), please visit **[here](https://github.com/wangdongdut/PaperWriting)**.  
 
 
+## Transformer Tracking Era
+
 **:star:** **Recently, transformer-based trackers ([SwinTrack(Arxiv21)](https://github.com/LitingLin/SwinTrack), 
 [STARK(ICCV21)](https://github.com/researchmm/Stark), 
 [TransT(CVPR21)](https://github.com/chenxin-dlut/TransT), 
@@ -12,7 +14,7 @@ LaSOT, TrackingNet, GOT-10k, NOTU (NFS, OTB100, TC128, UAV123) and VOT family.  
 **:star:** **Visual Object Tracking with Discriminative Filters and Siamese Networks: A Survey and Outlook (https://arxiv.org/abs/2112.02838) 
 A Recent Good Survey on Visual Tracking.** 
 
-
+## Tracking Algorithms before 2022
 
 * **LaSOT:star2:**
 
