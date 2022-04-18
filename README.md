@@ -8,9 +8,9 @@ LaSOT, TrackingNet, GOT-10k, NOTU (NFS, OTB100, TC128, UAV123) and VOT family.  
 
 * **Benchmark Results**
 
-     | Tracker              | LaSOT (AUC)   | GOT-10K (AO) | TrackingNet (AUC) |
+     | Tracker              | LaSOT (AUC)   | TrackingNet (AUC) | GOT-10K (AO)  |
      |:-----------          |:----------------:|:----------------:|:----------------:|
-     | OSTrack              |     |     |     |     
+     | OSTrack(-384)        |  0.711   |   0.839  |   0.737  |     
      | SimTrack             |     |     |     | 
      | SwinTrack            |     |     |     | 
      | ToMP                 |     |     |     | 
