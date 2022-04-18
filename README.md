@@ -12,13 +12,17 @@ LaSOT, TrackingNet, GOT-10k, NOTU (NFS, OTB100, TC128, UAV123) and VOT family.  
      |:-----------          |:----------------:|:----------------:|:----------------:|
      | OSTrack(-384)        |  0.711   |   0.839  |   0.737  |     
      | SimTrack(-L/14)      |  0.705   |   0.834  |   0.698  | 
-     | SwinTrack(-B-384)    |  0.702   |   0.840  |   0.694^* | 
-     | ToMP                 |     |     |     | 
-     | UTT                  |     |     |     |      
-     | SBT                  |     |     |     | 
-     | Stark|               |     |     |     |
-     | TransT               |     |     |     | 
-     | TrDimp               |     |     |     | 
+     | SwinTrack(-B-384)    |  0.702   |   0.840  |   0.694* | 
+     | ToMP(-101)           |  0.685   |   0.815  |   --  |      
+     | SBT(-large)          |  0.667   |   --  |  0.704   | 
+     | Stark(-ST101)        |     |     |     |
+     | TransT               |  0.649   |   0.814  |   0.671  | 
+     | TrDimp               |  0.639   |     |     | 
+     | Siam R-CNN           |     |     |     | 
+     | DiMP                 |     |     |     | 
+     | SiamRPN++            |     |     |     | 
+
+     * **Baseline: SiamRPN++, DiMP, Siam R-CNN**
 
 * **Reference**
 
