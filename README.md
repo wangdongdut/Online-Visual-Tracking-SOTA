@@ -10,7 +10,9 @@ LaSOT, TrackingNet, GOT-10k, NOTU (NFS, OTB100, TC128, UAV123) and VOT family.  
 
 * **Reference**
 
-    * **OSTrack**--Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework. Arxiv, 2022.   <br /> Botao Ye, Hong Chang, Bingpeng Ma, Shiguang Shan.  [[Paper](https://arxiv.org/abs/2203.11991)][[Code](https://github.com/botaoye/OSTrack)]  <br />
+    * **OSTrack**--Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework. Arxiv, 2022.   <br /> Botao Ye, Hong Chang, Bingpeng Ma, Shiguang Shan.  [[Paper](https://arxiv.org/abs/2203.11991)][[Code](https://github.com/botaoye/OSTrack)]  <br /> 
+
+   * **OSTrack**--Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking. Arxiv, 2022.   <br /> Boyu Chen, Peixia Li, Lei Bai, Lei Qiao, Qiuhong Shen, Bo Li, Weihao Gan, Wei Wu, Wanli Ouyang.  [[Paper](https://arxiv.org/abs/2203.05328)][[Code](https://github.com/botaoye/OSTrack)]  <br /> 
 
      * **ToMP**--Transforming Model Prediction for Tracking. CVPR, 2022.  <br /> Christoph Mayer, Martin Danelljan, Goutam Bhat, Matthieu Paul, Danda Pani Paudel, Fisher Yu, Luc Van Gool.  [[Paper](https://arxiv.org/abs/2203.11192)][[Code](https://github.com/visionml/pytracking)]  <br />
 
