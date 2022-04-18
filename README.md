@@ -6,13 +6,9 @@ LaSOT, TrackingNet, GOT-10k, NOTU (NFS, OTB100, TC128, UAV123) and VOT family.  
 
 ## Transformer Tracking Era
 
-**:star:** **Recently, transformer-based trackers ([SwinTrack(Arxiv21)](https://github.com/LitingLin/SwinTrack), 
-[STARK(ICCV21)](https://github.com/researchmm/Stark), 
-[TransT(CVPR21)](https://github.com/chenxin-dlut/TransT), 
-[TrDimp(CVPR21)](https://github.com/594422814/TransformerTrack)) obtain leading results.** 
 
-**:star:** **Visual Object Tracking with Discriminative Filters and Siamese Networks: A Survey and Outlook (https://arxiv.org/abs/2112.02838) 
-A Recent Good Survey on Visual Tracking.** 
+* **Reference**
+
 
 ## Tracking Algorithms before 2022
 
