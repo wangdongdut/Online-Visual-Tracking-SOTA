@@ -6,8 +6,7 @@ LaSOT, TrackingNet, GOT-10k, NOTU (NFS, OTB100, TC128, UAV123) and VOT family.  
 
 ## Transformer Tracking Era
 
-
-* **LaSOT/Got-10k/TrackingNet**
+* **Benchmark Results**
 
 * **Reference**
 
