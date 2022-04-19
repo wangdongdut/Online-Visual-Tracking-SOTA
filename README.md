@@ -32,6 +32,8 @@ LaSOT, TrackingNet, GOT-10k, NOTU (NFS, OTB100, TC128, UAV123) and VOT family.  
 
    * **SwinTrack**--SwinTrack: A Simple and Strong Baseline for Transformer Tracking. Arxiv, 2022.   <br /> Liting Lin, Heng Fan, Yong Xu, Haibin Ling. [[Paper](https://arxiv.org/abs/2112.00995)][[Code](https://github.com/LitingLin/SwinTrack)]  <br /> 
 
+   * **E.T.Track**--Efficient Visual Tracking with Exemplar Transformers. Arxiv, 2022.   <br /> Philippe Blatter, Menelaos Kanakis, Martin Danelljan, Luc Van Gool.  [[Paper](https://arxiv.org/abs/2112.09686)][[Code]()]  <br /> 
+
    * **ToMP**--Transforming Model Prediction for Tracking. CVPR, 2022.  <br /> Christoph Mayer, Martin Danelljan, Goutam Bhat, Matthieu Paul, Danda Pani Paudel, Fisher Yu, Luc Van Gool.  [[Paper](https://arxiv.org/abs/2203.11192)][[Code](https://github.com/visionml/pytracking)]  <br />
 
    * **UTT**--Unified Transformer Tracker for Object Tracking. CVPR, 2022.  <br /> Fan Ma, Mike Zheng Shou, Linchao Zhu, Haoqi Fan, Yilei Xu, Yi Yang, Zhicheng Yan.  [[Paper](https://arxiv.org/abs/2203.15175)][[Code](https://github.com/Flowerfan/Trackron)]  <br />
@@ -42,13 +44,13 @@ LaSOT, TrackingNet, GOT-10k, NOTU (NFS, OTB100, TC128, UAV123) and VOT family.  
      
    * **Stark**--Learning Spatio-Temporal Transformer for Visual Tracking. ICCV, 2021.  <br /> Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Yan_Learning_Spatio-Temporal_Transformer_for_Visual_Tracking_ICCV_2021_paper.html)][[Code](https://github.com/researchmm/Stark)]  <br />
 
-   * **TrDimp**--Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking. CVPR, 2021.  <br />  Ning Wang, Wengang Zhou, Jie Wang, Houqiang Li.   [[Paper](https://arxiv.org/abs/2103.11681)][[Code](https://github.com/594422814/TransformerTrack)] 
+   * **TrDimp**--Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking. CVPR, 2021.  <br />  Ning Wang, Wengang Zhou, Jie Wang, Houqiang Li.   [[Paper](https://arxiv.org/abs/2103.11681)][[Code](https://github.com/594422814/TransformerTrack)]  <br /> 
 
-   * **TransT_H**--Efficient Visual Tracking via Hierarchical Cross-Attention Transformer. Arxiv, 2022.  Xin Chen, Dong Wang, Dongdong Li, Huchuan Lu. [[Paper](https://arxiv.org/abs/2203.13537)][[Code]()]
+   * **TransT_H**--Efficient Visual Tracking via Hierarchical Cross-Attention Transformer. Arxiv, 2022.  Xin Chen, Dong Wang, Dongdong Li, Huchuan Lu. [[Paper](https://arxiv.org/abs/2203.13537)][[Code]()]  <br />
 
-   *  **TransT-M**--High-Performance Transformer Tracking. Arxiv, 2022.  <br /> Xin Chen, Bin Yan, Jiawen Zhu, Dong Wang, Huchuan Lu. [[Paper](https://arxiv.org/abs/2203.13533)][[Code]()]
+   *  **TransT-M**--High-Performance Transformer Tracking. Arxiv, 2022.  <br /> Xin Chen, Bin Yan, Jiawen Zhu, Dong Wang, Huchuan Lu. [[Paper](https://arxiv.org/abs/2203.13533)][[Code]()]  <br />
 
-   * **TransT**--Transformer Tracking. CVPR, 2021.  <br /> Xin Chen, Bin Yan, Jiawen Zhu, Dong Wang, Xiaoyun yang, Huchuan Lu. [[Paper](https://arxiv.org/abs/2103.15436)][[Code](https://github.com/chenxin-dlut/TransT)]
+   * **TransT**--Transformer Tracking. CVPR, 2021.  <br /> Xin Chen, Bin Yan, Jiawen Zhu, Dong Wang, Xiaoyun yang, Huchuan Lu. [[Paper](https://arxiv.org/abs/2103.15436)][[Code](https://github.com/chenxin-dlut/TransT)]  <br />
 
 ## Tracking Algorithms before 2022
 
