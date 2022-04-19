@@ -46,9 +46,8 @@ LaSOT, TrackingNet, GOT-10k, NOTU (NFS, OTB100, TC128, UAV123) and VOT family.  
 
    * **TransT_H**--Efficient Visual Tracking via Hierarchical Cross-Attention Transformer. Arxiv, 2022.  Xin Chen, Dong Wang, Dongdong Li, Huchuan Lu. [[Paper](https://arxiv.org/abs/2203.13537)][[Code]()]
 
-   * **TransT-M**--High-Performance Transformer Tracking. Arxiv, 2022.  <br /> Xin Chen, Bin Yan, Jiawen Zhu, Dong Wang, Huchuan Lu. [[Paper](https://arxiv.org/abs/2203.13533)][[Code]()]
-
    * **TransT**--Transformer Tracking. CVPR, 2021.  <br /> Xin Chen, Bin Yan, Jiawen Zhu, Dong Wang, Xiaoyun yang, Huchuan Lu. [[Paper](https://arxiv.org/abs/2103.15436)][[Code](https://github.com/chenxin-dlut/TransT)]
+          *  **TransT-M**--High-Performance Transformer Tracking. Arxiv, 2022.  <br /> Xin Chen, Bin Yan, Jiawen Zhu, Dong Wang, Huchuan Lu. [[Paper](https://arxiv.org/abs/2203.13533)][[Code]()]
 
 ## Tracking Algorithms before 2022
 
