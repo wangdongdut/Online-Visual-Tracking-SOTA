@@ -15,6 +15,7 @@ LaSOT, TrackingNet, GOT-10k, NOTU (NFS, OTB100, TC128, UAV123) and VOT family.  
      | SwinTrack(-B-384)    |  0.702   |   0.840  |   0.694* | 
      | ToMP(-101)           |  0.685   |   0.815  |   --  |      
      | SBT(-large)          |  0.667   |    --    |  0.704   | 
+     | MixFormer(-large)    |  0.667   |    --    |  0.704   |     
      | Stark(-ST101)        |  0.671   |   0.820  |   0.688 |
      | TransT               |  0.649   |   0.814  |   0.671  | 
      | TrDimp               |  0.639   |   0.784  |   0.671  | 
