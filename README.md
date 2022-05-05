@@ -623,6 +623,8 @@ Heng Fan, Haibin Ling. [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/p
 
 * **Survey & Book:**
 
+    * Single Object Tracking Research: A Survey. Chinese Journal of Computers, 2022. <br />  Ruize Han, Wei Feng, Qing Guo, Qinghua Hu. [[Paper](https://arxiv.org/abs/2204.11410)]
+    
     * Deep Learning for Visual Tracking: A Comprehensive Survey. IEEE TITS, 2021. <br />  Seyed Mojtaba Marvasti-Zadeh, Li Cheng, Hossein Ghanei-Yakhdan, Shohreh Kasaei. 
       [[Paper](https://ieeexplore.ieee.org/document/9339950)]
 
