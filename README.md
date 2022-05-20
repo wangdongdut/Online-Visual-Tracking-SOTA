@@ -35,6 +35,8 @@ LaSOT, TrackingNet, GOT-10k, NOTU (NFS, OTB100, TC128, UAV123) and VOT family.  
 
    * **E.T.Track**--Efficient Visual Tracking with Exemplar Transformers. Arxiv, 2022.   <br /> Philippe Blatter, Menelaos Kanakis, Martin Danelljan, Luc Van Gool.  [[Paper](https://arxiv.org/abs/2112.09686)][[Code]()]  <br /> 
 
+   * **CSWinTT**--Transformer Tracking with Cyclic Shifting Window Attention. CVPR 2022.  <br /> Zikai Song, Junqing Yu, Yi-Ping Phoebe Chen, Wei Yang.  [[Paper](https://arxiv.org/abs/2205.03806)][[Code]()]  <br /> 
+
    * **ToMP**--Transforming Model Prediction for Tracking. CVPR, 2022.  <br /> Christoph Mayer, Martin Danelljan, Goutam Bhat, Matthieu Paul, Danda Pani Paudel, Fisher Yu, Luc Van Gool.  [[Paper](https://arxiv.org/abs/2203.11192)][[Code](https://github.com/visionml/pytracking)]  <br />
 
    * **UTT**--Unified Transformer Tracker for Object Tracking. CVPR, 2022.  <br /> Fan Ma, Mike Zheng Shou, Linchao Zhu, Haoqi Fan, Yilei Xu, Yi Yang, Zhicheng Yan.  [[Paper](https://arxiv.org/abs/2203.15175)][[Code](https://github.com/Flowerfan/Trackron)]  <br />
