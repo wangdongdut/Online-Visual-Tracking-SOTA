@@ -30,7 +30,7 @@ LaSOT, TrackingNet, GOT-10k, NOTU (NFS, OTB100, TC128, UAV123) and VOT family.  
 
    * **OSTrack**--Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework. Arxiv, 2022.   <br /> Botao Ye, Hong Chang, Bingpeng Ma, Shiguang Shan.  [[Paper](https://arxiv.org/abs/2203.11991)][[Code](https://github.com/botaoye/OSTrack)]  <br /> 
 
-   * **SimTrack**--Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking. Arxiv, 2022.   <br /> Boyu Chen, Peixia Li, Lei Bai, Lei Qiao, Qiuhong Shen, Bo Li, Weihao Gan, Wei Wu, Wanli Ouyang.  [[Paper](https://arxiv.org/abs/2203.05328)][[Code](https://github.com/botaoye/OSTrack)]  <br /> 
+   * **SimTrack**--Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking. Arxiv, 2022.   <br /> Boyu Chen, Peixia Li, Lei Bai, Lei Qiao, Qiuhong Shen, Bo Li, Weihao Gan, Wei Wu, Wanli Ouyang.  [[Paper](https://arxiv.org/abs/2203.05328)][[Code]()]  <br /> 
 
    * **SwinTrack**--SwinTrack: A Simple and Strong Baseline for Transformer Tracking. Arxiv, 2022.   <br /> Liting Lin, Heng Fan, Yong Xu, Haibin Ling. [[Paper](https://arxiv.org/abs/2112.00995)][[Code](https://github.com/LitingLin/SwinTrack)]  <br /> 
 
