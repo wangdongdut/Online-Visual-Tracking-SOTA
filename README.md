@@ -13,10 +13,11 @@ LaSOT, TrackingNet, GOT-10k, NOTU (NFS, OTB100, TC128, UAV123) and VOT family.  
      | OSTrack(-384)        |  0.711   |   0.839  |   0.737  |     
      | SimTrack(-L/14)      |  0.705   |   0.834  |   0.698  | 
      | SwinTrack(-B-384)    |  0.702   |   0.840  |   0.694* | 
-     | MixFormer(-L)        |  0.701   |    0.839 |   0.712*   |    
+     | MixFormer(-L)        |  0.701   |   0.839  |   0.712* | 
+     | AiATrack             |  0.690   |   0.827  |   0.696  |     
      | ToMP(-101)           |  0.685   |   0.815  |   --  |      
-     | SBT(-large)          |  0.667   |    --    |   0.704   |       
-     | Stark(-ST101)        |  0.671   |   0.820  |   0.688 |
+     | SBT(-large)          |  0.667   |    --    |   0.704  |       
+     | Stark(-ST101)        |  0.671   |   0.820  |   0.688  |
      | CSWinTT              |  0.662   |   0.819  |   0.694  |
      | TransT               |  0.649   |   0.814  |   0.671  | 
      | TrDimp               |  0.639   |   0.784  |   0.671  | 
@@ -28,9 +29,11 @@ LaSOT, TrackingNet, GOT-10k, NOTU (NFS, OTB100, TC128, UAV123) and VOT family.  
 
 * **Reference**
 
-   * **OSTrack**--Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework. Arxiv, 2022.   <br /> Botao Ye, Hong Chang, Bingpeng Ma, Shiguang Shan.  [[Paper](https://arxiv.org/abs/2203.11991)][[Code](https://github.com/botaoye/OSTrack)]  <br /> 
+   * **OSTrack**--Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework. ECCV, 2022.   <br /> Botao Ye, Hong Chang, Bingpeng Ma, Shiguang Shan.  [[Paper](https://arxiv.org/abs/2203.11991)][[Code](https://github.com/botaoye/OSTrack)]  <br /> 
 
-   * **SimTrack**--Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking. Arxiv, 2022.   <br /> Boyu Chen, Peixia Li, Lei Bai, Lei Qiao, Qiuhong Shen, Bo Li, Weihao Gan, Wei Wu, Wanli Ouyang.  [[Paper](https://arxiv.org/abs/2203.05328)][[Code]()]  <br /> 
+   * **SimTrack**--Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking. ECCV, 2022.   <br /> Boyu Chen, Peixia Li, Lei Bai, Lei Qiao, Qiuhong Shen, Bo Li, Weihao Gan, Wei Wu, Wanli Ouyang.  [[Paper](https://arxiv.org/abs/2203.05328)][[Code]()]  <br /> 
+   
+    * **AiATrack**--AiATrack: Attention in Attention for Transformer Visual Tracking. ECCV, 2022. <br /> Shenyuan Gao, Chunluan Zhou, Chao Ma, Xinggang Wang, Junsong Yuan.  [[Paper](https://arxiv.org/abs/2207.09603)][[Code](https://github.com/Little-Podi/AiATrack)]  <br /> 
 
    * **SwinTrack**--SwinTrack: A Simple and Strong Baseline for Transformer Tracking. Arxiv, 2022.   <br /> Liting Lin, Heng Fan, Yong Xu, Haibin Ling. [[Paper](https://arxiv.org/abs/2112.00995)][[Code](https://github.com/LitingLin/SwinTrack)]  <br /> 
 
